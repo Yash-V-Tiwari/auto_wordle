@@ -31,6 +31,26 @@ class DataProcessing:
                 value += table[char]
         
         return round(value, 3)
+    
+    def penalize_heuristic(self, guess):
+        #table generated from: https://www3.nd.edu/~busiforc/handouts/cryptography/letterfrequencies.html
+        value = 0.0
+        table = {
+            'a' : 43.31, 'b' : 10.56, 'c' : 23.13, 'd' : 17.25,
+            'e' : 56.88, 'f' : 9.24,  'g' : 12.59, 'h' : 15.31,
+            'i' : 38.45, 'j' : 1.001, 'k' : 5.61,  'l' : 27.98,  # 'j' is given a slight advantage over 'q' Both have very small probabilities
+            'm' : 15.36, 'n' : 33.92, 'o' : 36.51, 'p' : 16.14,
+            'q' : 1,     'r' : 38.64, 's' : 29.23, 't' : 35.43,
+            'u' : 18.51, 'v' : 5.13,  'w' : 6.57,  'x' : 1.48,
+            'y' : 9.06,  'z' : 1.39,
+        }
+        for char in guess:
+            if char in table:
+                value += table[char]
+                if guess.count(char) > 1:
+                    value -= (table[char]/2) 
+        
+        return round(value, 3)
 
     # takes in heuristic and data as arg returns tuple list 
     def get_heuristic_list(self, guesses, func):

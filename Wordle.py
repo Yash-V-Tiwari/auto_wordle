@@ -13,6 +13,7 @@ solve = Solver()
 answers, guesses = data.get_data()
 
 heuristic_list = data.get_heuristic_list(guesses=guesses, func=data.default_heuristic)
+penalize_heuristic_list = data.get_heuristic_list(guesses=guesses, func=data.penalize_heuristic)
 
 # Code to go through every entry
 
@@ -20,7 +21,7 @@ file = open('output.txt', 'w')
 
 start_time = time.time()
 for answer in answers:
-    copy = heuristic_list[:]
+    copy = penalize_heuristic_list[:]
     temp = solve.greedy(copy, answer.lower(), "salet")
     file.write(str(temp))
     if len(temp) > 6:
@@ -34,4 +35,4 @@ elapsed_time = end_time - start_time
 
 print("Elapsed time:", elapsed_time, "seconds")
 
-#print(solve.greedy(heuristic_list, "bobby", "salet"))
+#print(solve.greedy(penalize_heuristic_list, "whelp", "salet"))

@@ -1,0 +1,2309 @@
+['salet', 'anana', 'acari', 'abaca', 'aback']
+['salet', 'easer', 'eases', 'sease', 'cease', 'pease', 'mease', 'fease', 'abase'] FAIL
+['salet', 'arete', 'amate', 'agate', 'abate']
+['salet', 'ainee', 'ameer', 'abcee', 'abbed', 'abbey']
+['salet', 'ariot', 'afoot', 'adbot', 'abbot']
+['salet', 'anana', 'acari', 'aurar', 'ardor', 'armor', 'arbor', 'abhor'] FAIL
+['salet', 'areae', 'ainee', 'aiyee', 'amice', 'abide']
+['salet', 'allee', 'aglee', 'allel', 'arled', 'ailed', 'abled'] FAIL
+['salet', 'areae', 'ainee', 'abcee', 'abode']
+['salet', 'ariot', 'aport', 'amort', 'abort']
+['salet', 'ariot', 'afoot', 'ayont', 'adopt', 'about']
+['salet', 'areae', 'ainee', 'abcee', 'abode', 'above']
+['salet', 'easer', 'eases', 'sease', 'caese', 'pease', 'anise', 'abase', 'abuse'] FAIL
+['salet', 'arars', 'anoas', 'acais', 'amass', 'abyss']
+['salet', 'anana', 'anion', 'acorn']
+['salet', 'anana', 'acari', 'acrid']
+['salet', 'taata', 'anata', 'aarti', 'aorta', 'actor']
+['salet', 'arete', 'amate', 'agate', 'abate', 'acute']
+['salet', 'areae', 'ainee', 'abcee', 'adage']
+['salet', 'ariot', 'annat', 'amaut', 'adapt']
+['salet', 'arret', 'anent', 'adept']
+['salet', 'anana', 'anion', 'apian', 'amain', 'admin']
+['salet', 'ariot', 'await', 'audit', 'admit']
+['salet', 'areae', 'ainee', 'abcee', 'abode', 'adobe']
+['salet', 'ariot', 'afoot', 'ayont', 'adopt']
+['salet', 'areae', 'arere', 'adore']
+['salet', 'anana', 'anion', 'acorn', 'adorn']
+['salet', 'alant', 'atilt', 'adult']
+['salet', 'anana', 'acari', 'aidoi', 'agami', 'appui', 'ajiva', 'affix'] FAIL
+['salet', 'areae', 'arere', 'adore', 'aware', 'afire']
+['salet', 'ariot', 'afoot']
+['salet', 'laari', 'annal', 'algal', 'aldol', 'afoul']
+['salet', 'eater', 'rater', 'oater', 'tater', 'cater', 'dater', 'apter', 'after'] FAIL
+['salet', 'anana', 'amain', 'again']
+['salet', 'areae', 'ainee', 'abcee', 'adage', 'agape']
+['salet', 'arete', 'amate', 'agate']
+['salet', 'arret', 'anent', 'ament', 'ahent', 'agent']
+['salet', 'laree', 'anele', 'abele', 'amole', 'agile']
+['salet', 'anana', 'acini', 'amino', 'ahind', 'aping', 'aging'] FAIL
+['salet', 'cilia', 'malar', 'palla', 'halal', 'agloo', 'aglow'] FAIL
+['salet', 'anana', 'acini', 'aguna', 'agony']
+['salet', 'ainee', 'agree']
+['salet', 'areae', 'ahead']
+['salet', 'ainee', 'airer', 'aider']
+['salet', 'eales', 'easel', 'easle', 'aisle']
+['salet', 'laari', 'claro', 'alarm']
+['salet', 'laari', 'annal', 'alaap', 'alamo', 'almah', 'almud', 'algum', 'album'] FAIL
+['salet', 'alert']
+['salet', 'laree', 'anele', 'allee', 'albee', 'aleye', 'algae'] FAIL
+['salet', 'laari', 'aalii', 'aioli', 'alibi']
+['salet', 'laree', 'allee', 'alien']
+['salet', 'laari', 'aalii', 'aioli', 'agila', 'align']
+['salet', 'laree', 'anele', 'allee', 'albee', 'aleye', 'algae', 'alike'] FAIL
+['salet', 'laree', 'anele', 'allee', 'albee', 'aleye', 'algae', 'alike', 'alive'] FAIL
+['salet', 'cilia', 'malar', 'halal', 'allay']
+['salet', 'allee', 'allel', 'alley']
+['salet', 'allot']
+['salet', 'cilia', 'malar', 'palla', 'halal', 'agloo', 'allod', 'alloy', 'allow'] FAIL
+['salet', 'cilia', 'malar', 'palla', 'halal', 'agloo', 'allod', 'alloy'] FAIL
+['salet', 'alant', 'allot', 'aloft']
+['salet', 'laree', 'anele', 'alane', 'aline', 'alone']
+['salet', 'laari', 'annal', 'aland', 'alang', 'along']
+['salet', 'laari', 'annal', 'alaap', 'alamo', 'aloha', 'aloof'] FAIL
+['salet', 'laari', 'annal', 'alaap', 'alamo', 'aloha', 'aloof', 'aloud'] FAIL
+['salet', 'laari', 'annal', 'alaap', 'alapa', 'alpha']
+['salet', 'altar']
+['salet', 'talea', 'alter']
+['salet', 'arars', 'acais', 'amass']
+['salet', 'areae', 'ainee', 'abcee', 'adage', 'amaze']
+['salet', 'ainee', 'ameer', 'amber']
+['salet', 'laree', 'anele', 'abele', 'amble']
+['salet', 'areae', 'amene', 'amend']
+['salet', 'arars', 'anoas', 'acais', 'aidas', 'amias', 'amiss'] FAIL
+['salet', 'taata', 'anata', 'aarti', 'agita', 'akita', 'amity'] FAIL
+['salet', 'anana', 'acini', 'aguna', 'among']
+['salet', 'laree', 'anele', 'abele', 'amole', 'ample']
+['salet', 'laari', 'annal', 'alaap', 'alapa', 'appal', 'alpha', 'ampul', 'amply'] FAIL
+['salet', 'easer', 'eases', 'sease', 'caese', 'pease', 'anise', 'abase', 'amuse'] FAIL
+['salet', 'laree', 'allee', 'alien', 'angel']
+['salet', 'ainee', 'apnea', 'anger']
+['salet', 'laree', 'anele', 'anile', 'anole', 'ancle', 'angle'] FAIL
+['salet', 'anana', 'anion', 'anura', 'angry']
+['salet', 'roast', 'saist', 'canst', 'angst']
+['salet', 'areae', 'ainee', 'amine', 'anime']
+['salet', 'laree', 'anele', 'anile', 'anole', 'ancle', 'angle', 'ankle'] FAIL
+['salet', 'ainee', 'apnea', 'awner', 'acned', 'annex']
+['salet', 'anana', 'anion', 'ancon', 'annoy']
+['salet', 'laari', 'annal', 'annul']
+['salet', 'areae', 'ainee', 'amene', 'agene', 'akene', 'anode'] FAIL
+['salet', 'taata', 'anata', 'antar', 'antic']
+['salet', 'laari', 'aalii', 'aloin', 'algin', 'anvil']
+['salet', 'taata', 'anata', 'aorta']
+['salet', 'ariot', 'apart']
+['salet', 'anana', 'acari', 'aidoi', 'apaid', 'aphid']
+['salet', 'anana', 'acini', 'amino', 'ahind', 'aping']
+['salet', 'ainee', 'apnea']
+['salet', 'laree', 'anele', 'abele', 'amole', 'agile', 'avale', 'addle', 'apple'] FAIL
+['salet', 'laari', 'annal', 'alaap', 'alapa', 'appal', 'apply'] FAIL
+['salet', 'anana', 'anion', 'ancon', 'apron']
+['salet', 'altar', 'altho', 'aptly']
+['salet', 'anana', 'acari', 'aurar', 'ardor', 'armor', 'arbor'] FAIL
+['salet', 'anana', 'acari', 'aurar', 'ardor']
+['salet', 'areae', 'arere', 'arene', 'arena']
+['salet', 'areae', 'arere', 'arene', 'arede', 'arvee', 'arame', 'aruhe', 'argue'] FAIL
+['salet', 'easer', 'erase', 'arise']
+['salet', 'anana', 'acari', 'aurar', 'ardor', 'armor']
+['salet', 'anana', 'araba', 'aroma']
+['salet', 'easer', 'erase', 'arise', 'arose']
+['salet', 'anana', 'acari', 'aurar', 'arrah', 'array']
+['salet', 'anana', 'acari', 'aurar', 'arrah', 'array', 'arrow'] FAIL
+['salet', 'arars', 'arras', 'arias', 'arnas', 'arson']
+['salet', 'rasta', 'ratas', 'artis', 'artsy']
+['salet', 'roast', 'stoat', 'toast', 'assot', 'ascot']
+['salet', 'easer', 'eases', 'aedes', 'akees', 'asses', 'aspen', 'ashen'] FAIL
+['salet', 'easer', 'eases', 'sease', 'caese', 'ansae', 'aside'] FAIL
+['salet', 'easer', 'eases', 'aedes', 'akees', 'askew']
+['salet', 'arars', 'asana', 'assai', 'assam', 'assay']
+['salet', 'asset']
+['salet', 'altar', 'alant', 'atilt', 'atoll']
+['salet', 'arete', 'antae', 'atone']
+['salet', 'taata', 'anata', 'aarti', 'attic']
+['salet', 'anana', 'acari', 'aidoi', 'audio']
+['salet', 'ariot', 'await', 'audit']
+['salet', 'anana', 'acari', 'aurar', 'augur']
+['salet', 'taata', 'anata', 'aunty']
+['salet', 'laari', 'liana', 'biali', 'avail']
+['salet', 'arret', 'arett', 'apert', 'avert']
+['salet', 'anana', 'anion', 'apian', 'avian']
+['salet', 'anana', 'acari', 'aidoi', 'audio', 'addio', 'avoid'] FAIL
+['salet', 'ariot', 'await']
+['salet', 'areae', 'ainee', 'abcee', 'adage', 'amaze', 'awake'] FAIL
+['salet', 'anana', 'acari', 'afara', 'award']
+['salet', 'areae', 'arere', 'adore', 'aware']
+['salet', 'arars', 'asana', 'acais', 'amass', 'abash', 'awash'] FAIL
+['salet', 'laari', 'annal', 'algal', 'aldol', 'appal', 'allyl', 'ahull', 'awful'] FAIL
+['salet', 'areae', 'ainee', 'abcee', 'adage', 'aquae', 'amaze', 'awake', 'awoke'] FAIL
+['salet', 'laari', 'aalii', 'aioli', 'agila', 'aliya', 'alibi', 'axial'] FAIL
+['salet', 'anana', 'acari', 'aidoi', 'axiom']
+['salet', 'anana', 'anion', 'avion', 'axion']
+['salet', 'areae', 'arere', 'adore', 'aware', 'afire', 'aygre', 'azure'] FAIL
+['salet', 'anana', 'naira', 'nanna', 'canna', 'canon', 'capon', 'macon', 'bacon'] FAIL
+['salet', 'narre', 'cadie', 'madge', 'gadge', 'badge']
+['salet', 'laari', 'nalla', 'calla', 'paolo', 'walla', 'dally', 'madly', 'badly'] FAIL
+['salet', 'laree', 'ealed', 'palea', 'galea', 'bagel']
+['salet', 'anana', 'radar', 'cacao', 'kaama', 'baiza', 'baggy'] FAIL
+['salet', 'eerie', 'raree', 'ranee', 'rarer', 'eager', 'carer', 'darer', 'parer', 'barer', 'bayer', 'baker'] FAIL
+['salet', 'eerie', 'paler', 'haler', 'baler']
+['salet', 'anana', 'aalii', 'malar', 'malam', 'halma', 'calmy', 'palmy', 'malmy', 'balmy'] FAIL
+['salet', 'laari', 'nalla', 'canal', 'banal']
+['salet', 'anana', 'naira', 'nanna', 'canna', 'nanua', 'manna', 'wanna', 'fanon', 'panko', 'banjo'] FAIL
+['salet', 'narre', 'parae', 'marae', 'darre', 'garre', 'barge'] FAIL
+['salet', 'anana', 'naira', 'caron', 'maron', 'baron']
+['salet', 'saola', 'lanas', 'salal', 'basal']
+['salet', 'raias', 'oasis', 'sasin', 'basis', 'basic']
+['salet', 'saola', 'lanas', 'lairs', 'lassi', 'basil']
+['salet', 'raias', 'oasis', 'sasin', 'basin']
+['salet', 'raias', 'oasis', 'basis']
+['salet', 'earst', 'taste', 'caste', 'paste', 'haste', 'baste'] FAIL
+['salet', 'taata', 'aarti', 'tanna', 'tatou', 'batta', 'batty', 'batch'] FAIL
+['salet', 'eater', 'eaten', 'tatie', 'eathe', 'bathe']
+['salet', 'taata', 'aarti', 'tanna', 'tanto', 'canto', 'tauon', 'baton'] FAIL
+['salet', 'taata', 'aarti', 'tanto', 'batta', 'battu', 'batty'] FAIL
+['salet', 'anana', 'radar', 'kadai', 'cauda', 'daddy', 'paddy', 'baddy', 'bawdy'] FAIL
+['salet', 'anana', 'radar', 'cacao', 'haoma', 'baboo', 'bazoo', 'bayou'] FAIL
+['salet', 'areae', 'ainee', 'cadee', 'peace', 'beach']
+['salet', 'areae', 'ainee', 'cadee', 'adeem', 'deave', 'heady', 'beady'] FAIL
+['salet', 'areae', 'arere', 'deare', 'dearn', 'heard', 'beard'] FAIL
+['salet', 'earst', 'heast', 'beast']
+['salet', 'eerie', 'peece', 'beech']
+['salet', 'eerie', 'peece', 'neeze', 'deeve', 'weeke', 'beefy'] FAIL
+['salet', 'erect', 'denet', 'eejit', 'petit', 'tewit', 'befit'] FAIL
+['salet', 'areae', 'venae', 'decan', 'began']
+['salet', 'arret', 'anent', 'tacet', 'exeat', 'bepat', 'begat'] FAIL
+['salet', 'eerie', 'tenet', 'beget']
+['salet', 'eerie', 'penie', 'genie', 'genii', 'genic', 'begin'] FAIL
+['salet', 'eerie', 'peece', 'eeven', 'heben', 'begun']
+['salet', 'eerie', 'penie', 'genie', 'genii', 'genic', 'deign', 'neigh', 'being'] FAIL
+['salet', 'relie', 'belle', 'belon', 'belch']
+['salet', 'relie', 'belie']
+['salet', 'relie', 'belle']
+['salet', 'relie', 'belle', 'belly']
+['salet', 'relie', 'belle', 'belon', 'below']
+['salet', 'eerie', 'peece', 'hence', 'dench', 'hench', 'bench'] FAIL
+['salet', 'eerie', 'beret']
+['salet', 'eerie', 'cerne', 'merer', 'ferer', 'derro', 'perry', 'herry', 'berry'] FAIL
+['salet', 'teene', 'retie', 'terce', 'beret', 'berth']
+['salet', 'reset', 'beset']
+['salet', 'liter', 'betel']
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'bedel', 'bevel'] FAIL
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'bedel', 'bevel', 'bezel'] FAIL
+['salet', 'neele', 'edile', 'rille', 'mille', 'fille', 'bible'] FAIL
+['salet', 'eerie', 'inned', 'mimeo', 'kibei', 'bicep']
+['salet', 'ronin', 'cippi', 'bifid', 'biddy']
+['salet', 'trior', 'idiot', 'pitot', 'gigot', 'bigot']
+['salet', 'relie', 'belie', 'bilge']
+['salet', 'ronin', 'dilli', 'villi', 'hilly', 'gilly', 'billy'] FAIL
+['salet', 'eerie', 'niece', 'diene', 'eigne', 'minge', 'hinge', 'ginge', 'binge'] FAIL
+['salet', 'ronin', 'ninon', 'pinon', 'dingo', 'bingo']
+['salet', 'eerie', 'niece', 'mieve', 'biome']
+['salet', 'ronin', 'cirri', 'birch']
+['salet', 'trior', 'rutin', 'britt', 'birth']
+['salet', 'orris', 'nonis', 'cions', 'dinos', 'minos', 'bison'] FAIL
+['salet', 'trior', 'innit', 'tutti', 'titty', 'ditty', 'bitty'] FAIL
+['salet', 'laari', 'coala', 'alack', 'clack', 'plack', 'black'] FAIL
+['salet', 'laree', 'anele', 'allee', 'albee', 'blade']
+['salet', 'laree', 'anele', 'allee', 'albee', 'blade', 'blame'] FAIL
+['salet', 'laari', 'coala', 'alaap', 'aland', 'gland', 'bland'] FAIL
+['salet', 'laari', 'coala', 'alaap', 'aland', 'alang', 'blank'] FAIL
+['salet', 'laree', 'leare', 'glare', 'blare']
+['salet', 'slart', 'slant', 'clast', 'plast', 'blast']
+['salet', 'laree', 'anele', 'allee', 'albee', 'blade', 'blame', 'blaze'] FAIL
+['salet', 'laree', 'anele', 'abele', 'gleba', 'bleak']
+['salet', 'alert', 'cleat', 'pleat', 'bleat']
+['salet', 'elpee', 'elder', 'olden', 'gleed', 'bleed']
+['salet', 'elpee', 'cleep', 'bleep']
+['salet', 'neele', 'olein', 'blend']
+['salet', 'leese', 'loess', 'bless']
+['salet', 'linin', 'loric', 'filii', 'dilli', 'ilium', 'blimp'] FAIL
+['salet', 'linin', 'colin', 'lipin', 'nihil', 'blini', 'blind'] FAIL
+['salet', 'linin', 'colin', 'lipin', 'nihil', 'blini', 'blind', 'bling', 'bliny', 'blink'] FAIL
+['salet', 'loirs', 'slips', 'slims', 'blins', 'bliss']
+['salet', 'lirot', 'intil', 'licit', 'limit', 'tilth', 'flitt', 'glitz', 'blitz'] FAIL
+['salet', 'alant', 'allot', 'ploat', 'gloat', 'bloat']
+['salet', 'linin', 'color', 'cloop', 'cloud', 'clock', 'block'] FAIL
+['salet', 'neele', 'relie', 'elpee', 'eloge', 'cloye', 'bloke'] FAIL
+['salet', 'linin', 'colon', 'holon', 'logon', 'loony', 'blond'] FAIL
+['salet', 'linin', 'color', 'gloop', 'blood']
+['salet', 'linin', 'color', 'gloop', 'blood', 'bloom']
+['salet', 'linin', 'colon', 'holon', 'logon', 'nylon', 'blown'] FAIL
+['salet', 'elpee', 'elder', 'iller', 'fleer', 'oller', 'elver', 'ulcer', 'gluer', 'bluer'] FAIL
+['salet', 'linin', 'color', 'dully', 'plump', 'bluff']
+['salet', 'lirot', 'blunt']
+['salet', 'linin', 'color', 'grrrl', 'flurr', 'blurb']
+['salet', 'lirot', 'blurt']
+['salet', 'loirs', 'nulls', 'lulls', 'sculs', 'slums', 'slush', 'plush', 'blush'] FAIL
+['salet', 'anana', 'acari', 'afara', 'roary', 'hoard', 'board'] FAIL
+['salet', 'roast', 'toast', 'coast', 'hoast', 'boast']
+['salet', 'ronin', 'cocco', 'oomph', 'doody', 'boogy', 'booby', 'bobby'] FAIL
+['salet', 'eerie', 'cooee', 'donee', 'poney', 'money', 'honey', 'boney'] FAIL
+['salet', 'ronin', 'nonny', 'condo', 'pongo', 'mongo', 'bongo'] FAIL
+['salet', 'orris', 'noons', 'coons', 'noops', 'nouns', 'nodus', 'bonus'] FAIL
+['salet', 'ronin', 'cocco', 'oomph', 'doody', 'boogy', 'booby'] FAIL
+['salet', 'roist', 'coost', 'boost']
+['salet', 'trior', 'conto', 'potto', 'motto', 'tooth', 'booth'] FAIL
+['salet', 'trior', 'conto', 'potto', 'motto', 'tooth', 'booty'] FAIL
+['salet', 'eerie', 'cooee', 'poove', 'booze']
+['salet', 'ronin', 'cocco', 'oomph', 'doody', 'boogy', 'booby', 'boofy', 'booky', 'boozy'] FAIL
+['salet', 'anana', 'acari', 'aurar', 'arrah', 'array', 'adrad', 'abram', 'borak', 'borax'] FAIL
+['salet', 'eerie', 'cerne', 'gerne', 'kerne', 'morne', 'borne'] FAIL
+['salet', 'orris', 'noons', 'cocos', 'dodos', 'pomos', 'homos', 'bosom'] FAIL
+['salet', 'orris', 'noons', 'cocos', 'soops', 'mosso', 'bossy'] FAIL
+['salet', 'trior', 'conto', 'coopt', 'couth', 'hotch', 'gotch', 'botch'] FAIL
+['salet', 'ronin', 'cocco', 'oomph', 'dough', 'hough', 'bough'] FAIL
+['salet', 'neele', 'edile', 'merle', 'belle', 'boule']
+['salet', 'ronin', 'nonny', 'moong', 'pound', 'hound', 'bound'] FAIL
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'borel', 'bowel'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'breer', 'borer', 'bower', 'boxer'] FAIL
+['salet', 'areae', 'arere', 'arene', 'arede', 'arvee', 'crare', 'crape', 'crame', 'grace', 'brace'] FAIL
+['salet', 'anana', 'acari', 'urari', 'braai', 'braid']
+['salet', 'anana', 'ruana', 'prana', 'grana', 'drain', 'brain'] FAIL
+['salet', 'areae', 'arere', 'arene', 'arede', 'arvee', 'crare', 'arame', 'urare', 'grape', 'brake'] FAIL
+['salet', 'anana', 'ruana', 'prana', 'grana', 'franc', 'brand'] FAIL
+['salet', 'arars', 'crans', 'uraos', 'araks', 'grass', 'brass', 'brash'] FAIL
+['salet', 'arars', 'crans', 'uraos', 'araks', 'grass', 'brass'] FAIL
+['salet', 'areae', 'arere', 'arene', 'arede', 'arvee', 'crave', 'grave', 'brave'] FAIL
+['salet', 'anana', 'acari', 'araba', 'brava', 'bravo']
+['salet', 'laari', 'craal', 'graal', 'kraal', 'drawl', 'brawl'] FAIL
+['salet', 'anana', 'ruana', 'prana', 'grana', 'drain', 'brawn'] FAIL
+['salet', 'areae', 'arear', 'aread', 'oread', 'dread', 'bread'] FAIL
+['salet', 'areae', 'arear', 'aread', 'cream', 'break']
+['salet', 'eerie', 'emeer', 'dreer', 'creed', 'dreed', 'preed', 'greed', 'breed'] FAIL
+['salet', 'anana', 'acari', 'maria', 'urari', 'ardri', 'braai', 'briar'] FAIL
+['salet', 'eerie', 'rorie', 'hiree', 'regie', 'fiere', 'eyrie', 'reive', 'crine', 'pride', 'bribe'] FAIL
+['salet', 'ronin', 'cirri', 'ridic', 'chirr', 'crimp', 'crick', 'brick'] FAIL
+['salet', 'eerie', 'rorie', 'hiree', 'regie', 'fiere', 'eyrie', 'reive', 'crine', 'pride', 'bride'] FAIL
+['salet', 'eerie', 'eider', 'hiree', 'inner', 'crier', 'prier', 'brier', 'brief'] FAIL
+['salet', 'eerie', 'rorie', 'hiree', 'regie', 'fiere', 'eyrie', 'reive', 'crine', 'urine', 'brine'] FAIL
+['salet', 'ronin', 'ricin', 'indri', 'mirin', 'inrun', 'iring', 'bring'] FAIL
+['salet', 'ronin', 'ricin', 'indri', 'mirin', 'inrun', 'iring', 'prink', 'brink'] FAIL
+['salet', 'ronin', 'ricin', 'indri', 'mirin', 'inrun', 'iring', 'prink', 'briny'] FAIL
+['salet', 'orris', 'irids', 'grins', 'priss', 'briss', 'brisk'] FAIL
+['salet', 'anana', 'acari', 'aurar', 'radar', 'adrad', 'dorad', 'broad'] FAIL
+['salet', 'linin', 'loric', 'droil', 'broil']
+['salet', 'eerie', 'deere', 'renne', 'reeve', 'brere', 'breme', 'broke'] FAIL
+['salet', 'ronin', 'morro', 'cruor', 'droop', 'droog', 'brood'] FAIL
+['salet', 'ronin', 'morro', 'cruor', 'droop', 'groof', 'brook'] FAIL
+['salet', 'ronin', 'morro', 'rumor', 'groom', 'broom']
+['salet', 'trior', 'tronc', 'trout', 'proto', 'troth', 'broth'] FAIL
+['salet', 'ronin', 'croon', 'frorn', 'kroon', 'proyn', 'drown', 'grown', 'brown'] FAIL
+['salet', 'trior', 'prunt', 'grunt', 'brunt']
+['salet', 'orris', 'cruds', 'brush']
+['salet', 'teene', 'retie', 'terce', 'petre', 'metre', 'there', 'rotte', 'brute'] FAIL
+['salet', 'ronin', 'yucch', 'duddy', 'puddy', 'muddy', 'buddy'] FAIL
+['salet', 'eerie', 'cooee', 'neeze', 'peepe', 'deeve', 'hedge', 'wedge', 'kedge', 'mudge', 'budge'] FAIL
+['salet', 'ronin', 'yucch', 'duddy', 'puppy', 'mummy', 'buggy'] FAIL
+['salet', 'neele', 'edile', 'merle', 'belle', 'boule', 'bugle'] FAIL
+['salet', 'linin', 'loric', 'filii', 'dilli', 'dilly', 'guild', 'build'] FAIL
+['salet', 'lirot', 'licit', 'limit', 'unlit', 'uplit', 'guilt', 'built'] FAIL
+['salet', 'relie', 'belle', 'bulge']
+['salet', 'ronin', 'culch', 'dully', 'pulpy', 'bulgy', 'bulky'] FAIL
+['salet', 'ronin', 'culch', 'dully', 'pully', 'gully', 'bully'] FAIL
+['salet', 'ronin', 'nunny', 'dunch', 'punch', 'munch', 'hunch', 'bunch'] FAIL
+['salet', 'ronin', 'nunny', 'dunny', 'punny', 'gunny', 'bunny'] FAIL
+['salet', 'linin', 'color', 'grrrl', 'lurry', 'murly', 'hurly', 'burly'] FAIL
+['salet', 'trior', 'turnt', 'burnt']
+['salet', 'roist', 'trust', 'crust', 'durst', 'hurst', 'burst'] FAIL
+['salet', 'resee', 'besee', 'beses', 'bises', 'buses', 'bused'] FAIL
+['salet', 'orris', 'snush', 'smush', 'shush', 'sughs', 'sukhs', 'cushy', 'pushy', 'hushy', 'bushy'] FAIL
+['salet', 'trior', 'tutty', 'butut', 'butch']
+['salet', 'teene', 'retie', 'tutee', 'butte']
+['salet', 'ronin', 'choco', 'duomo', 'yummo', 'gumbo', 'bumbo', 'buxom'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'breer', 'borer', 'bever', 'buyer'] FAIL
+['salet', 'cilia', 'malar', 'halal', 'allay', 'onlay', 'palay', 'bylaw'] FAIL
+['salet', 'laari', 'nalla', 'calla', 'calpa', 'cabal']
+['salet', 'anana', 'radar', 'cacao', 'campi', 'cacky', 'cabby'] FAIL
+['salet', 'anana', 'naira', 'naiad', 'mania', 'bania', 'cabin'] FAIL
+['salet', 'laree', 'eagle', 'maile', 'haole', 'dalle', 'wanle', 'caple', 'cable'] FAIL
+['salet', 'anana', 'radar', 'cacao']
+['salet', 'narre', 'cadie', 'cache']
+['salet', 'taata', 'aarti', 'tanti', 'cacti']
+['salet', 'anana', 'radar', 'kadai', 'dadah', 'padma', 'gadjo', 'caddy'] FAIL
+['salet', 'eerie', 'tacet', 'cadet']
+['salet', 'eerie', 'eaned', 'mamee', 'payee', 'cagey']
+['salet', 'anana', 'naira', 'cairn']
+['salet', 'laree', 'ealed', 'palea', 'galea', 'navel', 'label', 'camel'] FAIL
+['salet', 'eerie', 'eaned', 'mamee', 'cameo']
+['salet', 'laari', 'nalla', 'canal']
+['salet', 'anana', 'naira', 'nanna', 'canna', 'canon', 'canny', 'candy'] FAIL
+['salet', 'anana', 'nanna', 'canna', 'canny']
+['salet', 'narre', 'naeve', 'canoe']
+['salet', 'anana', 'naira', 'nanna', 'canna', 'canon']
+['salet', 'eerie', 'raree', 'ranee', 'rarer', 'eager', 'carer', 'caper'] FAIL
+['salet', 'taata', 'tarot', 'taint', 'caput']
+['salet', 'taata', 'tarot', 'carat']
+['salet', 'anana', 'radar', 'parra', 'marra', 'barra', 'varia', 'farro', 'karoo', 'cargo'] FAIL
+['salet', 'laari', 'laura', 'carol']
+['salet', 'anana', 'radar', 'parra', 'marra', 'barra', 'farro', 'karri', 'carry'] FAIL
+['salet', 'narre', 'parae', 'marae', 'darre', 'garre', 'barre', 'warre', 'farce', 'carve'] FAIL
+['salet', 'earst', 'taste', 'caste']
+['salet', 'taata', 'aarti', 'tanna', 'tatou', 'batta', 'tatty', 'hatha', 'catch'] FAIL
+['salet', 'eater', 'rater', 'oater', 'tater', 'cater']
+['salet', 'taata', 'aarti', 'tanto', 'batta', 'tatty', 'catty'] FAIL
+['salet', 'laari', 'nalla', 'calla', 'cauld', 'caulk']
+['salet', 'easer', 'eases', 'caese', 'cause']
+['salet', 'laari', 'aalii', 'lamia', 'labia', 'lapin', 'calid', 'calif', 'cavil'] FAIL
+['salet', 'easer', 'eases', 'sease', 'cease']
+['salet', 'areae', 'arear', 'anear', 'drear', 'cedar']
+['salet', 'relie', 'belle', 'cello']
+['salet', 'areae', 'ainee', 'cadee', 'ceaze', 'chace', 'chape', 'chafe'] FAIL
+['salet', 'anana', 'acari', 'abaca', 'chaco', 'chaya', 'champ', 'chack', 'chaff'] FAIL
+['salet', 'anana', 'ruana', 'amain', 'again', 'chain']
+['salet', 'anana', 'acari', 'craic', 'chair']
+['salet', 'laari', 'coala', 'chalk']
+['salet', 'anana', 'acari', 'abaca', 'chaco', 'chaya', 'champ'] FAIL
+['salet', 'ariot', 'annat', 'manat', 'taunt', 'avant', 'chant'] FAIL
+['salet', 'arars', 'naans', 'acais', 'abacs', 'chaos']
+['salet', 'anana', 'acari', 'chara', 'charr', 'chard']
+['salet', 'anana', 'acari', 'chara', 'charr', 'chard', 'charm'] FAIL
+['salet', 'ariot', 'tratt', 'trant', 'apart', 'tuart', 'chart'] FAIL
+['salet', 'easer', 'eases', 'sease', 'cease', 'chase']
+['salet', 'arars', 'asana', 'acais', 'scapa', 'abacs', 'chaos', 'chads', 'chams', 'chasm'] FAIL
+['salet', 'areae', 'zoeae', 'paean', 'aheap', 'cheap']
+['salet', 'arret', 'anent', 'exeat', 'cheat']
+['salet', 'eerie', 'cooee', 'ceded', 'cheep', 'cheek', 'check'] FAIL
+['salet', 'eerie', 'cooee', 'ceded', 'cheep', 'cheek']
+['salet', 'eerie', 'emeer', 'dreer', 'breer', 'freer', 'cheer'] FAIL
+['salet', 'resee', 'neese', 'geese', 'feese', 'obese', 'phese', 'chess'] FAIL
+['salet', 'reest', 'egest', 'ewest', 'doest', 'fiest', 'chest'] FAIL
+['salet', 'ronin', 'cippi', 'civic', 'chich', 'chick']
+['salet', 'eerie', 'niece', 'deice', 'chide']
+['salet', 'eerie', 'inned', 'mimeo', 'kibei', 'chief']
+['salet', 'linin', 'loric', 'chili', 'chill', 'child']
+['salet', 'linin', 'loric', 'chili']
+['salet', 'linin', 'loric', 'chili', 'chill']
+['salet', 'eerie', 'niece', 'deice', 'voice', 'chime']
+['salet', 'anana', 'nanna', 'ruana', 'canna', 'chana', 'china'] FAIL
+['salet', 'ronin', 'cirri', 'chirr', 'chiru', 'chirp']
+['salet', 'ronin', 'choco', 'chock']
+['salet', 'ronin', 'curio', 'choir']
+['salet', 'eerie', 'cooee', 'cooze', 'chode', 'choke']
+['salet', 'ronin', 'morro', 'zorro', 'hoord', 'chord']
+['salet', 'eerie', 'deere', 'enure', 'brere', 'frere', 'crore', 'chore'] FAIL
+['salet', 'resee', 'neese', 'geese', 'seise', 'feese', 'cesse', 'copse', 'chose'] FAIL
+['salet', 'ronin', 'yucch', 'chuck']
+['salet', 'ronin', 'yucch', 'chump']
+['salet', 'ronin', 'nunny', 'chunk']
+['salet', 'ronin', 'churn']
+['salet', 'teene', 'retie', 'tepee', 'etwee', 'tutee', 'etude', 'chute'] FAIL
+['salet', 'eerie', 'eider', 'rider', 'cider']
+['salet', 'anana', 'acari', 'coria', 'circa', 'cimar', 'cigar'] FAIL
+['salet', 'ronin', 'dinic', 'vinic', 'cinch']
+['salet', 'anana', 'coria', 'circa']
+['salet', 'ronin', 'cippi', 'civic']
+['salet', 'linin', 'filii', 'lipid', 'civil']
+['salet', 'laari', 'coala', 'clang', 'clach', 'clack']
+['salet', 'laari', 'liana', 'biali', 'avail', 'claim']
+['salet', 'laari', 'coala', 'clang', 'clach', 'clamp']
+['salet', 'laari', 'coala', 'clang']
+['salet', 'laari', 'coala', 'clang', 'clank']
+['salet', 'alias', 'alans', 'alaps', 'alays', 'class', 'clash'] FAIL
+['salet', 'alias', 'alans', 'alaps', 'plaas', 'slaps', 'claps', 'clasp'] FAIL
+['salet', 'alias', 'alans', 'alaps', 'alays', 'class']
+['salet', 'laree', 'anele', 'clean']
+['salet', 'laree', 'leare', 'leear', 'clear']
+['salet', 'alert', 'cleat']
+['salet', 'elect', 'clept', 'cleft']
+['salet', 'neele', 'creel', 'clerk']
+['salet', 'linin', 'loric', 'chili', 'click']
+['salet', 'linin', 'loric', 'chili', 'click', 'climb', 'cliff'] FAIL
+['salet', 'linin', 'loric', 'chili', 'click', 'climb']
+['salet', 'linin', 'colin', 'cling']
+['salet', 'linin', 'colin', 'cling', 'clink']
+['salet', 'laari', 'annal', 'alaap', 'algal', 'allay', 'cloam', 'cloak'] FAIL
+['salet', 'linin', 'color', 'cloop', 'cloud', 'clock']
+['salet', 'neele', 'leone', 'clone']
+['salet', 'leese', 'lense', 'loose', 'close']
+['salet', 'lirot', 'lotto', 'molto', 'cloth']
+['salet', 'linin', 'color', 'cloop', 'cloud']
+['salet', 'lirot', 'cloot', 'clout']
+['salet', 'neele', 'relie', 'elpee', 'eloge', 'cloye', 'cloke', 'clove'] FAIL
+['salet', 'linin', 'colon', 'clown']
+['salet', 'linin', 'color', 'culch', 'cluck']
+['salet', 'elpee', 'elder', 'olden', 'gleed', 'bleed', 'elfed', 'clied', 'clued'] FAIL
+['salet', 'linin', 'color', 'culch', 'cully', 'clump']
+['salet', 'linin', 'colon', 'clung']
+['salet', 'anana', 'acari', 'abaca', 'chaco', 'coach']
+['salet', 'roast', 'toast', 'coast']
+['salet', 'anana', 'coria', 'copra', 'cobra']
+['salet', 'anana', 'coria', 'cocoa']
+['salet', 'ronin', 'colon']
+['salet', 'ronin', 'color']
+['salet', 'eerie', 'tenet', 'tweet', 'octet', 'comet']
+['salet', 'ronin', 'cocco', 'cooch', 'compo', 'commo', 'combo', 'commy', 'comfy'] FAIL
+['salet', 'ronin', 'iodic', 'comic']
+['salet', 'anana', 'coria', 'cocoa', 'comma']
+['salet', 'ronin', 'nonny', 'condo', 'congo', 'convo', 'conch'] FAIL
+['salet', 'ronin', 'nonny', 'condo']
+['salet', 'ronin', 'ionic', 'conic']
+['salet', 'resee', 'neese', 'geese', 'seise', 'feese', 'cesse', 'copse'] FAIL
+['salet', 'laari', 'roral', 'loral', 'coral']
+['salet', 'eerie', 'erred', 'merer', 'ferer', 'corer']
+['salet', 'ronin', 'corno', 'cornu', 'corny']
+['salet', 'ronin', 'cocco', 'cooch', 'couch']
+['salet', 'ronin', 'cocco', 'cooch', 'couch', 'cough']
+['salet', 'linin', 'color', 'colog', 'cooly', 'could']
+['salet', 'trior', 'coopt', 'count']
+['salet', 'eerie', 'cooee', 'conne', 'cohoe', 'cooze', 'coude', 'coupe'] FAIL
+['salet', 'trior', 'torot', 'poort', 'court']
+['salet', 'eerie', 'cooee', 'cooed', 'copen', 'cohen', 'coven'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'breer', 'ferer', 'corer', 'cooer', 'coyer', 'cower', 'cover'] FAIL
+['salet', 'eerie', 'tenet', 'tweet', 'octet', 'comet', 'covet'] FAIL
+['salet', 'eerie', 'cooee', 'cooed', 'copen', 'cooey', 'covey'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'breer', 'ferer', 'corer', 'cooer', 'coyer', 'cower'] FAIL
+['salet', 'linin', 'color', 'colog', 'cooly', 'colly', 'coyly'] FAIL
+['salet', 'anana', 'acari', 'chara', 'coarb', 'cramp', 'crack'] FAIL
+['salet', 'ariot', 'tratt', 'trant', 'tract', 'bract', 'craft'] FAIL
+['salet', 'anana', 'acari', 'chara', 'coarb', 'cramp']
+['salet', 'areae', 'arere', 'arene', 'crane']
+['salet', 'anana', 'ruana', 'prana', 'grana', 'franc', 'crank'] FAIL
+['salet', 'arars', 'crans', 'crass', 'crash']
+['salet', 'arars', 'crans', 'crass']
+['salet', 'arete', 'irate', 'orate', 'crate']
+['salet', 'areae', 'arere', 'arene', 'arede', 'arvee', 'crave'] FAIL
+['salet', 'laari', 'craal', 'crawl']
+['salet', 'areae', 'arere', 'arene', 'arede', 'arvee', 'crare', 'crape', 'crame', 'crake', 'craze'] FAIL
+['salet', 'anana', 'acari', 'chara', 'coarb', 'cramp', 'crack', 'crazy'] FAIL
+['salet', 'areae', 'arear', 'aread', 'cream', 'creak']
+['salet', 'areae', 'arear', 'aread', 'cream']
+['salet', 'eerie', 'deere', 'reede', 'brede', 'credo']
+['salet', 'eerie', 'emeer', 'dreer', 'creed']
+['salet', 'eerie', 'emeer', 'dreer', 'preen', 'breer', 'freer', 'creek'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'preen', 'creep']
+['salet', 'eerie', 'deere', 'reeve', 'brere', 'frere', 'crepe', 'creme'] FAIL
+['salet', 'eerie', 'deere', 'reeve', 'brere', 'frere', 'crepe'] FAIL
+['salet', 'erect', 'crept']
+['salet', 'resee', 'serer', 'serre', 'siree', 'erose', 'prese', 'grese', 'cress'] FAIL
+['salet', 'reest', 'trest', 'crest']
+['salet', 'ronin', 'cirri', 'chirr', 'crimp', 'crick']
+['salet', 'eerie', 'eider', 'direr', 'drier', 'cried']
+['salet', 'eerie', 'eider', 'inner', 'crier']
+['salet', 'eerie', 'rorie', 'hiree', 'regie', 'fiere', 'eyrie', 'reive', 'crine', 'cripe', 'crime'] FAIL
+['salet', 'ronin', 'cirri', 'chirr', 'crimp']
+['salet', 'orris', 'irids', 'grins', 'priss', 'crisp']
+['salet', 'anana', 'acari', 'carap', 'coram', 'croak']
+['salet', 'ronin', 'morro', 'cruor', 'crook', 'crock']
+['salet', 'eerie', 'deere', 'renne', 'cerne', 'crone']
+['salet', 'ronin', 'corno', 'cornu', 'corny', 'crony']
+['salet', 'ronin', 'morro', 'cruor', 'crook']
+['salet', 'orris', 'crons', 'cross']
+['salet', 'ronin', 'morro', 'cruor', 'crudo', 'croup']
+['salet', 'ronin', 'morro', 'cruor', 'crook', 'crowd']
+['salet', 'ronin', 'croon', 'crown']
+['salet', 'eerie', 'deere', 'reede', 'erode', 'brede', 'crude'] FAIL
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'creel', 'cruel'] FAIL
+['salet', 'ronin', 'churr', 'crump', 'crumb']
+['salet', 'ronin', 'churr', 'crump']
+['salet', 'orris', 'cruds', 'crush']
+['salet', 'roist', 'trust', 'crust']
+['salet', 'trior', 'prunt', 'crypt']
+['salet', 'ronin', 'cippi', 'civic', 'cubic']
+['salet', 'ronin', 'ficin', 'cumin']
+['salet', 'ronin', 'curio']
+['salet', 'linin', 'color', 'churl', 'curly']
+['salet', 'ronin', 'churr', 'curry']
+['salet', 'resee', 'serre', 'siree', 'soree', 'scree', 'curse'] FAIL
+['salet', 'eerie', 'cerne', 'cerge', 'corbe', 'curve']
+['salet', 'ronin', 'churr', 'curry', 'curdy', 'curvy']
+['salet', 'teene', 'retie', 'yitie', 'cutie']
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'breer', 'borer', 'weber', 'cuber', 'cyber'] FAIL
+['salet', 'neele', 'edile', 'merle', 'belle', 'poule', 'cycle'] FAIL
+['salet', 'ronin', 'dinic', 'vinic', 'cynic']
+['salet', 'anana', 'radar', 'kadai', 'dadah', 'daddy']
+['salet', 'laari', 'aalii', 'lanai', 'lamia', 'labia', 'paoli', 'daily'] FAIL
+['salet', 'anana', 'radar', 'raird', 'caird', 'dairy']
+['salet', 'raias', 'sains', 'paisa', 'baisa', 'daisy']
+['salet', 'anana', 'aalii', 'malar', 'calla', 'palla', 'hallo', 'walla', 'dally'] FAIL
+['salet', 'narre', 'naeve', 'canoe', 'nance', 'dance']
+['salet', 'anana', 'naira', 'nanna', 'canna', 'nanua', 'manna', 'wanna', 'fanon', 'nanny', 'danny', 'dandy'] FAIL
+['salet', 'taata', 'aarti', 'tanna', 'tatou', 'battu', 'datum'] FAIL
+['salet', 'taata', 'tarot', 'taint', 'taunt', 'naunt', 'daunt'] FAIL
+['salet', 'alert', 'leant', 'dealt']
+['salet', 'arete', 'enate', 'coate', 'amate', 'agate', 'abate', 'death'] FAIL
+['salet', 'areae', 'arear', 'anear', 'drear', 'debar']
+['salet', 'erect', 'denet', 'demit', 'debit']
+['salet', 'eerie', 'peece', 'eeven', 'heeze', 'weeke', 'geode', 'degum', 'debug'] FAIL
+['salet', 'erect', 'denet', 'demit', 'depot', 'debut']
+['salet', 'laree', 'anele', 'allee', 'ealed', 'aldea', 'ailed', 'aloed', 'dalle', 'decal'] FAIL
+['salet', 'areae', 'venae', 'decad', 'decaf', 'decay']
+['salet', 'eerie', 'deere', 'derro', 'decor']
+['salet', 'eerie', 'peece', 'hence', 'deuce', 'decoy']
+['salet', 'eerie', 'deere', 'derro', 'derry', 'decry']
+['salet', 'eerie', 'merer', 'neper', 'ferer', 'refer', 'defer'] FAIL
+['salet', 'eerie', 'penie', 'genie', 'genii', 'genic', 'deign'] FAIL
+['salet', 'teene', 'retie', 'eejit', 'teiid', 'deity']
+['salet', 'allee', 'ealed', 'arled', 'ailed', 'naled', 'dalle', 'daled', 'delay'] FAIL
+['salet', 'telae', 'telia', 'delta']
+['salet', 'relie', 'belle', 'delve']
+['salet', 'eerie', 'peece', 'eeven', 'heben', 'yewen', 'xenon', 'demon'] FAIL
+['salet', 'eerie', 'deere', 'derro', 'dered', 'defer', 'demur'] FAIL
+['salet', 'eerie', 'penie', 'genie', 'venin', 'denim']
+['salet', 'resee', 'neese', 'sense', 'cense', 'dense']
+['salet', 'erect', 'denet', 'demit', 'depot']
+['salet', 'teene', 'retie', 'tepee', 'depot', 'depth']
+['salet', 'eerie', 'cerne', 'merer', 'ferer', 'derro', 'dered', 'derry', 'derby'] FAIL
+['salet', 'tepee', 'tenet', 'deter']
+['salet', 'teene', 'retie', 'meted', 'beted', 'feted', 'detox'] FAIL
+['salet', 'eerie', 'peece', 'hence', 'deuce']
+['salet', 'neele', 'relie', 'belie', 'helio', 'melic', 'lepid', 'gelid', 'felid', 'devil'] FAIL
+['salet', 'anana', 'acari', 'urari', 'imari', 'diary']
+['salet', 'eerie', 'inned', 'eiked', 'video', 'cided', 'diced', 'dicey'] FAIL
+['salet', 'trior', 'innit', 'pipit', 'digit']
+['salet', 'ronin', 'dilli', 'dilly']
+['salet', 'linin', 'milor', 'limbi', 'dimly']
+['salet', 'eerie', 'eider', 'direr', 'diner']
+['salet', 'ronin', 'ninon', 'pinon', 'dingo']
+['salet', 'ronin', 'dinic', 'dingy']
+['salet', 'eerie', 'niece', 'mieve', 'didie', 'diode']
+['salet', 'eerie', 'rorie', 'hiree', 'firie', 'jirre', 'dirge'] FAIL
+['salet', 'trior', 'rutin', 'britt', 'fritt', 'crith', 'dirty'] FAIL
+['salet', 'orris', 'nonis', 'hiois', 'cisco', 'disco']
+['salet', 'trior', 'innit', 'tutti', 'ictic', 'titch', 'ditch'] FAIL
+['salet', 'trior', 'nooit', 'idiot', 'ootid', 'ditto']
+['salet', 'trior', 'innit', 'tutti', 'titty', 'ditty']
+['salet', 'eerie', 'eider', 'direr', 'diner', 'dicer', 'dimer', 'diker', 'diver'] FAIL
+['salet', 'ronin', 'cippi', 'bifid', 'vivid', 'diddy', 'dizzy'] FAIL
+['salet', 'eerie', 'cooee', 'donee', 'dodge']
+['salet', 'ronin', 'cocco', 'oomph', 'doody', 'doozy', 'doddy', 'dodgy'] FAIL
+['salet', 'anana', 'coria', 'poaka', 'douma', 'dogma']
+['salet', 'ronin', 'ionic', 'iodin', 'poind', 'doing']
+['salet', 'ronin', 'hollo', 'lolly', 'colly', 'dolly']
+['salet', 'ronin', 'donor']
+['salet', 'trior', 'coopt', 'donut']
+['salet', 'eerie', 'cooee', 'donee', 'doped', 'dopey']
+['salet', 'trior', 'coopt', 'donut', 'doubt']
+['salet', 'ronin', 'cocco', 'oomph', 'dough']
+['salet', 'ronin', 'cocco', 'oomph', 'doody', 'doddy', 'dowdy'] FAIL
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'creel', 'newel', 'jewel', 'dowel'] FAIL
+['salet', 'ronin', 'nonny', 'nouny', 'moony', 'donny', 'downy'] FAIL
+['salet', 'ronin', 'morro', 'zorro', 'hoord', 'boord', 'courd', 'dowry'] FAIL
+['salet', 'eerie', 'cooee', 'donee', 'doyen', 'doven', 'dozen'] FAIL
+['salet', 'ariot', 'tratt', 'trant', 'tract', 'pratt', 'draft'] FAIL
+['salet', 'anana', 'ruana', 'prana', 'grana', 'drain']
+['salet', 'areae', 'arere', 'arene', 'arede', 'irade', 'drape', 'drake'] FAIL
+['salet', 'anana', 'araba', 'drama']
+['salet', 'anana', 'ruana', 'prana', 'grana', 'franc', 'brand', 'drank'] FAIL
+['salet', 'areae', 'arere', 'arene', 'arede', 'irade', 'drape'] FAIL
+['salet', 'laari', 'craal', 'graal', 'kraal', 'drawl']
+['salet', 'anana', 'ruana', 'prana', 'grana', 'drain', 'drawn'] FAIL
+['salet', 'areae', 'arear', 'aread', 'oread', 'dread']
+['salet', 'areae', 'arear', 'aread', 'drear', 'dread', 'dream'] FAIL
+['salet', 'resee', 'serer', 'serre', 'siree', 'erose', 'prese', 'grese', 'cress', 'dress'] FAIL
+['salet', 'eerie', 'eider', 'direr', 'drier', 'dried']
+['salet', 'eerie', 'eider', 'direr', 'drier']
+['salet', 'trior', 'print', 'britt', 'fritt', 'drift']
+['salet', 'linin', 'loric', 'libri', 'drill']
+['salet', 'ronin', 'ricin', 'indri', 'unrid', 'grind', 'drink'] FAIL
+['salet', 'eerie', 'rorie', 'hiree', 'regie', 'fiere', 'eyrie', 'reive', 'drive'] FAIL
+['salet', 'trior', 'droit']
+['salet', 'linin', 'color', 'dolor', 'drool', 'droll']
+['salet', 'eerie', 'deere', 'drere', 'drone']
+['salet', 'linin', 'color', 'dolor', 'drool']
+['salet', 'ronin', 'morro', 'cruor', 'droop']
+['salet', 'orris', 'crons', 'broos', 'dross']
+['salet', 'eerie', 'deere', 'drere', 'drone', 'drome', 'droke', 'drove'] FAIL
+['salet', 'ronin', 'croon', 'frorn', 'kroon', 'proyn', 'drown'] FAIL
+['salet', 'ronin', 'mirid', 'rigid', 'virid', 'druid']
+['salet', 'ronin', 'knurr', 'crunk', 'drunk']
+['salet', 'eerie', 'emeer', 'dreer', 'dryer']
+['salet', 'linin', 'color', 'grrrl', 'dryly']
+['salet', 'ronin', 'yucch', 'duchy']
+['salet', 'ronin', 'culch', 'dully']
+['salet', 'ronin', 'yucch', 'duddy', 'duppy', 'dummy']
+['salet', 'ronin', 'yucch', 'duddy', 'duppy', 'dumpy']
+['salet', 'eerie', 'cooee', 'peece', 'hence', 'fence', 'dunce'] FAIL
+['salet', 'orris', 'snush', 'susus', 'cusps', 'bussu', 'mussy', 'gussy', 'fussy', 'wussy', 'dusky'] FAIL
+['salet', 'tirrs', 'ottos', 'stunt', 'tutus', 'putts', 'mutts', 'dusts', 'dusty'] FAIL
+['salet', 'trior', 'tutty', 'butut', 'cutch', 'dutch']
+['salet', 'eerie', 'tenet', 'tweet', 'octet', 'emmet', 'beget', 'duvet'] FAIL
+['salet', 'anana', 'acari', 'afara', 'dwarf']
+['salet', 'neele', 'obeli', 'deely', 'dwell']
+['salet', 'elect', 'olent', 'gleet', 'fleet', 'blert', 'klett', 'dwelt'] FAIL
+['salet', 'ronin', 'dinic', 'djinn', 'duing', 'dying']
+['salet', 'eerie', 'eared', 'eager']
+['salet', 'laree', 'eagle']
+['salet', 'laree', 'carle', 'parle', 'marle', 'farle', 'early'] FAIL
+['salet', 'eater', 'earnt', 'earth']
+['salet', 'eales', 'easel']
+['salet', 'eater', 'eaten']
+['salet', 'eater']
+['salet', 'eerie', 'eeven', 'endue', 'ennog', 'ebony']
+['salet', 'eclat']
+['salet', 'erect', 'eject', 'edict']
+['salet', 'eerie', 'eigne', 'eiked', 'ejido', 'edify']
+['salet', 'eerie']
+['salet', 'eerie', 'egret']
+['salet', 'erect', 'eejit', 'eight']
+['salet', 'erect', 'eject']
+['salet', 'eerie', 'eigne', 'ehing', 'eying', 'eking']
+['salet', 'elate']
+['salet', 'neele', 'relie', 'elpee', 'eloge', 'elbow']
+['salet', 'elpee', 'elder']
+['salet', 'elect']
+['salet', 'neele', 'creel', 'leeze', 'elemi', 'elegy']
+['salet', 'neele', 'leone', 'liner', 'linen', 'eldin', 'elfin'] FAIL
+['salet', 'neele', 'relie', 'edile', 'elide']
+['salet', 'elite']
+['salet', 'neele', 'relie', 'elpee', 'elope']
+['salet', 'neele', 'relie', 'elpee', 'eloge', 'elude']
+['salet', 'laree', 'anele', 'allee', 'ealed', 'eagle', 'email'] FAIL
+['salet', 'eerie', 'eeven', 'emcee', 'embed']
+['salet', 'eerie', 'emeer', 'emmer', 'ember']
+['salet', 'eerie', 'emcee']
+['salet', 'teene', 'retie', 'tepee', 'topee', 'depth', 'empty'] FAIL
+['salet', 'arret', 'anent', 'enact']
+['salet', 'eerie', 'eeven', 'endue', 'ended', 'endew', 'endow'] FAIL
+['salet', 'areae', 'amene', 'enema']
+['salet', 'eerie', 'eeven', 'endue', 'ennog', 'enemy']
+['salet', 'eerie', 'eeven', 'endue', 'ennog', 'enjoy']
+['salet', 'eerie', 'eigne', 'exine', 'ezine', 'ennui']
+['salet', 'resee', 'besee', 'ensue']
+['salet', 'tepee', 'enter']
+['salet', 'teene', 'enter', 'entry']
+['salet', 'eerie', 'eeven', 'envoy']
+['salet', 'eerie', 'eeven', 'emcee', 'educe', 'epoch']
+['salet', 'eerie', 'eeven', 'emcee', 'epode', 'epoxy']
+['salet', 'laree', 'anele', 'allee', 'ealed', 'eagle', 'email', 'equal'] FAIL
+['salet', 'eerie', 'enfix', 'equid', 'equip']
+['salet', 'easer', 'erase']
+['salet', 'erect']
+['salet', 'eerie', 'erode']
+['salet', 'eerie', 'error']
+['salet', 'erect', 'ergot', 'erupt']
+['salet', 'easer', 'eases', 'eased', 'essay']
+['salet', 'ester']
+['salet', 'tepee', 'enter', 'ether']
+['salet', 'teene', 'retie', 'eejit', 'ethic']
+['salet', 'ester', 'etens', 'etics', 'ethos']
+['salet', 'teene', 'retie', 'tepee', 'etwee', 'etude']
+['salet', 'areae', 'ainee', 'cadee', 'deave', 'evade']
+['salet', 'erect', 'event']
+['salet', 'eerie', 'emeer', 'every']
+['salet', 'erect', 'eject', 'edict', 'evict']
+['salet', 'eerie', 'emcee', 'epode', 'evohe', 'evoke']
+['salet', 'arret', 'anent', 'tacet', 'cadet', 'epact', 'exact'] FAIL
+['salet', 'alert', 'leant', 'dealt', 'exalt']
+['salet', 'elpee', 'elder', 'elmen', 'excel']
+['salet', 'erect', 'evert', 'exert']
+['salet', 'neele', 'edile', 'exile']
+['salet', 'reest', 'neist', 'deist', 'heist', 'geist', 'feist', 'exist'] FAIL
+['salet', 'elpee', 'expel']
+['salet', 'elite', 'ettle', 'extol']
+['salet', 'arete', 'eater', 'extra']
+['salet', 'elect', 'elint', 'exult']
+['salet', 'eerie', 'eigne', 'ehing', 'eying']
+['salet', 'laree', 'eagle', 'maile', 'haole', 'dalle', 'wanle', 'caple', 'fable'] FAIL
+['salet', 'eerie', 'tacet', 'facet']
+['salet', 'taata', 'tarot', 'taint', 'daint', 'paint', 'haint', 'faint'] FAIL
+['salet', 'anana', 'radar', 'parra', 'marra', 'barra', 'farro', 'fairy'] FAIL
+['salet', 'taata', 'aarti', 'tanti', 'gaita', 'haith', 'baith', 'faith'] FAIL
+['salet', 'eales', 'rales', 'sales', 'salse', 'halse', 'false'] FAIL
+['salet', 'anana', 'naira', 'nanna', 'canna', 'canon', 'canny', 'nancy', 'dancy', 'fancy'] FAIL
+['salet', 'anana', 'nanna', 'canna', 'manna', 'panni', 'wanna', 'nanny', 'danny', 'fanny'] FAIL
+['salet', 'narre', 'parae', 'marae', 'darre', 'garre', 'barre', 'warre', 'farce'] FAIL
+['salet', 'ratal', 'natal', 'datal', 'fatal']
+['salet', 'taata', 'aarti', 'tanto', 'batta', 'tatty', 'catty', 'patty', 'fatty'] FAIL
+['salet', 'larnt', 'dault', 'hault', 'gault', 'fault']
+['salet', 'anana', 'nanna', 'canna', 'manna', 'varna', 'wanna', 'fauna'] FAIL
+['salet', 'anana', 'radar', 'maror', 'razor', 'payor', 'favor'] FAIL
+['salet', 'earst', 'heast', 'beast', 'feast']
+['salet', 'laree', 'anele', 'allee', 'ealed', 'aglee', 'abele', 'ileal', 'cecal', 'fecal'] FAIL
+['salet', 'eerie', 'penie', 'genie', 'genii', 'genic', 'deign', 'feign'] FAIL
+['salet', 'allee', 'ealed', 'aglee', 'palea', 'cella', 'fella'] FAIL
+['salet', 'relie', 'belle', 'deled', 'cello', 'pelon', 'melon', 'felon'] FAIL
+['salet', 'eerie', 'peece', 'neeze', 'deeve', 'weeke', 'femme'] FAIL
+['salet', 'eerie', 'deere', 'renne', 'reeve', 'merer', 'femur'] FAIL
+['salet', 'eerie', 'peece', 'hence', 'fence']
+['salet', 'laree', 'neral', 'feral']
+['salet', 'eerie', 'cerne', 'merer', 'ferer', 'ferry']
+['salet', 'elate', 'telae', 'petal', 'metal', 'fetal']
+['salet', 'teene', 'retie', 'meted', 'petto', 'betty', 'fetch'] FAIL
+['salet', 'teene', 'retie', 'petit', 'metic', 'betid', 'fetid'] FAIL
+['salet', 'ester', 'tetes', 'netes', 'cetes', 'metes', 'hetes', 'betes', 'fetes', 'fetts', 'fetus'] FAIL
+['salet', 'eerie', 'merer', 'neper', 'ferer', 'feyer', 'fewer', 'fever'] FAIL
+['salet', 'eerie', 'merer', 'neper', 'ferer', 'feyer', 'fewer'] FAIL
+['salet', 'eerie', 'eider', 'niner', 'ricer', 'riper', 'rimer', 'hirer', 'firer', 'fiber'] FAIL
+['salet', 'orris', 'minis', 'pipis', 'discs', 'fiscs', 'ficus'] FAIL
+['salet', 'neele', 'obeli', 'field']
+['salet', 'eerie', 'niece', 'diene', 'piend', 'fiend']
+['salet', 'eerie', 'rorie', 'eider', 'hiree', 'niner', 'fiere', 'fiery'] FAIL
+['salet', 'trior', 'innit', 'tutti', 'titty', 'width', 'fifth'] FAIL
+['salet', 'trior', 'innit', 'tutti', 'titty', 'ditty', 'bitty', 'witty', 'kitty', 'mifty', 'fifty'] FAIL
+['salet', 'trior', 'innit', 'pipit', 'digit', 'tight', 'might', 'hight', 'bight', 'fight'] FAIL
+['salet', 'eerie', 'oiler', 'piler', 'miler', 'filer']
+['salet', 'eerie', 'inlet', 'gilet', 'filet']
+['salet', 'ronin', 'dilli', 'villi', 'hilly', 'gilly', 'billy', 'filly'] FAIL
+['salet', 'ronin', 'dilli', 'villi', 'filmi', 'filmy']
+['salet', 'tilth', 'filth']
+['salet', 'laari', 'aalii', 'lanai', 'linac', 'binal', 'final'] FAIL
+['salet', 'ronin', 'dinic', 'vinic', 'cinch', 'pinch', 'ginch', 'finch'] FAIL
+['salet', 'eerie', 'eider', 'niner', 'miner', 'biner', 'finer'] FAIL
+['salet', 'roist', 'trist', 'grist', 'first']
+['salet', 'orris', 'minis', 'disci', 'sissy', 'pissy', 'hissy', 'fishy'] FAIL
+['salet', 'eerie', 'eider', 'niner', 'ricer', 'riper', 'rimer', 'hirer', 'firer', 'fiber', 'fifer', 'fiver', 'fixer'] FAIL
+['salet', 'ronin', 'cippi', 'bifid', 'figgy', 'fizzy']
+['salet', 'ronin', 'morro', 'zorro', 'hoord', 'boord', 'fjord'] FAIL
+['salet', 'laari', 'coala', 'alack', 'clack', 'plack', 'black', 'flack'] FAIL
+['salet', 'laari', 'liana', 'biali', 'avail', 'flail']
+['salet', 'laari', 'urali', 'drail', 'glair', 'flair']
+['salet', 'laree', 'anele', 'allee', 'albee', 'aleye', 'algae', 'olpae', 'alike', 'flake'] FAIL
+['salet', 'laari', 'coala', 'alaap', 'aland', 'llama', 'flava', 'flaff', 'flawy', 'flaky'] FAIL
+['salet', 'laree', 'anele', 'allee', 'albee', 'aleye', 'algae', 'olpae', 'alike', 'clade', 'flame'] FAIL
+['salet', 'laari', 'coala', 'alaap', 'aland', 'alang', 'blank', 'flank'] FAIL
+['salet', 'laree', 'leare', 'glare', 'blare', 'flare']
+['salet', 'alias', 'alans', 'alaps', 'alays', 'class', 'slash', 'blash', 'flash'] FAIL
+['salet', 'alias', 'alans', 'alaps', 'alays', 'class', 'slash', 'glass', 'flask'] FAIL
+['salet', 'neele', 'creel', 'oleic', 'cleep', 'cleek', 'cleck', 'fleck'] FAIL
+['salet', 'gleet', 'fleet']
+['salet', 'leese', 'loess', 'bless', 'plesh', 'flesh']
+['salet', 'linin', 'loric', 'chili', 'icily', 'click', 'flick'] FAIL
+['salet', 'elpee', 'elder', 'iller', 'flier']
+['salet', 'linin', 'colin', 'lipin', 'nihil', 'blini', 'fling'] FAIL
+['salet', 'lirot', 'licit', 'limit', 'unlit', 'glint', 'flint'] FAIL
+['salet', 'lirot', 'flirt']
+['salet', 'alant', 'allot', 'ploat', 'gloat', 'bloat', 'float'] FAIL
+['salet', 'linin', 'color', 'cloop', 'cloud', 'clock', 'block', 'flock'] FAIL
+['salet', 'linin', 'color', 'gloop', 'blood', 'flood']
+['salet', 'linin', 'color', 'dolor', 'floor']
+['salet', 'laari', 'laura', 'labra', 'lavra', 'flora']
+['salet', 'loirs', 'loons', 'sools', 'cools', 'dools', 'loops', 'looms', 'gools', 'bools', 'fools', 'floss'] FAIL
+['salet', 'linin', 'color', 'dolor', 'floor', 'flour']
+['salet', 'lirot', 'cloot', 'glout', 'flout']
+['salet', 'linin', 'colon', 'holon', 'logon', 'nylon', 'blown', 'flown'] FAIL
+['salet', 'linin', 'color', 'dully', 'plump', 'bluff', 'fluff'] FAIL
+['salet', 'linin', 'loric', 'filii', 'fluid']
+['salet', 'neele', 'relie', 'elpee', 'eloge', 'elude', 'blume', 'fluke'] FAIL
+['salet', 'neele', 'relie', 'elpee', 'eloge', 'elude', 'blume', 'flume'] FAIL
+['salet', 'linin', 'colon', 'knurl', 'flung']
+['salet', 'linin', 'colon', 'knurl', 'plunk', 'blunk', 'flunk'] FAIL
+['salet', 'loirs', 'nulls', 'lulls', 'sculs', 'slums', 'slush', 'plush', 'blush', 'flush'] FAIL
+['salet', 'elite', 'elute', 'glute', 'flute']
+['salet', 'elpee', 'elder', 'iller', 'fleer', 'flyer']
+['salet', 'anana', 'acari', 'agama', 'kaama', 'abamp', 'whamo', 'foamy'] FAIL
+['salet', 'laari', 'annal', 'local', 'focal']
+['salet', 'orris', 'noons', 'cocos', 'docos', 'jocos', 'socks', 'hocus', 'focus'] FAIL
+['salet', 'ronin', 'cocco', 'oomph', 'doody', 'boogy', 'foggy'] FAIL
+['salet', 'roist', 'moist', 'hoist', 'foist']
+['salet', 'ronin', 'polio', 'mooli', 'folio']
+['salet', 'ronin', 'hollo', 'lolly', 'colly', 'dolly', 'polly', 'molly', 'golly', 'folly'] FAIL
+['salet', 'anana', 'acari', 'aurar', 'arrah', 'array', 'abray', 'moray', 'foray'] FAIL
+['salet', 'eerie', 'cerne', 'perce', 'force']
+['salet', 'eerie', 'cerne', 'doree', 'boree', 'horme', 'porge', 'gorge', 'forge'] FAIL
+['salet', 'ronin', 'morro', 'zorro', 'fordo', 'forgo']
+['salet', 'teene', 'retie', 'terce', 'three', 'torte', 'forte'] FAIL
+['salet', 'trior', 'rotor', 'torot', 'north', 'forth']
+['salet', 'trior', 'rotor', 'torot', 'north', 'rorty', 'dorty', 'porty', 'borty', 'forty'] FAIL
+['salet', 'ronin', 'morro', 'morph', 'forum']
+['salet', 'ronin', 'nonny', 'moong', 'pound', 'hound', 'bound', 'found'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'breer', 'ferer', 'freer', 'feyer', 'fryer', 'foyer'] FAIL
+['salet', 'laari', 'urali', 'drail', 'grail', 'brail', 'frail'] FAIL
+['salet', 'areae', 'arere', 'arene', 'arede', 'arvee', 'crare', 'arame', 'grame', 'brame', 'frame'] FAIL
+['salet', 'anana', 'ruana', 'prana', 'grana', 'franc', 'frank'] FAIL
+['salet', 'anana', 'acari', 'araba', 'drama', 'fraud']
+['salet', 'areae', 'arear', 'aread', 'cream', 'break', 'freak'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'creed', 'dreed', 'preed', 'greed', 'breed', 'freed'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'breer', 'freer']
+['salet', 'resee', 'serer', 'serre', 'siree', 'erose', 'prese', 'grese', 'cress', 'dress', 'fresh'] FAIL
+['salet', 'anana', 'acari', 'maria', 'urari', 'ardri', 'braai', 'friar'] FAIL
+['salet', 'eerie', 'eider', 'direr', 'drier', 'cried', 'dried', 'pried', 'fried'] FAIL
+['salet', 'linin', 'loric', 'libri', 'drill', 'prill', 'grill', 'frill'] FAIL
+['salet', 'orris', 'irids', 'grins', 'priss', 'briss', 'frisk'] FAIL
+['salet', 'trior', 'print', 'britt', 'fritt', 'frith', 'fritz'] FAIL
+['salet', 'ronin', 'morro', 'cruor', 'crook', 'crock', 'brock', 'frock'] FAIL
+['salet', 'ronin', 'corno', 'porno', 'round', 'brond', 'frond'] FAIL
+['salet', 'trior', 'trout', 'front']
+['salet', 'roist', 'roost', 'crost', 'prost', 'frost']
+['salet', 'trior', 'tronc', 'trout', 'proto', 'troth', 'broth', 'froth'] FAIL
+['salet', 'ronin', 'croon', 'frorn', 'frown']
+['salet', 'eerie', 'deere', 'renne', 'reeve', 'brere', 'frere', 'frore', 'froze'] FAIL
+['salet', 'trior', 'print', 'britt', 'fritt', 'fruit']
+['salet', 'eerie', 'cooee', 'neeze', 'peepe', 'deeve', 'hedge', 'wedge', 'kedge', 'mudge', 'budge', 'fudge'] FAIL
+['salet', 'eerie', 'cooee', 'neeze', 'peepe', 'deeve', 'exeme', 'weeke', 'queue', 'fugue'] FAIL
+['salet', 'ronin', 'culch', 'dully', 'pully', 'gully', 'bully', 'fully'] FAIL
+['salet', 'ronin', 'dinic', 'ninny', 'jinni', 'fungi']
+['salet', 'ronin', 'nunny', 'dunny', 'punny', 'gunny', 'bunny', 'funny', 'funky'] FAIL
+['salet', 'ronin', 'nunny', 'dunny', 'punny', 'gunny', 'bunny', 'funny'] FAIL
+['salet', 'ronin', 'morro', 'zorro', 'burro', 'furor']
+['salet', 'ronin', 'churr', 'durry', 'murry', 'gurry', 'burry', 'furry'] FAIL
+['salet', 'orris', 'snush', 'bussu', 'pussy', 'mussy', 'gussy', 'fussy'] FAIL
+['salet', 'ronin', 'yucch', 'duddy', 'puppy', 'mummy', 'buggy', 'fuffy', 'fuzzy'] FAIL
+['salet', 'narre', 'cadie', 'mahoe', 'gauge', 'gaffe']
+['salet', 'laari', 'aalii', 'lanai', 'lamia', 'labia', 'paoli', 'daily', 'haily', 'gaily'] FAIL
+['salet', 'eerie', 'raree', 'ranee', 'rarer', 'eager', 'rager', 'cager', 'gaper', 'gamer'] FAIL
+['salet', 'anana', 'parra', 'facia', 'haoma', 'kaama', 'mamma', 'gamma'] FAIL
+['salet', 'taata', 'tarot', 'taint', 'caput', 'gamut']
+['salet', 'raias', 'naans', 'casas', 'masas', 'basso', 'sassy', 'gassy'] FAIL
+['salet', 'anana', 'radar', 'kadai', 'cauda', 'gaudy']
+['salet', 'narre', 'cadie', 'mahoe', 'gauge']
+['salet', 'taata', 'tarot', 'taint', 'taunt', 'naunt', 'daunt', 'haunt', 'gaunt'] FAIL
+['salet', 'narre', 'cadie', 'mahoe', 'gauge', 'gauze']
+['salet', 'laree', 'ealed', 'palea', 'galea', 'gavel']
+['salet', 'anana', 'radar', 'cacao', 'kaama', 'haika', 'pakka', 'babka', 'yakka', 'gawky'] FAIL
+['salet', 'eerie', 'raree', 'ranee', 'rarer', 'eager', 'rager', 'cager', 'gaper', 'gamer', 'gager', 'gayer'] FAIL
+['salet', 'laari', 'nalla', 'calla', 'paolo', 'walla', 'dally', 'gally', 'gayly'] FAIL
+['salet', 'eerie', 'raree', 'ranee', 'rarer', 'eager', 'rager', 'cager', 'gaper', 'gamer', 'gager', 'gayer', 'gazer'] FAIL
+['salet', 'eerie', 'peece', 'hence', 'deuce', 'becke', 'gecko'] FAIL
+['salet', 'eerie', 'peece', 'neeze', 'deeve', 'weeke', 'geeky'] FAIL
+['salet', 'resee', 'neese', 'geese']
+['salet', 'eerie', 'penie', 'genie']
+['salet', 'eerie', 'deere', 'genre']
+['salet', 'roist', 'coost', 'boost', 'ytost', 'ghost']
+['salet', 'linin', 'color', 'hollo', 'hullo', 'ghoul']
+['salet', 'ariot', 'taint', 'daint', 'paint', 'ahint', 'giant'] FAIL
+['salet', 'ronin', 'cippi', 'bifid', 'vivid', 'diddy', 'middy', 'giddy'] FAIL
+['salet', 'orris', 'minis', 'disci', 'pipis', 'sippy', 'gipsy'] FAIL
+['salet', 'linin', 'milor', 'libri', 'girly']
+['salet', 'trior', 'rutin', 'britt', 'fritt', 'crith', 'mirth', 'girth'] FAIL
+['salet', 'eerie', 'inned', 'cunei', 'piney', 'vimen', 'given'] FAIL
+['salet', 'eerie', 'eider', 'niner', 'ricer', 'riper', 'rimer', 'hirer', 'firer', 'wirer', 'river', 'giver'] FAIL
+['salet', 'laree', 'anele', 'allee', 'albee', 'aleye', 'algae', 'glace', 'glade'] FAIL
+['salet', 'laari', 'coala', 'alaap', 'aland', 'gland']
+['salet', 'laree', 'leare', 'glare']
+['salet', 'alias', 'alans', 'alaps', 'alays', 'class', 'glass'] FAIL
+['salet', 'laree', 'anele', 'allee', 'albee', 'aleye', 'algae', 'glace', 'glade', 'glaze'] FAIL
+['salet', 'laree', 'anele', 'abele', 'ileal', 'plead', 'gleam'] FAIL
+['salet', 'laree', 'anele', 'clean', 'glean']
+['salet', 'neele', 'relie', 'edile', 'elide', 'glide']
+['salet', 'lirot', 'licit', 'limit', 'unlit', 'glint']
+['salet', 'alant', 'allot', 'ploat', 'gloat']
+['salet', 'neele', 'relie', 'elpee', 'eloge', 'glode', 'globe'] FAIL
+['salet', 'linin', 'color', 'gloop', 'gloom']
+['salet', 'linin', 'color', 'dolor', 'orlop', 'lorry', 'loury', 'glory'] FAIL
+['salet', 'loirs', 'loons', 'sools', 'cools', 'dools', 'loops', 'looms', 'gools', 'gloss'] FAIL
+['salet', 'neele', 'relie', 'elpee', 'eloge', 'glode', 'globe', 'glove'] FAIL
+['salet', 'linin', 'color', 'dully', 'ghyll', 'glyph']
+['salet', 'arars', 'asana', 'naans', 'paans', 'naams', 'unais', 'snash', 'gnash'] FAIL
+['salet', 'eerie', 'cooee', 'epode', 'ohone', 'ozone', 'gnome'] FAIL
+['salet', 'linin', 'color', 'hollo', 'goold', 'godly']
+['salet', 'ronin', 'ionic', 'iodin', 'nomoi', 'hoing', 'going'] FAIL
+['salet', 'eerie', 'melee', 'moled', 'golem']
+['salet', 'ronin', 'hollo', 'lolly', 'colly', 'dolly', 'polly', 'molly', 'golly'] FAIL
+['salet', 'anana', 'naira', 'nanna', 'canna', 'nanua', 'manna', 'donna', 'donah', 'gonad'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'newer', 'never', 'oncer', 'honer', 'goner'] FAIL
+['salet', 'ronin', 'cocco', 'oomph', 'doody', 'goody']
+['salet', 'eerie', 'cooee', 'pooed', 'hooey', 'gooey']
+['salet', 'ronin', 'cocco', 'oomph', 'doody', 'boogy', 'goofy'] FAIL
+['salet', 'resee', 'neese', 'geese', 'gesse', 'goose']
+['salet', 'eerie', 'cerne', 'doree', 'boree', 'horme', 'porge', 'gorge'] FAIL
+['salet', 'eerie', 'cooee', 'donee', 'yogee', 'gouge']
+['salet', 'ronin', 'morro', 'zorro', 'hoord', 'boord', 'courd', 'gourd'] FAIL
+['salet', 'areae', 'arere', 'arene', 'arede', 'arvee', 'crare', 'crape', 'crame', 'grace'] FAIL
+['salet', 'areae', 'arere', 'arene', 'arede', 'irade', 'grade'] FAIL
+['salet', 'ariot', 'tratt', 'trant', 'tract', 'pratt', 'draft', 'graft'] FAIL
+['salet', 'laari', 'urali', 'drail', 'grail']
+['salet', 'anana', 'ruana', 'prana', 'grana', 'grain']
+['salet', 'anana', 'ruana', 'prana', 'grana', 'grand']
+['salet', 'ariot', 'tratt', 'trant', 'drant', 'grant']
+['salet', 'areae', 'arere', 'arene', 'arede', 'arvee', 'crare', 'arame', 'urare', 'grape'] FAIL
+['salet', 'anana', 'acari', 'araba', 'drama', 'prahu', 'graph'] FAIL
+['salet', 'arars', 'crans', 'uraos', 'araks', 'grass', 'grasp'] FAIL
+['salet', 'arars', 'crans', 'uraos', 'araks', 'grass']
+['salet', 'arete', 'irate', 'orate', 'crate', 'urate', 'prate', 'grate'] FAIL
+['salet', 'areae', 'arere', 'arene', 'arede', 'arvee', 'crave', 'grave'] FAIL
+['salet', 'anana', 'acari', 'araba', 'drama', 'prahu', 'graff', 'gravy'] FAIL
+['salet', 'areae', 'arere', 'arene', 'arede', 'arvee', 'crare', 'arame', 'urare', 'grape', 'graze'] FAIL
+['salet', 'arret', 'arett', 'treat', 'great']
+['salet', 'eerie', 'emeer', 'dreer', 'creed', 'dreed', 'preed', 'greed'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'preen', 'green']
+['salet', 'eerie', 'remet', 'egret', 'greet']
+['salet', 'eerie', 'eider', 'hiree', 'inner', 'crier', 'prier', 'brier', 'frier', 'grief'] FAIL
+['salet', 'linin', 'loric', 'libri', 'drill', 'prill', 'grill'] FAIL
+['salet', 'eerie', 'rorie', 'hiree', 'regie', 'grice', 'gride', 'gripe', 'grime'] FAIL
+['salet', 'ronin', 'cirri', 'kirri', 'murri', 'mirid', 'primi', 'grimy'] FAIL
+['salet', 'ronin', 'ricin', 'indri', 'unrid', 'grind']
+['salet', 'eerie', 'rorie', 'hiree', 'regie', 'grice', 'gride', 'gripe'] FAIL
+['salet', 'anana', 'naira', 'anura', 'acorn', 'adorn', 'groan'] FAIL
+['salet', 'ronin', 'orcin', 'orpin', 'groin']
+['salet', 'ronin', 'morro', 'rumor', 'groom']
+['salet', 'eerie', 'deere', 'renne', 'reeve', 'brere', 'frere', 'crore', 'prore', 'grope'] FAIL
+['salet', 'orris', 'crons', 'broos', 'dross', 'pross', 'gross'] FAIL
+['salet', 'ronin', 'morro', 'cruor', 'proud', 'group']
+['salet', 'trior', 'trout', 'crout', 'grout']
+['salet', 'eerie', 'deere', 'renne', 'reeve', 'perve', 'greve', 'grove'] FAIL
+['salet', 'linin', 'color', 'dolor', 'orlop', 'brool', 'growl'] FAIL
+['salet', 'ronin', 'croon', 'frorn', 'kroon', 'proyn', 'drown', 'grown'] FAIL
+['salet', 'elpee', 'melee', 'gelee', 'gleed', 'gleek', 'gluer', 'gruel'] FAIL
+['salet', 'ronin', 'churr', 'urubu', 'grump', 'gruff']
+['salet', 'trior', 'prunt', 'grunt']
+['salet', 'anana', 'acari', 'afara', 'roary', 'award', 'guard'] FAIL
+['salet', 'anana', 'araba', 'agama', 'guava']
+['salet', 'resee', 'neese', 'geese', 'guess']
+['salet', 'reest', 'egest', 'geest', 'goest', 'guest']
+['salet', 'eerie', 'niece', 'beige', 'ogive', 'guide']
+['salet', 'linin', 'loric', 'filii', 'dilli', 'dilly', 'guild'] FAIL
+['salet', 'neele', 'edile', 'exile', 'moile', 'chile', 'guile'] FAIL
+['salet', 'lirot', 'licit', 'limit', 'unlit', 'uplit', 'guilt'] FAIL
+['salet', 'resee', 'neese', 'geese', 'gesse', 'goose', 'guise'] FAIL
+['salet', 'ronin', 'culch', 'mulch', 'gulch']
+['salet', 'ronin', 'culch', 'dully', 'pully', 'gully']
+['salet', 'ronin', 'choco', 'duomo', 'yummo', 'gumbo']
+['salet', 'ronin', 'yucch', 'duddy', 'puppy', 'mummy', 'gummy'] FAIL
+['salet', 'ronin', 'yucch', 'duddy', 'puppy', 'guppy']
+['salet', 'tirrs', 'ottos', 'toots', 'stott', 'oonts', 'soots', 'stots', 'coots', 'touts', 'ousts', 'gusto'] FAIL
+['salet', 'tirrs', 'ottos', 'stunt', 'tutus', 'putts', 'mutts', 'dusts', 'gusts', 'gusty'] FAIL
+['salet', 'orris', 'snush', 'gypsy']
+['salet', 'taata', 'tarot', 'taint', 'tacit', 'habit']
+['salet', 'anana', 'radar', 'parra', 'marra', 'barra', 'farro', 'karri', 'cauri', 'hairy'] FAIL
+['salet', 'dalle', 'walie', 'calve', 'halve']
+['salet', 'anana', 'naira', 'nanna', 'canna', 'nanua', 'manna', 'wanna', 'fanon', 'nanny', 'danny', 'dandy', 'pandy', 'handy'] FAIL
+['salet', 'anana', 'radar', 'cacao', 'kaama', 'baiza', 'papaw', 'hapax', 'happy'] FAIL
+['salet', 'anana', 'radar', 'raird', 'damar', 'darga', 'daraf', 'bardo', 'cardy', 'pardy', 'hardy'] FAIL
+['salet', 'eerie', 'raree', 'rarer', 'eared', 'carer', 'parer', 'barer', 'farer', 'yarer', 'harem'] FAIL
+['salet', 'anana', 'radar', 'parra', 'carap', 'parma', 'pargo', 'parka', 'parry', 'harpy'] FAIL
+['salet', 'anana', 'radar', 'parra', 'marra', 'barra', 'farro', 'karri', 'carry', 'harry'] FAIL
+['salet', 'raias', 'naras', 'saros', 'carrs', 'paras', 'maras', 'karas', 'varas', 'sarus', 'yarrs', 'sards', 'harsh'] FAIL
+['salet', 'earst', 'taste', 'caste', 'paste', 'haste']
+['salet', 'rasta', 'oasts', 'pasta', 'hasta', 'hasty']
+['salet', 'taata', 'aarti', 'tanna', 'tatou', 'batta', 'tatty', 'hatha', 'hatch'] FAIL
+['salet', 'eater', 'rater', 'oater', 'tater', 'cater', 'dater', 'pater', 'mater', 'hater'] FAIL
+['salet', 'taata', 'tarot', 'taint', 'taunt', 'naunt', 'daunt', 'haunt'] FAIL
+['salet', 'eater', 'eaten', 'tatie', 'eathe', 'tache', 'haute'] FAIL
+['salet', 'eerie', 'eaned', 'oaken', 'yamen', 'paven', 'haven'] FAIL
+['salet', 'anana', 'radar', 'cacao', 'bacco', 'campo', 'cahow', 'havoc'] FAIL
+['salet', 'laree', 'ealed', 'palea', 'galea', 'navel', 'label', 'camel', 'hazel'] FAIL
+['salet', 'areae', 'ainee', 'cadee', 'adeem', 'deave', 'heady'] FAIL
+['salet', 'areae', 'arere', 'deare', 'dearn', 'heard']
+['salet', 'arret', 'arett', 'treat', 'earnt', 'caret', 'derat', 'peart', 'heart'] FAIL
+['salet', 'arete', 'enate', 'coate', 'amate', 'agate', 'abate', 'death', 'heath'] FAIL
+['salet', 'areae', 'ainee', 'cadee', 'zoeae', 'mamee', 'peage', 'heave'] FAIL
+['salet', 'areae', 'ainee', 'cadee', 'zoeae', 'mamee', 'peage', 'heave', 'heavy'] FAIL
+['salet', 'eerie', 'peece', 'neeze', 'deeve', 'geode', 'hedge'] FAIL
+['salet', 'teene', 'retie', 'tepee', 'weete', 'teeth', 'hefte', 'hefty'] FAIL
+['salet', 'reest', 'neist', 'deist', 'heist']
+['salet', 'relie', 'belie', 'helio', 'helix']
+['salet', 'relie', 'belle', 'cello', 'hello']
+['salet', 'eerie', 'peece', 'hence']
+['salet', 'eerie', 'cerne', 'gerne', 'kerne', 'nerve', 'rerun', 'heron'] FAIL
+['salet', 'ronin', 'dilli', 'villi', 'hilly']
+['salet', 'eerie', 'niece', 'diene', 'eigne', 'minge', 'hinge'] FAIL
+['salet', 'ronin', 'idiom', 'cocci', 'hikoi', 'hippo']
+['salet', 'ronin', 'cippi', 'dippy', 'pippy', 'hippy']
+['salet', 'trior', 'innit', 'tutti', 'ictic', 'titch', 'ditch', 'pitch', 'mitch', 'hitch'] FAIL
+['salet', 'anana', 'acari', 'afara', 'roary', 'hoard']
+['salet', 'ronin', 'cocco', 'oomph', 'dohyo', 'hooky', 'hobby'] FAIL
+['salet', 'roist', 'moist', 'hoist']
+['salet', 'ronin', 'hollo', 'holly']
+['salet', 'eerie', 'emeer', 'merer', 'ormer', 'comer', 'homer'] FAIL
+['salet', 'eerie', 'cooee', 'donee', 'poney', 'money', 'honey'] FAIL
+['salet', 'ronin', 'donor', 'honor']
+['salet', 'eerie', 'cerne', 'doree', 'horde']
+['salet', 'ronin', 'corno', 'porno', 'horny']
+['salet', 'resee', 'serre', 'siree', 'soree', 'corse', 'dorse', 'morse', 'horse'] FAIL
+['salet', 'liter', 'betel', 'motel', 'hotel']
+['salet', 'lirot', 'lotto', 'hotly']
+['salet', 'ronin', 'nonny', 'moong', 'pound', 'hound']
+['salet', 'resee', 'neese', 'geese', 'seise', 'feese', 'cesse', 'obese', 'moose', 'souse', 'douse', 'house'] FAIL
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'elver', 'elven', 'level', 'devel', 'kevel', 'hovel'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'breer', 'ferer', 'corer', 'roger', 'rower', 'roker', 'rover', 'hover'] FAIL
+['salet', 'ronin', 'cocco', 'oomph', 'dohyo', 'hoody', 'howdy'] FAIL
+['salet', 'anana', 'naira', 'nanna', 'canna', 'nanua', 'aguna', 'abuna', 'fauna', 'nandu', 'unman', 'human'] FAIL
+['salet', 'ronin', 'cippi', 'bifid', 'humid']
+['salet', 'ronin', 'morro', 'rumor', 'humor']
+['salet', 'ronin', 'yucch', 'hudud', 'humph']
+['salet', 'orris', 'bunns', 'cusps', 'sudds', 'sughs', 'husks', 'humus'] FAIL
+['salet', 'ronin', 'nunny', 'dunch', 'punch', 'munch', 'hunch'] FAIL
+['salet', 'ronin', 'nunny', 'dunny', 'punny', 'gunny', 'bunny', 'funny', 'hunky'] FAIL
+['salet', 'ronin', 'churr', 'hurry']
+['salet', 'orris', 'snush', 'smush', 'shush', 'sughs', 'hussy', 'hushy', 'husky'] FAIL
+['salet', 'orris', 'snush', 'smush', 'shush', 'hussy']
+['salet', 'trior', 'tutty', 'butut', 'cutch', 'dutch', 'mutch', 'hutch'] FAIL
+['salet', 'ronin', 'morro', 'zorro', 'burro', 'hydro']
+['salet', 'areae', 'amene', 'agene', 'akene', 'veena', 'faena', 'hyena'] FAIL
+['salet', 'eerie', 'cooee', 'eeven', 'heben', 'hymen']
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'roper', 'ryper', 'hyper'] FAIL
+['salet', 'linin', 'loric', 'chili', 'icily']
+['salet', 'ronin', 'dinic', 'icing']
+['salet', 'laree', 'anele', 'abele', 'ileal', 'ideal']
+['salet', 'ronin', 'idiom']
+['salet', 'trior', 'idiot']
+['salet', 'eerie', 'oiler', 'iller', 'idler']
+['salet', 'linin', 'loric', 'filii', 'dilli', 'dilly', 'idyll'] FAIL
+['salet', 'ronin', 'igloo']
+['salet', 'laari', 'aalii', 'lanai', 'ilial', 'iliac']
+['salet', 'areae', 'ainee', 'aiyee', 'cadie', 'mamie', 'image'] FAIL
+['salet', 'eerie', 'niece', 'beige', 'dobie', 'imbue']
+['salet', 'elpee', 'leper', 'expel', 'impel']
+['salet', 'linin', 'loric', 'filii', 'dilli', 'villi', 'pulli', 'imply'] FAIL
+['salet', 'areae', 'ainee', 'inane']
+['salet', 'ronin', 'inion', 'incog', 'indow', 'inbox']
+['salet', 'ronin', 'ricin', 'incur']
+['salet', 'eerie', 'inned', 'indew', 'index']
+['salet', 'erect', 'tweet', 'event', 'ident', 'inept']
+['salet', 'erect', 'inert']
+['salet', 'eerie', 'eider', 'inner', 'infer']
+['salet', 'trior', 'idiot', 'ingot']
+['salet', 'cilia', 'auloi', 'pilar', 'inlay']
+['salet', 'eerie', 'inlet']
+['salet', 'eerie', 'eider', 'inner']
+['salet', 'trior', 'innit', 'inwit', 'incut', 'input']
+['salet', 'tepee', 'enter', 'inter']
+['salet', 'trior', 'torii', 'intro']
+['salet', 'ronin', 'ionic']
+['salet', 'arete', 'irate']
+['salet', 'ronin', 'corni', 'rhino', 'irony']
+['salet', 'islet']
+['salet', 'resee', 'besee', 'ensue', 'issue']
+['salet', 'trior', 'innit', 'ictic', 'itchy']
+['salet', 'ronin', 'prior', 'rigor', 'oribi', 'croci', 'iroko', 'ivory'] FAIL
+['salet', 'taata', 'tarot', 'taint', 'taunt', 'naunt', 'daunt', 'haunt', 'gaunt', 'vaunt', 'jaunt'] FAIL
+['salet', 'anana', 'radar', 'cacao', 'kaama', 'baiza', 'gauzy', 'jazzy'] FAIL
+['salet', 'relie', 'belle', 'cello', 'nelly', 'delly', 'gelly', 'felly', 'welly', 'kelly', 'jelly'] FAIL
+['salet', 'eerie', 'cerne', 'merer', 'ferer', 'derro', 'herye', 'perry', 'berry', 'kerry', 'kerky', 'jerky'] FAIL
+['salet', 'teene', 'retie', 'meted', 'petto', 'betty', 'jetty'] FAIL
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'lered', 'newel', 'jewel'] FAIL
+['salet', 'ronin', 'cippi', 'bifid', 'miffy', 'jiffy']
+['salet', 'trior', 'noint', 'point', 'joint']
+['salet', 'roist', 'moist', 'hoist', 'foist', 'zoist', 'joist'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'breer', 'ferer', 'corer', 'roger', 'rower', 'roker', 'yoker', 'koker', 'joker'] FAIL
+['salet', 'ronin', 'hollo', 'lolly', 'colly', 'dolly', 'polly', 'molly', 'golly', 'folly', 'wolly', 'jolly'] FAIL
+['salet', 'roist', 'coost', 'boost', 'moust', 'joust']
+['salet', 'eerie', 'cooee', 'neeze', 'peepe', 'deeve', 'hedge', 'wedge', 'kedge', 'mudge', 'budge', 'fudge', 'judge'] FAIL
+['salet', 'eerie', 'niece', 'deice', 'voice', 'juice']
+['salet', 'ronin', 'cippi', 'mimic', 'civic', 'chich', 'juicy'] FAIL
+['salet', 'ronin', 'choco', 'duomo', 'yummo', 'gumbo', 'bumbo', 'jumbo'] FAIL
+['salet', 'ronin', 'yucch', 'duddy', 'puppy', 'guppy', 'buppy', 'yuppy', 'jumpy'] FAIL
+['salet', 'taata', 'anata', 'manta', 'pinta', 'junta']
+['salet', 'trior', 'conto', 'punto', 'junto']
+['salet', 'ronin', 'morro', 'zorro', 'burro', 'furor', 'juror'] FAIL
+['salet', 'anana', 'parra', 'pacha', 'padma', 'kappa']
+['salet', 'anana', 'parra', 'marra', 'maria', 'karma']
+['salet', 'anana', 'radar', 'cacao', 'mapau', 'kaiak', 'kayak'] FAIL
+['salet', 'areae', 'venae', 'decad', 'bekah', 'kebab']
+['salet', 'anana', 'acari', 'agami', 'okapi', 'khadi', 'khaki'] FAIL
+['salet', 'ronin', 'dinic', 'ninny', 'pinny', 'minny', 'hinny', 'ginny', 'finny', 'kinky'] FAIL
+['salet', 'orris', 'nonis', 'hiois', 'pious', 'biogs', 'kiosk'] FAIL
+['salet', 'trior', 'innit', 'tutti', 'titty', 'ditty', 'bitty', 'witty', 'kitty'] FAIL
+['salet', 'anana', 'inarm', 'jnana', 'gnawn', 'knack']
+['salet', 'areae', 'ainee', 'amene', 'agene', 'neafe', 'knawe', 'knave'] FAIL
+['salet', 'areae', 'zoeae', 'paean', 'knead']
+['salet', 'eerie', 'cooee', 'eeven', 'undee', 'ended', 'kneed'] FAIL
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'creel', 'kneel'] FAIL
+['salet', 'elect', 'olent', 'glent', 'blent', 'knelt']
+['salet', 'eerie', 'niece', 'diene', 'penie', 'eigne', 'newie', 'neive', 'exine', 'ezine', 'imine', 'koine', 'knife'] FAIL
+['salet', 'ronin', 'nonny', 'codon', 'choon', 'knock']
+['salet', 'linin', 'colon', 'holon', 'logon', 'loony', 'knoll'] FAIL
+['salet', 'ronin', 'codon', 'unwon', 'known']
+['salet', 'laari', 'coala', 'koala']
+['salet', 'linin', 'loric', 'libri', 'drill', 'prill', 'grill', 'frill', 'krill'] FAIL
+['salet', 'laree', 'laden', 'lapel', 'label']
+['salet', 'laari', 'laura', 'lahar', 'labor']
+['salet', 'laree', 'laden']
+['salet', 'laree', 'lance', 'ladle']
+['salet', 'laree', 'lacer', 'lader', 'lamer', 'lager']
+['salet', 'laree', 'lance']
+['salet', 'laari', 'lauan', 'lagan', 'lanch', 'lanky']
+['salet', 'laree', 'laden', 'lapel']
+['salet', 'eales', 'easel', 'easle', 'salse', 'lapse']
+['salet', 'laree', 'large']
+['salet', 'laari', 'laura', 'labra', 'larva']
+['salet', 'saola', 'salon', 'lasso']
+['salet', 'ratal', 'natal', 'datal', 'latah', 'latch']
+['salet', 'talea', 'later']
+['salet', 'talea', 'later', 'latte', 'lathe']
+['salet', 'talea', 'later', 'latte']
+['salet', 'laari', 'lauan', 'lauch', 'laugh']
+['salet', 'laree', 'lacer', 'lader', 'lamer', 'lager', 'layer'] FAIL
+['salet', 'laree', 'liane', 'leave', 'leaze', 'leach']
+['salet', 'laree', 'liane', 'leave', 'leaze', 'leach', 'leady', 'leafy'] FAIL
+['salet', 'laree', 'liane', 'leave', 'leaze', 'leach', 'leady', 'leafy', 'leaky'] FAIL
+['salet', 'alert', 'leant']
+['salet', 'alert', 'leant', 'leapt']
+['salet', 'laree', 'leare', 'learn']
+['salet', 'eales', 'easel', 'easle', 'lease']
+['salet', 'eales', 'easel', 'easle', 'lease', 'leash']
+['salet', 'least']
+['salet', 'laree', 'liane', 'leave']
+['salet', 'neele', 'relie', 'melee', 'gelee', 'ledge']
+['salet', 'neele', 'leeze', 'leery', 'leech']
+['salet', 'neele', 'leeze', 'leery']
+['salet', 'elite', 'elute', 'lotte', 'lefte', 'lefty']
+['salet', 'laree', 'liane', 'leave', 'leaze', 'legal']
+['salet', 'neele', 'relie', 'melee', 'gelee', 'ledge', 'legge', 'leggo', 'leggy'] FAIL
+['salet', 'neele', 'leone', 'lemon']
+['salet', 'neele', 'relie', 'lered', 'leper', 'leger', 'lever', 'lemur'] FAIL
+['salet', 'elpee', 'leper']
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'lever', 'level'] FAIL
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'lever'] FAIL
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'rebel', 'nebel', 'debel', 'libel'] FAIL
+['salet', 'neele', 'leeze', 'liege']
+['salet', 'lirot', 'licit', 'limit', 'light']
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'lered', 'linen', 'liken'] FAIL
+['salet', 'cilia', 'lilac']
+['salet', 'linin', 'libri', 'limbi', 'limbo']
+['salet', 'lirot', 'licit', 'limit']
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'lered', 'linen'] FAIL
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'lered', 'liner'] FAIL
+['salet', 'linin', 'lingo']
+['salet', 'linin', 'lipid']
+['salet', 'elite', 'litre', 'lithe']
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'lever', 'liver'] FAIL
+['salet', 'linin', 'lipid', 'livid']
+['salet', 'laari', 'llano', 'llama']
+['salet', 'laari', 'llano', 'loach', 'loamy']
+['salet', 'altar', 'alant', 'plait', 'loath']
+['salet', 'linin', 'loord', 'lolog', 'lolly', 'loopy', 'looby', 'lobby'] FAIL
+['salet', 'laari', 'llano', 'local']
+['salet', 'loirs', 'loons', 'locos', 'locus']
+['salet', 'neele', 'relie', 'elpee', 'melee', 'gelee', 'eloge', 'lodge'] FAIL
+['salet', 'lirot', 'lotto', 'lofty']
+['salet', 'linin', 'loric', 'logic']
+['salet', 'linin', 'lipin', 'login']
+['salet', 'linin', 'loord', 'loopy']
+['salet', 'leese', 'lense', 'loose']
+['salet', 'linin', 'loord', 'lorry']
+['salet', 'leres', 'lores', 'loser']
+['salet', 'leese', 'lense', 'loose', 'louse']
+['salet', 'loirs', 'loons', 'locos', 'lolls', 'loops', 'looms', 'logos', 'lobos', 'loofs', 'looks', 'lossy', 'lousy'] FAIL
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'lever', 'liver', 'lover'] FAIL
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'lered', 'liner', 'lurer', 'lower'] FAIL
+['salet', 'linin', 'loord', 'lolog', 'lolly', 'lowly']
+['salet', 'laari', 'llano', 'local', 'loyal']
+['salet', 'linin', 'loric', 'lucid']
+['salet', 'linin', 'loord', 'lumpy', 'lucky']
+['salet', 'elpee', 'melee', 'merel', 'elmen', 'limen', 'lumen'] FAIL
+['salet', 'linin', 'loord', 'lumpy']
+['salet', 'laari', 'loran', 'lunar']
+['salet', 'linin', 'lunch']
+['salet', 'neele', 'leone', 'ligne', 'lunge']
+['salet', 'loirs', 'lulls', 'lusus', 'lulus', 'lupus']
+['salet', 'linin', 'loord', 'lurry', 'lurch']
+['salet', 'linin', 'loric', 'lurid']
+['salet', 'tirls', 'loots', 'lunts', 'lusts', 'lusty']
+['salet', 'linin', 'lipin', 'lingo', 'lungi', 'lingy', 'lying'] FAIL
+['salet', 'linin', 'loord', 'lumpy', 'lymph']
+['salet', 'linin', 'loric', 'lyric']
+['salet', 'anana', 'radar', 'cacao', 'macaw']
+['salet', 'anana', 'radar', 'cacao', 'bacco', 'macho']
+['salet', 'anana', 'radar', 'parra', 'marra', 'marri', 'macro'] FAIL
+['salet', 'anana', 'radar', 'kadai', 'dadah', 'madam']
+['salet', 'laari', 'nalla', 'calla', 'paolo', 'walla', 'dally', 'madly'] FAIL
+['salet', 'anana', 'parra', 'facia', 'mafia']
+['salet', 'anana', 'radar', 'cacao', 'facia', 'gamic', 'magic'] FAIL
+['salet', 'anana', 'parra', 'facia', 'haoma', 'kaama', 'mamma', 'magma'] FAIL
+['salet', 'narre', 'cadie', 'mamie', 'mavie', 'maize']
+['salet', 'anana', 'radar', 'maror', 'mayor', 'major']
+['salet', 'eerie', 'raree', 'ranee', 'rarer', 'eager', 'carer', 'darer', 'parer', 'barer', 'farer', 'yarer', 'rawer', 'raker', 'oaker', 'maker'] FAIL
+['salet', 'anana', 'radar', 'cacao', 'yahoo', 'maiko', 'mambo'] FAIL
+['salet', 'anana', 'parra', 'facia', 'haoma', 'kaama', 'mamma'] FAIL
+['salet', 'anana', 'radar', 'cacao', 'kaama', 'mamma', 'mammy'] FAIL
+['salet', 'anana', 'naira', 'nanna', 'canna', 'nanua', 'manna', 'manga'] FAIL
+['salet', 'narre', 'naeve', 'canoe', 'panne', 'kanae', 'mange'] FAIL
+['salet', 'anana', 'naira', 'nanna', 'canna', 'nanua', 'manna', 'manga', 'mango'] FAIL
+['salet', 'anana', 'naira', 'nanna', 'canna', 'nanua', 'manna', 'manga', 'mango', 'mangy'] FAIL
+['salet', 'anana', 'naira', 'mania']
+['salet', 'anana', 'naira', 'naiad', 'mania', 'manic']
+['salet', 'laari', 'nalla', 'nabla', 'manly']
+['salet', 'anana', 'naira', 'caron', 'radon', 'manor']
+['salet', 'laree', 'eagle', 'maile', 'macle', 'maple']
+['salet', 'anana', 'radar', 'parra', 'marra', 'maria', 'maror', 'marah', 'march'] FAIL
+['salet', 'anana', 'radar', 'parra', 'marra', 'marri', 'marry'] FAIL
+['salet', 'raias', 'naras', 'saros', 'carrs', 'paras', 'maras', 'marms', 'marsh'] FAIL
+['salet', 'raias', 'naans', 'nanas', 'sansa', 'nanos', 'manos', 'mason'] FAIL
+['salet', 'easer', 'eases', 'eased', 'oases', 'sasse', 'passe', 'masse'] FAIL
+['salet', 'taata', 'aarti', 'tanna', 'tatou', 'batta', 'tatty', 'hatha', 'catch', 'patch', 'match'] FAIL
+['salet', 'eater', 'eaten', 'dated', 'matey']
+['salet', 'narre', 'cadie', 'mahoe', 'mauve']
+['salet', 'anana', 'radar', 'cacao', 'kaama', 'mafia', 'maxim'] FAIL
+['salet', 'narre', 'cadie', 'mahoe', 'mauve', 'maybe']
+['salet', 'anana', 'radar', 'maror', 'mayor']
+['salet', 'laree', 'anele', 'eagle', 'abele', 'veale', 'heald', 'mealy'] FAIL
+['salet', 'arret', 'anent', 'ament', 'meant']
+['salet', 'arete', 'enate', 'coate', 'amate', 'meath', 'meaty'] FAIL
+['salet', 'areae', 'ainee', 'cadee', 'peace', 'mecca']
+['salet', 'laree', 'anele', 'allee', 'ealed', 'aldea', 'ladle', 'addle', 'dedal', 'pedal', 'medal'] FAIL
+['salet', 'areae', 'ainee', 'aecia', 'media']
+['salet', 'eerie', 'penie', 'dexie', 'medii', 'medic']
+['salet', 'eerie', 'melee']
+['salet', 'relie', 'belle', 'deled', 'cello', 'pelon', 'melon'] FAIL
+['salet', 'eerie', 'cerne', 'cered', 'perce', 'merch', 'mercy'] FAIL
+['salet', 'eerie', 'cerne', 'merde', 'merge']
+['salet', 'erect', 'inert', 'piert', 'merit']
+['salet', 'eerie', 'cerne', 'merer', 'merde', 'merge', 'merry'] FAIL
+['salet', 'elate', 'telae', 'petal', 'metal']
+['salet', 'tepee', 'tenet', 'deter', 'meter']
+['salet', 'teene', 'retie', 'retro', 'metro']
+['salet', 'ronin', 'prior', 'rigor', 'micro']
+['salet', 'eerie', 'niece', 'mieve', 'midge']
+['salet', 'roist', 'inust', 'shist', 'twist', 'didst', 'midst'] FAIL
+['salet', 'trior', 'innit', 'pipit', 'digit', 'tight', 'might'] FAIL
+['salet', 'ronin', 'dilli', 'villi', 'filmi', 'kilim', 'milky'] FAIL
+['salet', 'ronin', 'cippi', 'mimic']
+['salet', 'eerie', 'niece', 'mince']
+['salet', 'eerie', 'eider', 'niner', 'miner']
+['salet', 'ronin', 'dinic', 'minim']
+['salet', 'ronin', 'minor']
+['salet', 'trior', 'innit', 'tinct', 'ninth', 'tinty', 'minty'] FAIL
+['salet', 'orris', 'minis', 'minus']
+['salet', 'trior', 'rutin', 'britt', 'fritt', 'crith', 'mirth'] FAIL
+['salet', 'resee', 'erses', 'reses', 'riser', 'miser']
+['salet', 'orris', 'minis', 'midis', 'mihis', 'missy']
+['salet', 'anana', 'coria', 'cocoa', 'bocca', 'mocha']
+['salet', 'laari', 'annal', 'local', 'molal', 'modal']
+['salet', 'elpee', 'melee', 'merel', 'model']
+['salet', 'eerie', 'cooee', 'donee', 'ooped', 'mooed', 'modem'] FAIL
+['salet', 'linin', 'color', 'hollo', 'lolog', 'goold', 'gooly', 'mogul'] FAIL
+['salet', 'roist', 'moist']
+['salet', 'cilia', 'malar', 'molar']
+['salet', 'ronin', 'hollo', 'lolog', 'lolly', 'colly', 'dolly', 'moldy'] FAIL
+['salet', 'eerie', 'cooee', 'donee', 'poney', 'money']
+['salet', 'trior', 'conto', 'month']
+['salet', 'ronin', 'cocco', 'oomph', 'doomy', 'moody']
+['salet', 'resee', 'neese', 'geese', 'seise', 'feese', 'cesse', 'obese', 'moose'] FAIL
+['salet', 'laari', 'roral', 'loral', 'coral', 'poral', 'moral'] FAIL
+['salet', 'ronin', 'doorn', 'moron']
+['salet', 'ronin', 'morro', 'morph']
+['salet', 'orris', 'noons', 'cocos', 'soops', 'mosso', 'mossy'] FAIL
+['salet', 'liter', 'betel', 'motel']
+['salet', 'trior', 'nooit', 'ootid', 'motif']
+['salet', 'trior', 'rotor', 'motor']
+['salet', 'trior', 'conto', 'potto', 'motto']
+['salet', 'lirot', 'cloot', 'pluot', 'moult']
+['salet', 'ronin', 'nonny', 'moong', 'mound']
+['salet', 'trior', 'coopt', 'donut', 'mount']
+['salet', 'ronin', 'doorn', 'mourn']
+['salet', 'resee', 'neese', 'geese', 'seise', 'feese', 'cesse', 'obese', 'moose', 'mouse'] FAIL
+['salet', 'trior', 'conto', 'potto', 'motto', 'motty', 'mouth'] FAIL
+['salet', 'eerie', 'emeer', 'merer', 'moner', 'moder', 'moper', 'mower', 'mover'] FAIL
+['salet', 'eerie', 'penie', 'dexie', 'vegie', 'civie', 'movie'] FAIL
+['salet', 'eerie', 'emeer', 'merer', 'moner', 'moder', 'moper', 'mower'] FAIL
+['salet', 'ronin', 'yucch', 'ducky', 'mucky']
+['salet', 'orris', 'bunns', 'cusps', 'cusks', 'mucus']
+['salet', 'ronin', 'yucch', 'duddy', 'puddy', 'muddy']
+['salet', 'ronin', 'culch', 'mulch']
+['salet', 'ronin', 'yucch', 'duddy', 'puppy', 'mummy']
+['salet', 'ronin', 'nunny', 'dunch', 'punch', 'munch']
+['salet', 'laari', 'roral', 'aural', 'rural', 'dural', 'mural'] FAIL
+['salet', 'ronin', 'churr', 'durry', 'murry', 'murky']
+['salet', 'orris', 'snush', 'smush', 'chums', 'humus', 'humps', 'humfs', 'mushy'] FAIL
+['salet', 'orris', 'minis', 'midis', 'mihis', 'music']
+['salet', 'orris', 'snush', 'susus', 'cusps', 'bussu', 'mussy', 'musky'] FAIL
+['salet', 'tirrs', 'ottos', 'stunt', 'tutus', 'putts', 'mutts', 'musts', 'musth', 'musty'] FAIL
+['salet', 'ronin', 'churr', 'myrrh']
+['salet', 'anana', 'naira', 'naric', 'nadir']
+['salet', 'narre', 'naeve', 'naive']
+['salet', 'anana', 'nanna', 'nanny']
+['salet', 'saola', 'lanas', 'nalas', 'nasal']
+['salet', 'rasta', 'oasts', 'pasta', 'hasta', 'basta', 'casts', 'fasti', 'masts', 'tasty', 'nasty'] FAIL
+['salet', 'ratal', 'natal']
+['salet', 'laari', 'nalla', 'nahal', 'naval']
+['salet', 'laree', 'ealed', 'palea', 'galea', 'navel']
+['salet', 'eerie', 'peece', 'neeze', 'needy']
+['salet', 'eerie', 'penie', 'genie', 'genii', 'genic', 'deign', 'neigh'] FAIL
+['salet', 'eerie', 'cerne', 'gerne', 'kerne', 'nerve', 'nerdy'] FAIL
+['salet', 'eerie', 'cerne', 'gerne', 'kerne', 'nerve']
+['salet', 'eerie', 'merer', 'neper', 'newer', 'never']
+['salet', 'eerie', 'merer', 'neper', 'newer']
+['salet', 'neele', 'neeld', 'nelly', 'newly']
+['salet', 'eerie', 'eider', 'niner', 'nicer']
+['salet', 'eerie', 'niece', 'niche']
+['salet', 'eerie', 'niece']
+['salet', 'trior', 'innit', 'tinct', 'binit', 'night']
+['salet', 'anana', 'naira', 'ninja']
+['salet', 'ronin', 'dinic', 'ninny']
+['salet', 'trior', 'innit', 'tinct', 'ninth']
+['salet', 'neele', 'noule', 'noble']
+['salet', 'linin', 'colon', 'holon', 'logon', 'loony', 'nobly'] FAIL
+['salet', 'resee', 'neese', 'noise']
+['salet', 'orris', 'nonis', 'noisy']
+['salet', 'anana', 'naira', 'nanna', 'nanua', 'ngana', 'napoo', 'nacho', 'nomad'] FAIL
+['salet', 'resee', 'neese', 'noise', 'noose']
+['salet', 'trior', 'rotor', 'torot', 'north']
+['salet', 'resee', 'besee', 'esses', 'nisei', 'noses', 'nosed', 'nosey'] FAIL
+['salet', 'trior', 'conto', 'count', 'notch']
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'elver', 'elven', 'nevel', 'novel'] FAIL
+['salet', 'eerie', 'cooee', 'neeze', 'neume', 'nudge']
+['salet', 'resee', 'serre', 'siree', 'soree', 'scree', 'perse', 'merse', 'herse', 'verse', 'nurse'] FAIL
+['salet', 'trior', 'tutty', 'nutty']
+['salet', 'ronin', 'colon', 'holon', 'nylon']
+['salet', 'ronin', 'nunny', 'nymph']
+['salet', 'eerie', 'eaned', 'oaken']
+['salet', 'resee', 'neese', 'geese', 'feese', 'obese']
+['salet', 'ronin', 'morro', 'cruor', 'occur']
+['salet', 'areae', 'zoeae', 'ocean']
+['salet', 'altar', 'natal', 'total', 'octal']
+['salet', 'eerie', 'tenet', 'tweet', 'octet']
+['salet', 'eerie', 'emeer', 'dreer', 'ender', 'ceder', 'order', 'odder'] FAIL
+['salet', 'linin', 'color', 'hollo', 'ovolo', 'oddly']
+['salet', 'laari', 'annal', 'local', 'molal', 'loyal', 'podal', 'joual', 'offal'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'breer', 'ferer', 'freer', 'refer', 'gofer', 'offer'] FAIL
+['salet', 'tepee', 'enter', 'noted', 'moten', 'hoten', 'often'] FAIL
+['salet', 'elpee', 'elder', 'olden']
+['salet', 'elpee', 'elder', 'older']
+['salet', 'neele', 'relie', 'edile', 'exile', 'loipe', 'moile', 'olive'] FAIL
+['salet', 'eerie', 'deere', 'enure', 'brere', 'ombre']
+['salet', 'areae', 'amene', 'ameba', 'omega']
+['salet', 'ronin', 'inion', 'onion']
+['salet', 'reset', 'inset', 'onset']
+['salet', 'areae', 'arere', 'opera']
+['salet', 'eerie', 'niece', 'diene', 'eigne', 'exine', 'ezine', 'imine', 'opine'] FAIL
+['salet', 'ronin', 'idiom', 'opium']
+['salet', 'trior', 'nooit', 'ootid', 'optic']
+['salet', 'trior', 'droit', 'orbit']
+['salet', 'eerie', 'emeer', 'dreer', 'order']
+['salet', 'anana', 'naira', 'anura', 'acorn', 'adorn', 'apron', 'maron', 'argon', 'organ'] FAIL
+['salet', 'tepee', 'enter', 'trier', 'deter', 'meter', 'ether', 'other'] FAIL
+['salet', 'tepee', 'enter', 'deter', 'titer', 'meter', 'otter'] FAIL
+['salet', 'trior', 'coopt', 'donut', 'ought']
+['salet', 'eerie', 'cooee', 'conne', 'nonce', 'ounce']
+['salet', 'trior', 'conto', 'potoo', 'motto', 'outdo']
+['salet', 'tepee', 'enter', 'deter', 'titer', 'meter', 'otter', 'outer'] FAIL
+['salet', 'trior', 'conto', 'potoo', 'motto', 'outdo', 'outgo'] FAIL
+['salet', 'anana', 'acari', 'afara', 'roary', 'hoary', 'goary', 'ovary'] FAIL
+['salet', 'arete', 'enate', 'coate', 'ovate']
+['salet', 'erect', 'inert', 'evert', 'overt']
+['salet', 'eerie', 'niece', 'diene', 'eigne', 'exine', 'ezine', 'imine', 'opine', 'ovine'] FAIL
+['salet', 'ronin', 'ovoid']
+['salet', 'ronin', 'inion', 'onion', 'onium', 'oping', 'ohing', 'owing'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'newer', 'owner'] FAIL
+['salet', 'eerie', 'niece', 'beige', 'peize', 'imide', 'oxide'] FAIL
+['salet', 'eerie', 'cooee', 'epode', 'ohone', 'ozone']
+['salet', 'anana', 'radar', 'kadai', 'dadah', 'padma', 'paddy'] FAIL
+['salet', 'anana', 'naira', 'nanna', 'canna', 'nanua', 'manna', 'napoo', 'panda', 'pagan'] FAIL
+['salet', 'taata', 'tarot', 'taint', 'daint', 'paint']
+['salet', 'eerie', 'paler']
+['salet', 'nalas', 'salsa', 'palsa', 'palsy']
+['salet', 'laree', 'ealed', 'palea', 'panel']
+['salet', 'anana', 'naira', 'naiad', 'mania', 'bania', 'panic'] FAIL
+['salet', 'raias', 'naans', 'nanas', 'sansa', 'canso', 'hansa', 'pansy'] FAIL
+['salet', 'laari', 'nalla', 'calla', 'paolo', 'palla', 'papal'] FAIL
+['salet', 'eerie', 'raree', 'ranee', 'rarer', 'eager', 'carer', 'darer', 'parer', 'paper'] FAIL
+['salet', 'eerie', 'raree', 'rarer', 'carer', 'darer', 'parer'] FAIL
+['salet', 'anana', 'parra', 'parma', 'parka']
+['salet', 'anana', 'radar', 'parra', 'parry']
+['salet', 'easer', 'saree', 'carse', 'parse']
+['salet', 'taata', 'aarti', 'carta', 'yarta', 'yarto', 'tarty', 'party'] FAIL
+['salet', 'rasta', 'pasta']
+['salet', 'earst', 'taste', 'caste', 'paste']
+['salet', 'rasta', 'oasts', 'pasta', 'pasts', 'pasty']
+['salet', 'taata', 'aarti', 'tanna', 'tatou', 'batta', 'tatty', 'hatha', 'catch', 'patch'] FAIL
+['salet', 'taata', 'aarti', 'taint', 'matai', 'patio']
+['salet', 'rasta', 'satai', 'tatts', 'tatus', 'datos', 'satay', 'patsy'] FAIL
+['salet', 'taata', 'aarti', 'tanto', 'batta', 'tatty', 'catty', 'patty'] FAIL
+['salet', 'easer', 'eases', 'caese', 'sasse', 'paise', 'passe', 'pause'] FAIL
+['salet', 'eerie', 'cadee', 'mamee', 'payee']
+['salet', 'eerie', 'raree', 'ranee', 'rarer', 'eager', 'carer', 'darer', 'parer', 'paper', 'payer'] FAIL
+['salet', 'areae', 'ainee', 'cadee', 'peace']
+['salet', 'areae', 'ainee', 'cadee', 'peace', 'peach']
+['salet', 'laree', 'leare', 'learn', 'pearl']
+['salet', 'areae', 'venae', 'decan', 'pecan']
+['salet', 'laree', 'anele', 'allee', 'ealed', 'aldea', 'ladle', 'addle', 'dedal', 'pedal'] FAIL
+['salet', 'laree', 'anele', 'alane', 'alien', 'alone', 'ancle', 'ulnae', 'penal'] FAIL
+['salet', 'eerie', 'peece', 'pence']
+['salet', 'eerie', 'peece', 'peepe', 'penne']
+['salet', 'eerie', 'peece', 'peepe', 'penne', 'penny']
+['salet', 'eerie', 'cerne', 'cered', 'perce', 'perch']
+['salet', 'neele', 'relie', 'reoil', 'peril']
+['salet', 'eerie', 'cerne', 'merer', 'ferer', 'derro', 'herye', 'perry', 'perky'] FAIL
+['salet', 'resee', 'besee', 'cesse', 'mesne', 'desse', 'gesse', 'fesse', 'sesey', 'pesky'] FAIL
+['salet', 'ester', 'teste', 'geste', 'tests', 'nests', 'cesti', 'pesto'] FAIL
+['salet', 'elate', 'telae', 'petal']
+['salet', 'teene', 'retie', 'meted', 'petto', 'petty']
+['salet', 'easer', 'eases', 'sease', 'cease', 'pease', 'phase'] FAIL
+['salet', 'eerie', 'cooee', 'epode', 'phone']
+['salet', 'ronin', 'nonny', 'nouny', 'moony', 'goony', 'phony'] FAIL
+['salet', 'trior', 'conto', 'potto', 'putto', 'photo']
+['salet', 'anana', 'ruana', 'piani', 'piano']
+['salet', 'ronin', 'cippi', 'piccy', 'picky']
+['salet', 'eerie', 'niece', 'piece']
+['salet', 'teene', 'weete', 'teeth', 'duett', 'piety']
+['salet', 'ronin', 'cippi', 'dippy', 'pippy', 'pigmy', 'piggy'] FAIL
+['salet', 'trior', 'pilot']
+['salet', 'ronin', 'dinic', 'vinic', 'cinch', 'pinch']
+['salet', 'eerie', 'inned', 'cunei', 'piney']
+['salet', 'ronin', 'dinic', 'ninny', 'pinny', 'pinky']
+['salet', 'trior', 'nooit', 'niton', 'pinot', 'pinto']
+['salet', 'eerie', 'eider', 'niner', 'ricer', 'riper', 'piper'] FAIL
+['salet', 'eerie', 'niece', 'mieve', 'didie', 'pioye', 'pixie', 'pique'] FAIL
+['salet', 'trior', 'innit', 'tutti', 'ictic', 'titch', 'ditch', 'pitch'] FAIL
+['salet', 'trior', 'innit', 'tutti', 'ictic', 'titty', 'ditty', 'bitty', 'witty', 'kitty', 'pithy'] FAIL
+['salet', 'trior', 'idiot', 'pitot', 'pinot', 'picot', 'pivot'] FAIL
+['salet', 'elpee', 'leper', 'cleep', 'pilei', 'piled', 'pixel'] FAIL
+['salet', 'eerie', 'penie', 'pokie', 'pixie']
+['salet', 'anana', 'coria', 'amiga', 'haika', 'zaida', 'baiza', 'pizza'] FAIL
+['salet', 'laree', 'anele', 'allee', 'albee', 'aleye', 'algae', 'olpae', 'place'] FAIL
+['salet', 'laari', 'liana', 'biali', 'avail', 'claim', 'flail', 'plaid'] FAIL
+['salet', 'laari', 'liana', 'plain']
+['salet', 'alant', 'clart', 'plait']
+['salet', 'laree', 'anele', 'alane', 'plane']
+['salet', 'laari', 'coala', 'alaap', 'alapa', 'playa', 'plaza', 'plank'] FAIL
+['salet', 'alant', 'plant']
+['salet', 'elate', 'alate', 'plate']
+['salet', 'laari', 'coala', 'alapa', 'playa', 'plaza']
+['salet', 'laree', 'anele', 'abele', 'ileal', 'plead']
+['salet', 'alert', 'cleat', 'pleat']
+['salet', 'elpee', 'cleep', 'plier', 'plied']
+['salet', 'elpee', 'cleep', 'plier']
+['salet', 'linin', 'color', 'culch', 'cluck', 'pluck']
+['salet', 'linin', 'color', 'dully', 'plump', 'plumb']
+['salet', 'neele', 'relie', 'elpee', 'elope', 'clepe', 'plebe', 'plume'] FAIL
+['salet', 'linin', 'color', 'dully', 'plump']
+['salet', 'linin', 'colon', 'knurl', 'plunk']
+['salet', 'loirs', 'nulls', 'lulls', 'sculs', 'slums', 'slush', 'plush'] FAIL
+['salet', 'resee', 'neese', 'geese', 'feese', 'obese', 'poesy'] FAIL
+['salet', 'trior', 'noint', 'point']
+['salet', 'resee', 'neese', 'geese', 'seise', 'peise', 'poise'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'porer', 'power', 'poker'] FAIL
+['salet', 'cilia', 'malar', 'polar']
+['salet', 'cilia', 'nulla', 'molla', 'holla', 'polka']
+['salet', 'ronin', 'hollo', 'lolog', 'lolly', 'colly', 'dolly', 'polly', 'polyp'] FAIL
+['salet', 'ronin', 'cocco', 'cooch', 'pooch']
+['salet', 'ronin', 'cocco', 'oomph', 'poopy', 'poppy']
+['salet', 'ronin', 'morro', 'zorro', 'fordo', 'borgo', 'porch'] FAIL
+['salet', 'resee', 'erses', 'reses', 'riser', 'noser', 'doser', 'poser'] FAIL
+['salet', 'roist', 'posit']
+['salet', 'resee', 'besee', 'ensue', 'cesse', 'desse', 'gesse', 'fesse', 'jesse', 'posse'] FAIL
+['salet', 'ronin', 'cocco', 'cooch', 'pooch', 'pouch']
+['salet', 'ronin', 'nonny', 'moong', 'pound']
+['salet', 'trior', 'conto', 'potto', 'potty', 'pouty']
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'porer', 'power'] FAIL
+['salet', 'anana', 'ruana', 'prana', 'prang', 'prank']
+['salet', 'anana', 'ruana', 'prana', 'prang', 'prawn']
+['salet', 'eerie', 'emeer', 'dreer', 'preen']
+['salet', 'resee', 'serer', 'serre', 'siree', 'erose', 'prese', 'press'] FAIL
+['salet', 'eerie', 'rorie', 'hiree', 'regie', 'fiere', 'eyrie', 'reive', 'crine', 'drice', 'price'] FAIL
+['salet', 'ronin', 'cirri', 'ridic', 'chirr', 'crimp', 'pricy', 'prick'] FAIL
+['salet', 'eerie', 'rorie', 'hiree', 'regie', 'fiere', 'eyrie', 'reive', 'crine', 'pride'] FAIL
+['salet', 'eerie', 'eider', 'direr', 'drier', 'cried', 'dried', 'pried'] FAIL
+['salet', 'eerie', 'rorie', 'hiree', 'regie', 'fiere', 'eyrie', 'reive', 'crine', 'pride', 'prime'] FAIL
+['salet', 'ronin', 'prior', 'primo']
+['salet', 'trior', 'print']
+['salet', 'ronin', 'prior']
+['salet', 'orris', 'irids', 'grins', 'priss', 'prism']
+['salet', 'ronin', 'cirri', 'kirri', 'murri', 'rigid', 'whirr', 'privy'] FAIL
+['salet', 'eerie', 'rorie', 'hiree', 'regie', 'fiere', 'eyrie', 'reive', 'crine', 'pride', 'prime', 'prize'] FAIL
+['salet', 'eerie', 'deere', 'renne', 'reeve', 'brere', 'breme', 'grebe', 'probe'] FAIL
+['salet', 'eerie', 'deere', 'renne', 'cerne', 'ronne', 'prone'] FAIL
+['salet', 'ronin', 'corno', 'porno', 'prong']
+['salet', 'ronin', 'morro', 'cruor', 'droop', 'proof']
+['salet', 'resee', 'serre', 'siree', 'erose', 'prose']
+['salet', 'ronin', 'morro', 'cruor', 'proud']
+['salet', 'eerie', 'deere', 'renne', 'reeve', 'perve', 'preve', 'prove'] FAIL
+['salet', 'linin', 'color', 'dolor', 'orlop', 'proll', 'proul', 'prowl'] FAIL
+['salet', 'ronin', 'morro', 'cruor', 'droop', 'proof', 'proxy'] FAIL
+['salet', 'eerie', 'deere', 'reede', 'erode', 'brede', 'crude', 'prude'] FAIL
+['salet', 'eerie', 'deere', 'renne', 'cerne', 'ronne', 'gerne', 'kerne', 'prune'] FAIL
+['salet', 'alias', 'saola', 'scala', 'daals', 'paals', 'psalm'] FAIL
+['salet', 'ronin', 'cippi', 'cupid', 'pubic']
+['salet', 'ronin', 'yucch', 'duddy', 'puddy', 'pudgy']
+['salet', 'ronin', 'yucch', 'duddy', 'puppy', 'puggy', 'puffy'] FAIL
+['salet', 'ronin', 'culch', 'dully', 'pulpy']
+['salet', 'selle', 'solde', 'pulse']
+['salet', 'ronin', 'nunny', 'dunch', 'punch']
+['salet', 'linin', 'loric', 'filii', 'lipid', 'pupil']
+['salet', 'ronin', 'yucch', 'duddy', 'puppy']
+['salet', 'eerie', 'doree', 'puree']
+['salet', 'eerie', 'erred', 'merer', 'ferer', 'corer', 'purer'] FAIL
+['salet', 'eerie', 'cerne', 'doree', 'puree', 'purge']
+['salet', 'resee', 'serre', 'siree', 'soree', 'scree', 'perse', 'purse'] FAIL
+['salet', 'orris', 'snush', 'smush', 'shush', 'sughs', 'sukhs', 'cushy', 'pushy'] FAIL
+['salet', 'trior', 'tutty', 'nutty', 'cutty', 'putty']
+['salet', 'ronin', 'yucch', 'gyppy', 'pygmy']
+['salet', 'anana', 'acari', 'abaca', 'chaco', 'quack']
+['salet', 'laari', 'liana', 'biali', 'avail', 'flail', 'quail'] FAIL
+['salet', 'areae', 'ainee', 'cadee', 'zoeae', 'mamee', 'peage', 'heave', 'awake', 'quake'] FAIL
+['salet', 'laari', 'coala', 'nyala', 'afald', 'jhala', 'qualm'] FAIL
+['salet', 'anana', 'acari', 'afara', 'roary', 'award', 'pharm', 'quark'] FAIL
+['salet', 'ariot', 'tratt', 'trant', 'apart', 'tuart', 'quart'] FAIL
+['salet', 'arars', 'asana', 'acais', 'omasa', 'abash', 'awash', 'shash', 'quash'] FAIL
+['salet', 'arars', 'asana', 'acais', 'jiaos', 'spahi', 'swami', 'quasi'] FAIL
+['salet', 'eerie', 'cooee', 'eeven', 'heben', 'queen']
+['salet', 'eerie', 'emeer', 'dreer', 'breer', 'freer', 'cheer', 'queer'] FAIL
+['salet', 'neele', 'obeli', 'deely', 'chelp', 'quell']
+['salet', 'eerie', 'deere', 'brere', 'frere', 'chere', 'emerg', 'peery', 'onery', 'every', 'query'] FAIL
+['salet', 'reest', 'egest', 'ewest', 'doest', 'fiest', 'chest', 'quest'] FAIL
+['salet', 'eerie', 'cooee', 'neeze', 'peepe', 'deeve', 'exeme', 'weeke', 'queue'] FAIL
+['salet', 'ronin', 'cippi', 'mimic', 'civic', 'chich', 'juicy', 'quick'] FAIL
+['salet', 'eerie', 'pipet', 'civet', 'bidet', 'quiet']
+['salet', 'linin', 'loric', 'filii', 'dilli', 'villi', 'pulli', 'quill'] FAIL
+['salet', 'lirot', 'licit', 'limit', 'unlit', 'uplit', 'guilt', 'built', 'quilt'] FAIL
+['salet', 'ronin', 'cirri', 'kirri', 'kukri', 'quirk']
+['salet', 'teene', 'retie', 'evite', 'boite', 'twite', 'quite'] FAIL
+['salet', 'taata', 'anata', 'raita', 'cotta', 'outta', 'quota'] FAIL
+['salet', 'teene', 'retie', 'tepee', 'etwee', 'tutee', 'butte', 'quote'] FAIL
+['salet', 'trior', 'conto', 'potto', 'motto', 'tooth', 'booth', 'quoth'] FAIL
+['salet', 'anana', 'radar', 'rakia', 'rahui', 'rabbi']
+['salet', 'anana', 'radar', 'raird', 'rapid', 'rabid']
+['salet', 'eerie', 'raree', 'ranee', 'rarer', 'racer']
+['salet', 'anana', 'radar']
+['salet', 'anana', 'radar', 'radii']
+['salet', 'anana', 'radar', 'radii', 'radio']
+['salet', 'anana', 'nanna', 'canna', 'manna', 'garni', 'rainy'] FAIL
+['salet', 'easer', 'saree', 'raise']
+['salet', 'anana', 'radar', 'rayah', 'rajah']
+['salet', 'anana', 'aalii', 'malar', 'valor', 'rally']
+['salet', 'anana', 'aalii', 'malar', 'valor', 'rally', 'ralph'] FAIL
+['salet', 'eerie', 'raree', 'ranee', 'ramen']
+['salet', 'anana', 'naira', 'caron', 'ranch']
+['salet', 'anana', 'naira', 'caron', 'ranga', 'randy']
+['salet', 'narre', 'raine', 'rance', 'range']
+['salet', 'anana', 'radar', 'raird', 'rapid']
+['salet', 'eerie', 'raree', 'rarer']
+['salet', 'raias', 'ranas', 'ragas', 'rayas', 'raspy']
+['salet', 'taata', 'aarti', 'raita', 'ratio']
+['salet', 'taata', 'aarti', 'carta', 'yarta', 'yarto', 'ratty'] FAIL
+['salet', 'eerie', 'raree', 'ranee', 'ramen', 'raven']
+['salet', 'anana', 'naira', 'caron', 'radon', 'rayon']
+['salet', 'anana', 'radar', 'razor']
+['salet', 'areae', 'arere', 'raree', 'ranee', 'rarer', 'ramee', 'ragee', 'rakee', 'reave', 'reach'] FAIL
+['salet', 'arret', 'arett', 'treat', 'earnt', 'caret', 'react'] FAIL
+['salet', 'areae', 'arere', 'raree', 'ranee', 'rarer', 'ramee', 'ragee', 'rakee', 'reave', 'reach', 'readd', 'ready'] FAIL
+['salet', 'laree', 'leare', 'realo', 'realm']
+['salet', 'areae', 'arere', 'deare', 'peare', 'meare', 'rearm'] FAIL
+['salet', 'areae', 'arear', 'anear', 'drear', 'abear', 'rebar'] FAIL
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'rebel']
+['salet', 'resee', 'reens', 'reses', 'redes', 'reges', 'reefs', 'reeks', 'rexes', 'rezes', 'repos', 'resus', 'rebus'] FAIL
+['salet', 'erect', 'inert', 'remet', 'rewet', 'revet', 'repot', 'rebut'] FAIL
+['salet', 'areae', 'arear', 'anear', 'aurae', 'aread', 'parae', 'perai', 'recap'] FAIL
+['salet', 'eerie', 'deere', 'renne', 'reeve', 'refer', 'recur'] FAIL
+['salet', 'erect', 'recit', 'recut']
+['salet', 'eerie', 'deere', 'reede', 'reedy']
+['salet', 'eerie', 'merer', 'neper', 'ferer', 'refer']
+['salet', 'erect', 'inert', 'piert', 'merit', 'rebit', 'refit'] FAIL
+['salet', 'laree', 'leare', 'leear', 'neral', 'recal', 'regal'] FAIL
+['salet', 'areae', 'arear', 'anear', 'aurae', 'aread', 'parae', 'marae', 'abear', 'rebar', 'rehab'] FAIL
+['salet', 'eerie', 'regie', 'rerig', 'reign']
+['salet', 'allee', 'ealed', 'aglee', 'palea', 'allel', 'haler', 'abler', 'relay', 'relax'] FAIL
+['salet', 'allee', 'ealed', 'aglee', 'palea', 'allel', 'haler', 'abler', 'relay'] FAIL
+['salet', 'relie', 'relic']
+['salet', 'erect', 'inert', 'piert', 'merit', 'remit']
+['salet', 'laree', 'leare', 'leear', 'neral', 'renal']
+['salet', 'eerie', 'merer', 'neper', 'reney', 'renew']
+['salet', 'areae', 'arear', 'anear', 'aurae', 'aread', 'parae', 'perai', 'recap', 'remap', 'repay'] FAIL
+['salet', 'elpee', 'leper', 'repel']
+['salet', 'neele', 'merle', 'gerle', 'rello', 'redly', 'reply'] FAIL
+['salet', 'eerie', 'cerne', 'gerne', 'kerne', 'nerve', 'rerun'] FAIL
+['salet', 'reset']
+['salet', 'resee', 'reses', 'resin']
+['salet', 'teene', 'retie', 'retro', 'retem', 'retry', 'retch'] FAIL
+['salet', 'teene', 'retie', 'retro']
+['salet', 'teene', 'retie', 'retro', 'retry']
+['salet', 'resee', 'reuse']
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'lever', 'revel'] FAIL
+['salet', 'eerie', 'deere', 'renne', 'reeve', 'revue']
+['salet', 'ronin', 'rhino']
+['salet', 'eerie', 'deere', 'renne', 'reeve', 'recce', 'rupee', 'rheme', 'rhyme'] FAIL
+['salet', 'eerie', 'eider', 'rider']
+['salet', 'eerie', 'rorie', 'regie', 'ridge']
+['salet', 'neele', 'edile', 'rille', 'rifle']
+['salet', 'trior', 'print', 'britt', 'fritt', 'chirt', 'right'] FAIL
+['salet', 'ronin', 'cirri', 'rigid']
+['salet', 'ronin', 'rigor']
+['salet', 'resee', 'reuse', 'roose', 'rinse']
+['salet', 'eerie', 'eider', 'hiree', 'niner', 'nicer', 'ripen'] FAIL
+['salet', 'eerie', 'eider', 'niner', 'ricer', 'riper']
+['salet', 'resee', 'reses', 'riser', 'risen']
+['salet', 'resee', 'reses', 'riser']
+['salet', 'orris', 'siris', 'rishi', 'risus', 'risps', 'risks', 'risky'] FAIL
+['salet', 'laari', 'urali', 'drail', 'prial', 'riyal', 'rival'] FAIL
+['salet', 'eerie', 'eider', 'niner', 'ricer', 'riper', 'rimer', 'rifer', 'river'] FAIL
+['salet', 'eerie', 'rivet']
+['salet', 'anana', 'acari', 'chara', 'charr', 'orach', 'roach'] FAIL
+['salet', 'roast']
+['salet', 'ronin', 'robin']
+['salet', 'trior', 'torot', 'robot']
+['salet', 'ronin', 'morro', 'roopy', 'roofy', 'rooky', 'rocky'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'erred', 'doree', 'rodeo'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'breer', 'ferer', 'corer', 'roger'] FAIL
+['salet', 'eerie', 'deere', 'renne', 'reeve', 'recce', 'rupee', 'rogue'] FAIL
+['salet', 'ronin', 'morro', 'roomy']
+['salet', 'roist', 'roost']
+['salet', 'trior', 'rotor']
+['salet', 'eerie', 'deere', 'renne', 'reeve', 'recce', 'rupee', 'rogue', 'rouge'] FAIL
+['salet', 'ronin', 'morro', 'roopy', 'rough']
+['salet', 'ronin', 'rondo', 'round']
+['salet', 'resee', 'reuse', 'rouse']
+['salet', 'teene', 'retie', 'rotte', 'route']
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'breer', 'ferer', 'corer', 'roger', 'rower', 'roker', 'rover'] FAIL
+['salet', 'ronin', 'morro', 'roopy', 'roofy', 'rooky', 'roguy', 'rowdy'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'breer', 'ferer', 'corer', 'roger', 'rower'] FAIL
+['salet', 'laari', 'roral', 'romal', 'royal']
+['salet', 'ronin', 'churr', 'ruddy']
+['salet', 'eerie', 'emeer', 'dreer', 'ender', 'ceder', 'order', 'heder', 'ruder'] FAIL
+['salet', 'ronin', 'churr', 'ruddy', 'rumpy', 'ruggy', 'rugby'] FAIL
+['salet', 'eerie', 'oller', 'ruler']
+['salet', 'anana', 'coria', 'parra', 'marra', 'drama', 'murra', 'rumba'] FAIL
+['salet', 'ronin', 'rumor']
+['salet', 'eerie', 'doree', 'puree', 'rupee']
+['salet', 'laari', 'roral', 'rural']
+['salet', 'tirrs', 'rorts', 'runts', 'rusts', 'rusty']
+['salet', 'saola', 'sails', 'sauls', 'sally', 'sadly']
+['salet', 'eerie', 'saree', 'saner', 'saser', 'sager', 'saber', 'safer'] FAIL
+['salet', 'taata', 'saint']
+['salet', 'anana', 'salsa', 'salal', 'salad']
+['salet', 'anana', 'salsa', 'salal', 'salol', 'salic', 'salad', 'salpa', 'sally'] FAIL
+['salet', 'anana', 'salon']
+['salet', 'anana', 'salsa']
+['salet', 'salto', 'salts', 'salty']
+['salet', 'salse', 'salle', 'salue', 'salve']
+['salet', 'anana', 'salsa', 'salal', 'salol', 'salop', 'salvo'] FAIL
+['salet', 'anana', 'saran', 'sansa', 'sanga', 'sands', 'sandy'] FAIL
+['salet', 'eerie', 'saree', 'saner']
+['salet', 'anana', 'sairs', 'samas', 'saags', 'sados', 'sauba', 'sassy', 'sappy'] FAIL
+['salet', 'anana', 'sairs', 'samas', 'saags', 'sados', 'sauba', 'sassy'] FAIL
+['salet', 'satai', 'satin']
+['salet', 'satai', 'satay', 'satyr']
+['salet', 'saine', 'sasse', 'sarge', 'sauce']
+['salet', 'anana', 'sairs', 'samas', 'saags', 'sados', 'sauba', 'sauch', 'saucy'] FAIL
+['salet', 'anana', 'sauna']
+['salet', 'sates', 'saute']
+['salet', 'anana', 'sairs', 'sacra', 'saros', 'sarod', 'sapor', 'savor'] FAIL
+['salet', 'anana', 'sairs', 'samas', 'saags', 'sados', 'sajou', 'savoy'] FAIL
+['salet', 'anana', 'sairs', 'samas', 'saags', 'sados', 'sauba', 'sassy', 'sappy', 'savvy'] FAIL
+['salet', 'saola', 'sails', 'scala', 'scall', 'scald']
+['salet', 'seral', 'slane', 'scale']
+['salet', 'saola', 'sails', 'scala', 'scall', 'scald', 'scalp'] FAIL
+['salet', 'saola', 'sails', 'scala', 'scall', 'scald', 'scalp', 'scaly'] FAIL
+['salet', 'sirra', 'sapan', 'scapa', 'scaup', 'scamp']
+['salet', 'start', 'scatt', 'scant']
+['salet', 'seare', 'soare', 'snare', 'scare']
+['salet', 'sirra', 'sorra', 'sacra', 'scars', 'scarp', 'scarf'] FAIL
+['salet', 'sirra', 'sorra', 'sacra', 'scars', 'scarp', 'scarf', 'scary'] FAIL
+['salet', 'serre', 'seine', 'scene']
+['salet', 'sient', 'stent', 'scent']
+['salet', 'orris', 'scion']
+['salet', 'orris', 'snood', 'soops', 'sooms', 'shoos', 'scoog', 'scows', 'scoff'] FAIL
+['salet', 'snool', 'sools', 'scold']
+['salet', 'serre', 'seine', 'scene', 'scone']
+['salet', 'orris', 'snood', 'shoos', 'scoop']
+['salet', 'serre', 'seine', 'suede', 'sycee', 'scope']
+['salet', 'serre', 'shere', 'snore', 'score']
+['salet', 'orris', 'sorns', 'scorn']
+['salet', 'orris', 'sorns', 'sordo', 'sopor', 'smoor', 'scour'] FAIL
+['salet', 'trior', 'stott', 'snoot', 'scoot', 'scout']
+['salet', 'snool', 'spoil', 'shorl', 'skool', 'scowl']
+['salet', 'sirra', 'sorra', 'surra', 'scran', 'scrap', 'scram'] FAIL
+['salet', 'sirra', 'sorra', 'surra', 'scran', 'scrap']
+['salet', 'eerie', 'soree', 'scree']
+['salet', 'eerie', 'serer', 'soree', 'seres', 'scree', 'screw'] FAIL
+['salet', 'orris', 'surds', 'scrum', 'scrub']
+['salet', 'orris', 'surds', 'scrum']
+['salet', 'sirra', 'sunna', 'sauba', 'scuba']
+['salet', 'seare', 'sease', 'seame', 'senna', 'seans', 'senas', 'sedan'] FAIL
+['salet', 'serre', 'seine', 'sedes', 'seeds', 'seedy']
+['salet', 'serre', 'seine', 'segue']
+['salet', 'serre', 'seine', 'seise', 'seize']
+['salet', 'eerie', 'semee', 'semen']
+['salet', 'serre', 'seine', 'sense']
+['salet', 'seare', 'sease', 'seame', 'senna', 'sessa', 'sepia'] FAIL
+['salet', 'serre', 'seres', 'sered', 'serin', 'seric', 'serif'] FAIL
+['salet', 'serre', 'seres', 'sered', 'serin', 'serge', 'serrs', 'serve', 'serry', 'serow', 'serfs', 'serks', 'serum'] FAIL
+['salet', 'serre', 'serge', 'serve']
+['salet', 'steer', 'sente', 'setts', 'setup']
+['salet', 'eerie', 'semee', 'senes', 'seyen', 'sewen', 'seven'] FAIL
+['salet', 'eerie', 'serer', 'seder', 'sefer', 'sewer', 'sever'] FAIL
+['salet', 'eerie', 'serer', 'seder', 'sefer', 'sewer']
+['salet', 'sirra', 'sapan', 'socas', 'scads', 'scams', 'scags', 'scabs', 'scaws', 'shack'] FAIL
+['salet', 'seare', 'sease', 'seame', 'seaze', 'spane', 'soave', 'shade'] FAIL
+['salet', 'sirra', 'sapan', 'socas', 'samas', 'saags', 'shaya', 'shays', 'shady'] FAIL
+['salet', 'start', 'scatt', 'spait', 'skatt', 'shaft']
+['salet', 'seare', 'sease', 'seame', 'seaze', 'spane', 'soave', 'shade', 'shake'] FAIL
+['salet', 'sirra', 'sapan', 'socas', 'samas', 'saags', 'shaya', 'shays', 'shady', 'shaky'] FAIL
+['salet', 'seral', 'slane', 'scale', 'spale', 'shale']
+['salet', 'saola', 'sails', 'scala', 'spall', 'small', 'shall'] FAIL
+['salet', 'slart', 'slant', 'spalt', 'smalt', 'shalt']
+['salet', 'seare', 'sease', 'seame', 'shame']
+['salet', 'sirra', 'sapan', 'saman', 'sanga', 'sunna', 'scans', 'shans', 'shand', 'shank'] FAIL
+['salet', 'seare', 'sease', 'seame', 'seaze', 'spane', 'scape', 'shape'] FAIL
+['salet', 'sirra', 'sorra', 'sacra', 'snars', 'spars', 'shard'] FAIL
+['salet', 'seare', 'soare', 'snare', 'scare', 'spare', 'share'] FAIL
+['salet', 'sirra', 'sorra', 'sacra', 'snars', 'spars', 'shard', 'shark'] FAIL
+['salet', 'sirra', 'sorra', 'sacra', 'snars', 'spars', 'spard', 'sharp'] FAIL
+['salet', 'seare', 'sease', 'seame', 'seaze', 'spane', 'soave', 'suave', 'shave'] FAIL
+['salet', 'saola', 'snarl', 'scail', 'spall', 'small', 'shall', 'shaul', 'shawl'] FAIL
+['salet', 'seare', 'serra', 'serai', 'scrae', 'spear', 'smear', 'shear'] FAIL
+['salet', 'eerie', 'semee', 'senes', 'snees', 'sneed', 'sheen'] FAIL
+['salet', 'eerie', 'semee', 'senes', 'sedes', 'sesey', 'swees', 'skees', 'sheep'] FAIL
+['salet', 'eerie', 'serer', 'sneer', 'speer', 'sheer']
+['salet', 'eerie', 'sheet']
+['salet', 'serre', 'seine', 'seise', 'semie', 'sepic', 'sheik'] FAIL
+['salet', 'sleer', 'seels', 'seeld', 'seely', 'snell', 'spell', 'smell', 'shell', 'shelf'] FAIL
+['salet', 'sleer', 'seels', 'seeld', 'seely', 'snell', 'spell', 'smell', 'shell'] FAIL
+['salet', 'eerie', 'sines', 'sises', 'sices', 'sides', 'sided', 'siped', 'shied'] FAIL
+['salet', 'trior', 'stint', 'shist', 'shift']
+['salet', 'serre', 'seine', 'spine', 'shine']
+['salet', 'orris', 'sinus', 'sinds', 'snips', 'shins', 'shiny'] FAIL
+['salet', 'serre', 'shere', 'shire']
+['salet', 'orris', 'siris', 'smirr', 'shirr', 'shirs', 'shirk'] FAIL
+['salet', 'trior', 'snirt', 'spirt', 'shirt']
+['salet', 'saola', 'sloan', 'shoal']
+['salet', 'orris', 'snood', 'soops', 'sooms', 'shoos', 'shook', 'shock'] FAIL
+['salet', 'serre', 'seine', 'scene', 'sonne', 'shone']
+['salet', 'orris', 'snood', 'shoos', 'shook']
+['salet', 'trior', 'snoot', 'scoot', 'spoot', 'smoot', 'shoot'] FAIL
+['salet', 'serre', 'shere', 'shire', 'shore']
+['salet', 'orris', 'sorns', 'scorn', 'shorn']
+['salet', 'trior', 'snort', 'sport', 'short']
+['salet', 'trior', 'stott', 'snoot', 'scoot', 'stout', 'spout', 'smout', 'shout'] FAIL
+['salet', 'serre', 'seine', 'suede', 'sycee', 'smeke', 'sowse', 'shope', 'shove'] FAIL
+['salet', 'orris', 'snood', 'snoop', 'shoon', 'shown']
+['salet', 'orris', 'snood', 'soops', 'sooms', 'shoos', 'shook', 'shogs', 'shojo', 'shows', 'showy'] FAIL
+['salet', 'eerie', 'serer', 'soree', 'seres', 'scree', 'sered', 'spree', 'surer', 'syren', 'shrew'] FAIL
+['salet', 'orris', 'surds', 'scrum', 'sprug', 'shrub']
+['salet', 'orris', 'surds', 'scrum', 'sprug', 'shrug']
+['salet', 'orris', 'snush', 'smush', 'shush', 'shuck']
+['salet', 'trior', 'stunt', 'shunt']
+['salet', 'orris', 'snush', 'smush', 'shush']
+['salet', 'snool', 'sills', 'sculs', 'slyly', 'shyly']
+['salet', 'serre', 'seine', 'seise', 'semie', 'siege']
+['salet', 'serre', 'seine', 'seise', 'semie', 'siege', 'sieve'] FAIL
+['salet', 'trior', 'stint', 'shist', 'sicht', 'sight']
+['salet', 'sirra', 'signa', 'sigma']
+['salet', 'orris', 'sills', 'silds', 'silly', 'silky']
+['salet', 'orris', 'sills', 'silly']
+['salet', 'serre', 'seine', 'since']
+['salet', 'eerie', 'sines', 'sined', 'sinew']
+['salet', 'serre', 'seine', 'since', 'singe']
+['salet', 'eerie', 'siree', 'siren']
+['salet', 'orris', 'sinus', 'sissy']
+['salet', 'stoor', 'snits', 'sists', 'sifts', 'sixth']
+['salet', 'stoor', 'snits', 'sists', 'sifts', 'sixth', 'sixty'] FAIL
+['salet', 'setae', 'stare', 'state', 'spate', 'skate']
+['salet', 'eerie', 'siree', 'siren', 'sires', 'sider', 'spier', 'shier', 'skier'] FAIL
+['salet', 'orris', 'sinus', 'spics', 'swiss', 'shims', 'skids', 'skiff'] FAIL
+['salet', 'snool', 'sigil', 'swirl', 'spill', 'shill', 'skill'] FAIL
+['salet', 'orris', 'sinus', 'spics', 'spims', 'skimp']
+['salet', 'trior', 'snirt', 'spirt', 'shirt', 'skirt']
+['salet', 'snool', 'sills', 'sculs', 'shuls', 'skull', 'skulk'] FAIL
+['salet', 'snool', 'sigil', 'scull', 'skull']
+['salet', 'orris', 'snush', 'snugs', 'snubs', 'snuck', 'spunk', 'skunk'] FAIL
+['salet', 'saola', 'snarl', 'sials', 'scala', 'scall', 'scald', 'scalp', 'scaly', 'slack'] FAIL
+['salet', 'saola', 'snarl', 'slain']
+['salet', 'saola', 'snarl', 'slain', 'slang']
+['salet', 'slart', 'slant']
+['salet', 'saola', 'snarl', 'sials', 'scala', 'slaps', 'slams', 'slash'] FAIL
+['salet', 'setal', 'slate']
+['salet', 'sleer', 'sleep', 'sleek']
+['salet', 'sleer', 'sleep']
+['salet', 'sleet']
+['salet', 'sleet', 'slept']
+['salet', 'sleer', 'sleep', 'sloes', 'sleek', 'slice']
+['salet', 'snool', 'sills', 'sigil', 'silds', 'slips', 'slims', 'slish', 'slily', 'slick'] FAIL
+['salet', 'sleer', 'sleep', 'sloes', 'sleek', 'slice', 'slide'] FAIL
+['salet', 'sleer', 'sleep', 'sloes', 'sleek', 'slice', 'slide', 'slime'] FAIL
+['salet', 'snool', 'sills', 'sigil', 'silds', 'slips', 'slims', 'slimy'] FAIL
+['salet', 'snool', 'sling']
+['salet', 'snool', 'sling', 'slink']
+['salet', 'snool', 'sloop']
+['salet', 'sleer', 'sleep', 'slipe', 'slope']
+['salet', 'snool', 'sools', 'sloid', 'slorm', 'sloop', 'slosh'] FAIL
+['salet', 'stilt', 'sloot', 'slots', 'sloth']
+['salet', 'snool', 'sills', 'slurs', 'slums', 'slump']
+['salet', 'snool', 'sling', 'slung']
+['salet', 'snool', 'sling', 'slunk']
+['salet', 'snool', 'sills', 'slurs', 'slurp']
+['salet', 'snool', 'sills', 'slurs', 'slums', 'slush']
+['salet', 'snool', 'sills', 'sculs', 'slyly']
+['salet', 'sirra', 'sapan', 'socas', 'scads', 'scams', 'smack'] FAIL
+['salet', 'saola', 'sails', 'scala', 'spall', 'small']
+['salet', 'start', 'scart', 'spart', 'smart']
+['salet', 'sirra', 'sapan', 'socas', 'samas', 'shama', 'shams', 'smash'] FAIL
+['salet', 'seare', 'serra', 'serai', 'scrae', 'spear', 'smear'] FAIL
+['salet', 'sleer', 'seels', 'seeld', 'seely', 'snell', 'spell', 'smell'] FAIL
+['salet', 'sleet', 'slept', 'smelt']
+['salet', 'sleer', 'seels', 'selle', 'soole', 'sidle', 'spile', 'smile'] FAIL
+['salet', 'orris', 'siris', 'smirr', 'smirs', 'smirk']
+['salet', 'steer', 'sente', 'suete', 'soote', 'spite', 'smite'] FAIL
+['salet', 'stoor', 'snits', 'suits', 'spits', 'smits', 'smith'] FAIL
+['salet', 'orris', 'snood', 'soops', 'sooms', 'smoko', 'smock'] FAIL
+['salet', 'serre', 'seine', 'suede', 'sycee', 'smeke', 'smoke'] FAIL
+['salet', 'orris', 'snood', 'soops', 'sooms', 'smoko', 'smoky'] FAIL
+['salet', 'steer', 'sente', 'suete', 'soote', 'smote']
+['salet', 'sirra', 'sapan', 'saman', 'sanga', 'sunna', 'scans', 'scand', 'snack'] FAIL
+['salet', 'saola', 'snarl', 'snail']
+['salet', 'seare', 'sease', 'seame', 'seaze', 'spane', 'snake'] FAIL
+['salet', 'sirra', 'sapan', 'saman', 'sanga', 'sunna', 'scans', 'shans', 'snabs', 'snaws', 'snaky'] FAIL
+['salet', 'seare', 'soare', 'snare']
+['salet', 'saola', 'snarl']
+['salet', 'seare', 'sease', 'saine', 'senna', 'sanes', 'seans', 'senas', 'sedan', 'sneap', 'sneak'] FAIL
+['salet', 'eerie', 'serer', 'sneer']
+['salet', 'serre', 'seine', 'snide']
+['salet', 'orris', 'sinus', 'sinds', 'snips', 'snigs', 'snibs', 'snick', 'sniff'] FAIL
+['salet', 'serre', 'seine', 'snide', 'snipe']
+['salet', 'orris', 'snood', 'snoop']
+['salet', 'serre', 'shere', 'snore']
+['salet', 'trior', 'snort']
+['salet', 'trior', 'stott', 'snoot', 'snout']
+['salet', 'orris', 'snood', 'snoop', 'snook', 'snogs', 'snobs', 'snows', 'snowy'] FAIL
+['salet', 'orris', 'snush', 'snugs', 'snubs', 'snuck']
+['salet', 'orris', 'snush', 'snugs', 'snubs', 'snuck', 'snuff'] FAIL
+['salet', 'sirra', 'sapan', 'scapa', 'soaps', 'soapy']
+['salet', 'eerie', 'serer', 'sneer', 'sorer', 'soger', 'sober'] FAIL
+['salet', 'orris', 'snood', 'soops', 'sooms', 'sooks', 'sojus', 'sowfs', 'soggy'] FAIL
+['salet', 'solar']
+['salet', 'orris', 'solid']
+['salet', 'selle', 'solde', 'solve']
+['salet', 'sirra', 'sorra', 'sonar']
+['salet', 'orris', 'sonic']
+['salet', 'stoor', 'stoit', 'stott', 'soots', 'sooth']
+['salet', 'stoor', 'stoit', 'stott', 'soots', 'sooth', 'sooty'] FAIL
+['salet', 'orris', 'sorns', 'sordo', 'sorgo', 'sorus', 'sorry'] FAIL
+['salet', 'orris', 'snood', 'sound']
+['salet', 'stoor', 'stoit', 'stott', 'soots', 'sooth', 'south'] FAIL
+['salet', 'eerie', 'serer', 'sneer', 'sorer', 'soger', 'sober', 'sower'] FAIL
+['salet', 'seare', 'sease', 'seame', 'seaze', 'spane', 'space'] FAIL
+['salet', 'seare', 'sease', 'seame', 'seaze', 'spane', 'space', 'spade'] FAIL
+['salet', 'sirra', 'sapan', 'snaps', 'spans', 'spang', 'spank'] FAIL
+['salet', 'seare', 'soare', 'snare', 'scare', 'spare']
+['salet', 'sirra', 'sorra', 'sacra', 'snars', 'spars', 'spard', 'spark'] FAIL
+['salet', 'sirra', 'sapan', 'scapa', 'soaps', 'spaza', 'spams', 'spasm'] FAIL
+['salet', 'sirra', 'sapan', 'spawn']
+['salet', 'seare', 'sease', 'saine', 'seame', 'sasse', 'sessa', 'seaze', 'sades', 'spaes', 'space', 'spake', 'speak'] FAIL
+['salet', 'seare', 'serra', 'serai', 'scrae', 'spear']
+['salet', 'serre', 'seine', 'sedes', 'seeps', 'sheep', 'seepy', 'speos', 'specs', 'speck'] FAIL
+['salet', 'eerie', 'semee', 'senes', 'sedes', 'speed']
+['salet', 'sleer', 'seels', 'seeld', 'seely', 'snell', 'spell'] FAIL
+['salet', 'sleet', 'slept', 'spelt']
+['salet', 'serre', 'seine', 'scene', 'skene', 'syens', 'spend'] FAIL
+['salet', 'sient', 'stent', 'scent', 'suent', 'spent']
+['salet', 'serre', 'seers', 'shere', 'suers', 'skers', 'sperm'] FAIL
+['salet', 'serre', 'seine', 'seise', 'seize', 'spice']
+['salet', 'orris', 'sinus', 'spics', 'spicy']
+['salet', 'eerie', 'sines', 'sises', 'sices', 'sides', 'sided', 'siped', 'spied'] FAIL
+['salet', 'sleer', 'seles', 'solei', 'silen', 'siles', 'siled', 'spiel'] FAIL
+['salet', 'serre', 'seine', 'seise', 'seize', 'spice', 'spide', 'spike'] FAIL
+['salet', 'orris', 'sinus', 'spics', 'spims', 'spifs', 'spiks', 'spiky'] FAIL
+['salet', 'snool', 'sigil', 'swirl', 'spill']
+['salet', 'stilt', 'spilt']
+['salet', 'serre', 'seine', 'spine']
+['salet', 'orris', 'sinus', 'sinds', 'snips', 'spins', 'spiny'] FAIL
+['salet', 'serre', 'shere', 'snore', 'spire']
+['salet', 'steer', 'sente', 'suete', 'soote', 'spite']
+['salet', 'splat']
+['salet', 'trior', 'split']
+['salet', 'snool', 'spoil']
+['salet', 'serre', 'seine', 'suede', 'sycee', 'smeke', 'spoke'] FAIL
+['salet', 'orris', 'snood', 'shoos', 'scoop', 'spoom', 'spoof'] FAIL
+['salet', 'orris', 'snood', 'shoos', 'scoop', 'spoom', 'spoof', 'spook'] FAIL
+['salet', 'snool', 'spool']
+['salet', 'orris', 'snood', 'snoop', 'spoon']
+['salet', 'serre', 'shere', 'snore', 'score', 'spore']
+['salet', 'trior', 'snort', 'sport']
+['salet', 'trior', 'stott', 'snoot', 'scoot', 'stout', 'spout'] FAIL
+['salet', 'sirra', 'sorra', 'surra', 'scran', 'sprad', 'sprag', 'spray'] FAIL
+['salet', 'eerie', 'soree', 'scree', 'spree']
+['salet', 'orris', 'siris', 'sirih', 'scrip', 'sprig']
+['salet', 'orris', 'snush', 'snugs', 'snubs', 'snuck', 'spunk'] FAIL
+['salet', 'orris', 'scurs', 'spurn']
+['salet', 'trior', 'strut', 'sturt', 'spurt']
+['salet', 'sirra', 'sapan', 'socas', 'samas', 'sagas', 'sawah', 'subas', 'skuas', 'squad'] FAIL
+['salet', 'start', 'saint', 'stoat', 'squat']
+['salet', 'orris', 'squid', 'squib']
+['salet', 'satai', 'starr', 'stats', 'staun', 'staps', 'stash', 'stags', 'stabs', 'stays', 'staws', 'stack'] FAIL
+['salet', 'satai', 'starr', 'stats', 'staun', 'staps', 'stash', 'stags', 'stabs', 'stays', 'staws', 'stack', 'staff'] FAIL
+['salet', 'setae', 'stare', 'state', 'stane', 'stade', 'stage'] FAIL
+['salet', 'satai', 'sitar', 'stoai', 'stain', 'staid']
+['salet', 'satai', 'sitar', 'stoai', 'stain']
+['salet', 'satai', 'sitar', 'stair']
+['salet', 'setae', 'stare', 'state', 'stane', 'stade', 'stage', 'stake'] FAIL
+['salet', 'setal', 'slate', 'stale']
+['salet', 'slart', 'slant', 'slats', 'stall', 'stalk']
+['salet', 'slart', 'slant', 'slats', 'stall']
+['salet', 'satai', 'starr', 'stats', 'staun', 'staps', 'stamp'] FAIL
+['salet', 'satai', 'starr', 'stats', 'staun', 'stand']
+['salet', 'satai', 'starr', 'stats', 'staun', 'stand', 'stang', 'stank'] FAIL
+['salet', 'setae', 'stare']
+['salet', 'satai', 'starr', 'start', 'starn', 'stars', 'stark'] FAIL
+['salet', 'start']
+['salet', 'satai', 'starr', 'stats', 'staun', 'staps', 'stash'] FAIL
+['salet', 'setae', 'stare', 'state']
+['salet', 'setae', 'stare', 'state', 'stane', 'stade', 'stage', 'stake', 'stave'] FAIL
+['salet', 'setae', 'stear', 'stean', 'stead']
+['salet', 'setae', 'stear', 'stean', 'stead', 'steam', 'steak'] FAIL
+['salet', 'setal', 'steal']
+['salet', 'setae', 'stear', 'stean', 'stead', 'steam']
+['salet', 'steer', 'steen', 'steed']
+['salet', 'sleet', 'steel']
+['salet', 'steer', 'steen', 'steed', 'steep']
+['salet', 'steer']
+['salet', 'steer', 'steen', 'stein']
+['salet', 'steer', 'stere', 'stern']
+['salet', 'stoor', 'sting', 'stims', 'stich', 'stick']
+['salet', 'stoor', 'sting', 'stims', 'stich', 'stiff']
+['salet', 'stilt', 'still']
+['salet', 'stilt']
+['salet', 'stoor', 'sting']
+['salet', 'stoor', 'sting', 'stink']
+['salet', 'trior', 'stint']
+['salet', 'stoor', 'stoit', 'stott', 'stonn', 'stots', 'stoss', 'stout', 'stood', 'stoop', 'stook', 'stock'] FAIL
+['salet', 'stoor', 'stoit', 'stoic']
+['salet', 'steer', 'steen', 'stede', 'steme', 'stipe', 'styte', 'stoke'] FAIL
+['salet', 'sleet', 'steel', 'stele', 'stile', 'stole']
+['salet', 'stoor', 'stoit', 'stott', 'stonn', 'stots', 'stoss', 'stout', 'stood', 'stoop', 'stomp'] FAIL
+['salet', 'steer', 'steen', 'stein', 'steno', 'stone']
+['salet', 'stoor', 'stoit', 'stott', 'stonn', 'stond', 'stong', 'stony'] FAIL
+['salet', 'stoor', 'stood']
+['salet', 'stilt', 'stool']
+['salet', 'stoor', 'stood', 'stoop']
+['salet', 'steer', 'stere', 'stire', 'store']
+['salet', 'stoor', 'stour', 'storm', 'story', 'stork']
+['salet', 'stoor', 'stour', 'storm']
+['salet', 'stoor', 'stour', 'storm', 'story']
+['salet', 'trior', 'stott', 'stout']
+['salet', 'steer', 'steen', 'stede', 'steme', 'stipe', 'styte', 'stoke', 'stove'] FAIL
+['salet', 'satai', 'stoat', 'strad', 'strap']
+['salet', 'satai', 'stoat', 'strad', 'strap', 'strag', 'stray', 'straw'] FAIL
+['salet', 'satai', 'stoat', 'strad', 'strap', 'strag', 'stray'] FAIL
+['salet', 'stoor', 'stirs', 'stirp', 'strip']
+['salet', 'trior', 'strut']
+['salet', 'stoor', 'sting', 'studs', 'stums', 'stubs', 'stuck'] FAIL
+['salet', 'stoor', 'sting', 'studs', 'study']
+['salet', 'stoor', 'sting', 'studs', 'stums', 'stubs', 'stuck', 'stuff'] FAIL
+['salet', 'stoor', 'sting', 'studs', 'stums', 'stump']
+['salet', 'stoor', 'sting', 'stung']
+['salet', 'stoor', 'sting', 'stuns', 'stunk']
+['salet', 'trior', 'stunt']
+['salet', 'sleet', 'steel', 'stele', 'stile', 'stole', 'style'] FAIL
+['salet', 'seare', 'sease', 'seame', 'seaze', 'spane', 'soave', 'suave'] FAIL
+['salet', 'sirra', 'sorra', 'sacra', 'snars', 'surra', 'suras', 'surah', 'sugar'] FAIL
+['salet', 'orris', 'sinus', 'sunis', 'suing']
+['salet', 'steer', 'sente', 'suete', 'suite']
+['salet', 'orris', 'sully', 'sulky']
+['salet', 'orris', 'sully']
+['salet', 'sirra', 'sapan', 'socas', 'sumac']
+['salet', 'orris', 'snush', 'sunny']
+['salet', 'eerie', 'serer', 'sneer', 'sorer', 'seder', 'speer', 'spuer', 'super'] FAIL
+['salet', 'eerie', 'serer', 'sorer', 'surer']
+['salet', 'serre', 'siree', 'soree', 'scree', 'spree', 'serge', 'surge'] FAIL
+['salet', 'snool', 'sills', 'sculs', 'surly']
+['salet', 'orris', 'sinus', 'suids', 'succi', 'sushi']
+['salet', 'sirra', 'sains', 'saiga', 'shiai', 'sakai', 'scapi', 'swami'] FAIL
+['salet', 'sirra', 'sapan', 'scapa', 'soaps', 'spaza', 'spams', 'swamp'] FAIL
+['salet', 'sirra', 'sorra', 'sacra', 'snars', 'spars', 'shard', 'smarm', 'swarm'] FAIL
+['salet', 'sirra', 'sapan', 'socas', 'samas', 'saags', 'shaya', 'shads', 'shahs', 'shash', 'swash'] FAIL
+['salet', 'satai', 'starr', 'stats', 'scatt', 'snath', 'swath'] FAIL
+['salet', 'seare', 'serra', 'serai', 'scrae', 'spear', 'smear', 'shear', 'swear'] FAIL
+['salet', 'sceat', 'speat', 'sweat']
+['salet', 'eerie', 'semee', 'senes', 'sedes', 'sesey', 'swees', 'sweep'] FAIL
+['salet', 'eerie', 'sheet', 'sweet']
+['salet', 'sleer', 'seels', 'seeld', 'seely', 'snell', 'spell', 'smell', 'shell', 'swell'] FAIL
+['salet', 'sient', 'stept', 'swept']
+['salet', 'trior', 'stint', 'shist', 'swift']
+['salet', 'snool', 'sigil', 'swirl', 'swill']
+['salet', 'serre', 'seine', 'spine', 'shine', 'swine']
+['salet', 'orris', 'sinus', 'sinds', 'snips', 'shins', 'skins', 'swing'] FAIL
+['salet', 'snool', 'sigil', 'swirl']
+['salet', 'orris', 'sinus', 'spics', 'swiss', 'swish']
+['salet', 'orris', 'snood', 'snoop', 'shoon', 'swoon']
+['salet', 'orris', 'snood', 'shoos', 'scoop', 'swoop']
+['salet', 'orris', 'sorns', 'sordo', 'sords', 'scrod', 'sprod', 'sword'] FAIL
+['salet', 'serre', 'shere', 'snore', 'score', 'spore', 'smore', 'swore'] FAIL
+['salet', 'orris', 'sorns', 'scorn', 'shorn', 'sworn']
+['salet', 'orris', 'snush', 'snugs', 'swung']
+['salet', 'orris', 'snood', 'synod']
+['salet', 'orris', 'surds', 'scrum', 'sprug', 'syrup']
+['salet', 'taata', 'taira', 'tanna', 'tatou', 'tatty', 'tammy', 'tacky', 'taggy', 'tabby'] FAIL
+['salet', 'talea', 'taler', 'table']
+['salet', 'taata', 'taira', 'tanna', 'tatou', 'taboo']
+['salet', 'taata', 'tarot', 'taint', 'tacit']
+['salet', 'taata', 'taira', 'tanna', 'tatou', 'tatty', 'tammy', 'tacky'] FAIL
+['salet', 'taata', 'taira', 'tanna', 'tatou', 'tatty', 'tammy', 'tacky', 'taggy', 'tabby', 'taffy'] FAIL
+['salet', 'taata', 'tarot', 'taint']
+['salet', 'eater', 'eaten', 'oaten', 'paten', 'taken']
+['salet', 'eater', 'rater', 'oater', 'tater', 'taper', 'tamer', 'taber', 'tawer', 'taker'] FAIL
+['salet', 'talar', 'talon', 'talpa', 'talma', 'talak', 'talaq', 'tally'] FAIL
+['salet', 'talar', 'talon']
+['salet', 'eater', 'rater', 'oater', 'tater', 'taper', 'tamer'] FAIL
+['salet', 'taata', 'taira', 'tanna', 'tanto', 'tango']
+['salet', 'taata', 'taira', 'tanna', 'tanto', 'tanga', 'tangy'] FAIL
+['salet', 'eater', 'rater', 'oater', 'tater', 'taper']
+['salet', 'taata', 'taira', 'tapir']
+['salet', 'taata', 'taira', 'tatar', 'tarot', 'targa', 'tarry', 'tarty', 'tardy'] FAIL
+['salet', 'taata', 'tarot']
+['salet', 'earst', 'taste']
+['salet', 'rasta', 'oasts', 'pasta', 'hasta', 'basta', 'casts', 'fasti', 'masts', 'tasty'] FAIL
+['salet', 'taata', 'tanti', 'tarty', 'tatty']
+['salet', 'taata', 'tarot', 'taint', 'taunt']
+['salet', 'taata', 'taira', 'tanna', 'taunt', 'tawny']
+['salet', 'arete', 'eaten', 'teade', 'teaze', 'teach']
+['salet', 'arete', 'eater', 'reate', 'reata', 'react', 'peart', 'heart', 'feart', 'teary'] FAIL
+['salet', 'setae', 'tease']
+['salet', 'teene', 'tepee', 'terce', 'teeth', 'teiid', 'temed', 'tewed', 'teddy'] FAIL
+['salet', 'teene', 'teeth']
+['salet', 'teene', 'tepee', 'tepid', 'tempo']
+['salet', 'eerie', 'tenet']
+['salet', 'teene', 'terne', 'tenor']
+['salet', 'ester', 'teste', 'tense']
+['salet', 'teene', 'terne', 'tenet', 'tenne', 'tenue', 'tenno', 'tenge', 'tenth'] FAIL
+['salet', 'tepee']
+['salet', 'teene', 'tepee', 'tepid']
+['salet', 'arete', 'eater', 'reate', 'reata', 'terra']
+['salet', 'ester', 'reest', 'terse']
+['salet', 'ester', 'teste', 'tests', 'testy']
+['salet', 'taata', 'tiara', 'thana', 'thang', 'thank']
+['salet', 'erect', 'tweet', 'theft']
+['salet', 'teene', 'treed', 'there', 'their']
+['salet', 'teene', 'there', 'thete', 'theme']
+['salet', 'teene', 'there']
+['salet', 'ester', 'teste', 'tense', 'toise', 'temse', 'these'] FAIL
+['salet', 'arete', 'aceta', 'pieta', 'theta']
+['salet', 'trior', 'thing', 'thick']
+['salet', 'tepee', 'treen', 'tutee', 'tweet', 'temed', 'theek', 'thief'] FAIL
+['salet', 'trior', 'thing', 'thigh']
+['salet', 'trior', 'thing']
+['salet', 'trior', 'thing', 'think']
+['salet', 'trior', 'third']
+['salet', 'trior', 'tondo', 'toyon', 'thong']
+['salet', 'trior', 'torot', 'tronc', 'thorn']
+['salet', 'ester', 'teste', 'tense', 'toise', 'touse', 'those'] FAIL
+['salet', 'tepee', 'three']
+['salet', 'tepee', 'treen', 'trier', 'treed', 'three', 'threw'] FAIL
+['salet', 'trior', 'torot', 'throb']
+['salet', 'trior', 'torot', 'throb', 'throw']
+['salet', 'trior', 'turnt', 'thrum']
+['salet', 'trior', 'tutty', 'tuktu', 'thump', 'thumb']
+['salet', 'trior', 'tutty', 'tuktu', 'thump']
+['salet', 'teene', 'tepee', 'terce', 'tutee', 'thete', 'theme', 'thyme'] FAIL
+['salet', 'taata', 'tiara']
+['salet', 'taata', 'taira', 'taiga', 'tafia', 'tomia', 'tibia'] FAIL
+['salet', 'altar', 'natal', 'total', 'tical', 'tidal']
+['salet', 'tepee', 'treen', 'trier', 'titer', 'timer', 'tiger'] FAIL
+['salet', 'trior', 'tinct', 'tight']
+['salet', 'relit', 'teloi', 'telic', 'tilde']
+['salet', 'tepee', 'treen', 'trier', 'titer', 'timer']
+['salet', 'trior', 'tinct', 'titty', 'timid']
+['salet', 'tirrs', 'titis', 'tints', 'tipis', 'tipsy']
+['salet', 'taata', 'taira', 'taint', 'tanti', 'titan']
+['salet', 'teene', 'tepee', 'terce', 'tutee', 'tithe']
+['salet', 'elite', 'litre', 'title']
+['salet', 'roast', 'toast']
+['salet', 'taata', 'taira', 'tanna', 'tatou', 'taboo', 'tacho', 'toady', 'today'] FAIL
+['salet', 'trior', 'tondo', 'toddy']
+['salet', 'tepee', 'treen', 'tween', 'token']
+['salet', 'altar', 'natal', 'notal', 'tonal']
+['salet', 'taata', 'taira', 'tanna', 'tanga', 'tonga']
+['salet', 'trior', 'tonic']
+['salet', 'trior', 'tondo', 'tooth']
+['salet', 'taata', 'taira', 'tanna', 'tatou', 'taboo', 'tacho', 'toady', 'topaz'] FAIL
+['salet', 'trior', 'tonic', 'topic']
+['salet', 'trior', 'torot', 'torch']
+['salet', 'tirrs', 'torrs', 'toros', 'torso']
+['salet', 'tirrs', 'torrs', 'toros', 'torts', 'torcs', 'torus'] FAIL
+['salet', 'altar', 'natal', 'total']
+['salet', 'tepee', 'treen', 'tutee', 'toted', 'totem']
+['salet', 'trior', 'tondo', 'tooth', 'touch']
+['salet', 'trior', 'tondo', 'tooth', 'touch', 'tough']
+['salet', 'liter', 'gleet', 'betel', 'tewel', 'towel']
+['salet', 'tepee', 'treen', 'trier', 'toter', 'toyer', 'tower'] FAIL
+['salet', 'trior', 'tonic', 'topic', 'toxic']
+['salet', 'trior', 'tonic', 'toxin']
+['salet', 'arete', 'irate', 'orate', 'crate', 'trace']
+['salet', 'taata', 'tiara', 'tratt', 'trant', 'tract', 'track'] FAIL
+['salet', 'ariot', 'tratt', 'trant', 'tract']
+['salet', 'arete', 'irate', 'orate', 'crate', 'urate', 'trade'] FAIL
+['salet', 'altar', 'artal', 'trail']
+['salet', 'taata', 'tiara', 'trait', 'train']
+['salet', 'ariot', 'trait']
+['salet', 'taata', 'tiara', 'tratt', 'trant', 'tract', 'trapt', 'tramp'] FAIL
+['salet', 'rasta', 'ratas', 'taras', 'tasar', 'tarsi', 'trass', 'trash'] FAIL
+['salet', 'altar', 'artal', 'trail', 'trawl']
+['salet', 'arete', 'arett', 'treat', 'tread']
+['salet', 'arret', 'arett', 'treat']
+['salet', 'teene', 'teend', 'trend']
+['salet', 'taata', 'taira', 'triac', 'triad']
+['salet', 'altar', 'artal', 'trial']
+['salet', 'teene', 'tepee', 'terce', 'titre', 'trite', 'tride', 'tribe'] FAIL
+['salet', 'teene', 'tepee', 'terce', 'trice']
+['salet', 'trior', 'trick']
+['salet', 'tepee', 'treen', 'trier', 'tried']
+['salet', 'teene', 'tepee', 'topee', 'tripe']
+['salet', 'teene', 'tepee', 'terce', 'titre', 'trite']
+['salet', 'lirot', 'troll']
+['salet', 'trior', 'troop']
+['salet', 'teene', 'tepee', 'topee', 'trope']
+['salet', 'trior', 'trout']
+['salet', 'teene', 'tepee', 'terce', 'titre', 'there', 'torte', 'trode', 'troke', 'trove'] FAIL
+['salet', 'teene', 'tepee', 'terce', 'trice', 'truce']
+['salet', 'trior', 'truth', 'trunk', 'truck']
+['salet', 'tepee', 'treen', 'trier', 'truer']
+['salet', 'lirot', 'trull', 'truly']
+['salet', 'trior', 'truth', 'trunk', 'trump']
+['salet', 'trior', 'truth', 'trunk']
+['salet', 'tirrs', 'torrs', 'turrs', 'turns', 'truss']
+['salet', 'roist', 'trust']
+['salet', 'trior', 'truth']
+['salet', 'roist', 'trust', 'tryst']
+['salet', 'altar', 'natal', 'total', 'tical', 'tamal', 'tubal'] FAIL
+['salet', 'tepee', 'treen', 'trier', 'toter', 'tweer', 'truer', 'tuber'] FAIL
+['salet', 'tilth', 'tilly', 'tulip']
+['salet', 'relit', 'telco', 'telex', 'tulle']
+['salet', 'trior', 'tutor', 'tumor']
+['salet', 'trior', 'tinct', 'tunic']
+['salet', 'trior', 'torot', 'torch', 'turbo']
+['salet', 'trior', 'tutor']
+['salet', 'taata', 'tiara', 'thana', 'twang']
+['salet', 'arete', 'anent', 'aceta', 'exeat', 'wheat', 'tweak'] FAIL
+['salet', 'tepee', 'treen', 'tweet', 'tweed']
+['salet', 'eerie', 'tenet', 'tweet']
+['salet', 'teene', 'tepee', 'terce', 'twice']
+['salet', 'teene', 'terne', 'tenne', 'tonne', 'thine', 'twine'] FAIL
+['salet', 'lirot', 'trill', 'thirl', 'twirl']
+['salet', 'roist', 'twist']
+['salet', 'trior', 'innit', 'twixt']
+['salet', 'trior', 'thing', 'tying']
+['salet', 'eerie', 'emeer', 'dreer', 'ender', 'ceder', 'order', 'heder', 'ruder', 'udder'] FAIL
+['salet', 'elpee', 'elder', 'iller', 'fleer', 'oller', 'elver', 'ulcer'] FAIL
+['salet', 'altar', 'ultra']
+['salet', 'anana', 'coria', 'parra', 'marra', 'murra', 'mudra', 'umbra'] FAIL
+['salet', 'neele', 'incle', 'uncle']
+['salet', 'trior', 'uncut']
+['salet', 'eerie', 'emeer', 'dreer', 'ender', 'under']
+['salet', 'ronin', 'dinic', 'undid']
+['salet', 'eerie', 'cooee', 'neeze', 'penne', 'benne', 'endue', 'undue'] FAIL
+['salet', 'eerie', 'cooee', 'eeven', 'undee', 'unbed', 'unfed'] FAIL
+['salet', 'trior', 'innit', 'inwit', 'unfit']
+['salet', 'ronin', 'dinic', 'ninny', 'pinny', 'minny', 'hinny', 'ginny', 'finny', 'unify'] FAIL
+['salet', 'ronin', 'inion', 'onion', 'union']
+['salet', 'teene', 'rente', 'yente', 'kente', 'conte', 'unite'] FAIL
+['salet', 'trior', 'thing', 'unity']
+['salet', 'trior', 'unlit']
+['salet', 'eerie', 'tenet', 'denet', 'nonet', 'genet', 'benet', 'unmet'] FAIL
+['salet', 'reset', 'inset', 'onset', 'unset']
+['salet', 'teene', 'rente', 'tenne', 'ctene', 'tenue', 'unite', 'untie'] FAIL
+['salet', 'lirot', 'intil', 'until']
+['salet', 'eerie', 'cooee', 'eeven', 'undee', 'unbed', 'unfed', 'unwed'] FAIL
+['salet', 'ronin', 'dinic', 'minim', 'unpin', 'unhip', 'unzip'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'roper', 'ryper', 'upper'] FAIL
+['salet', 'reset', 'inset', 'beset', 'coset', 'upset']
+['salet', 'anana', 'naira', 'anura', 'ruana', 'upran', 'urman', 'urban'] FAIL
+['salet', 'eerie', 'rorie', 'hiree', 'regie', 'fiere', 'eyrie', 'reive', 'crine', 'urine'] FAIL
+['salet', 'easer', 'eases', 'sease', 'cease', 'pease', 'mease', 'fease', 'seaze', 'abase', 'soave', 'snake', 'shade', 'usage'] FAIL
+['salet', 'resee', 'serer', 'sneer', 'riser', 'sorer', 'seder', 'speer', 'sheer', 'usher'] FAIL
+['salet', 'orris', 'minis', 'nisus', 'sinus', 'sunis', 'incus', 'nidus', 'suing', 'using'] FAIL
+['salet', 'alias', 'anlas', 'solar', 'salal', 'basal', 'vasal', 'usual'] FAIL
+['salet', 'orris', 'nurrs', 'currs', 'durrs', 'purrs', 'spurs', 'usurp'] FAIL
+['salet', 'elite', 'toile', 'tuile', 'utile']
+['salet', 'tepee', 'enter', 'deter', 'titer', 'meter', 'otter', 'utter'] FAIL
+['salet', 'narre', 'cadie', 'mahoe', 'gauge', 'vague']
+['salet', 'eerie', 'palet', 'valet']
+['salet', 'anana', 'aalii', 'calid', 'halid', 'valid']
+['salet', 'anana', 'aalii', 'malar', 'valor']
+['salet', 'dalle', 'walie', 'calve', 'value']
+['salet', 'dalle', 'walie', 'calve', 'halve', 'valve']
+['salet', 'anana', 'radar', 'kadai', 'zaida', 'madid', 'gadid', 'pavid', 'vapid'] FAIL
+['salet', 'anana', 'radar', 'maror', 'razor', 'payor', 'vapor'] FAIL
+['salet', 'larnt', 'dault', 'hault', 'gault', 'fault', 'vault'] FAIL
+['salet', 'taata', 'tarot', 'taint', 'taunt', 'naunt', 'daunt', 'haunt', 'gaunt', 'vaunt'] FAIL
+['salet', 'areae', 'venae', 'vegan']
+['salet', 'eerie', 'peece', 'eeven', 'venue', 'venge', 'veney', 'venom'] FAIL
+['salet', 'eerie', 'peece', 'neeze', 'benne', 'menge', 'venue'] FAIL
+['salet', 'eerie', 'cerne', 'merde', 'herye', 'gerbe', 'verge'] FAIL
+['salet', 'resee', 'serre', 'perse', 'merse', 'herse', 'verse'] FAIL
+['salet', 'resee', 'serer', 'serre', 'seres', 'ceres', 'deres', 'peres', 'serin', 'meres', 'heres', 'geres', 'serrs', 'beres', 'feres', 'serve', 'verse', 'verso'] FAIL
+['salet', 'eerie', 'cerne', 'merde', 'herye', 'gerbe', 'perve', 'kerve', 'verve'] FAIL
+['salet', 'anana', 'acari', 'coria', 'circa', 'picra', 'micra', 'vicar'] FAIL
+['salet', 'eerie', 'inned', 'eiked', 'video']
+['salet', 'linin', 'filii', 'lipid', 'civil', 'vigil']
+['salet', 'ronin', 'prior', 'rigor', 'vigor']
+['salet', 'cilia', 'milia', 'villa']
+['salet', 'linin', 'lingo', 'linny', 'lindy', 'linky', 'vinyl'] FAIL
+['salet', 'laari', 'aalii', 'lanai', 'aioli', 'viola']
+['salet', 'eerie', 'eider', 'niner', 'ricer', 'riper', 'piper', 'wiper', 'viper'] FAIL
+['salet', 'laari', 'urali', 'drail', 'prial', 'riyal', 'rival', 'viral'] FAIL
+['salet', 'orris', 'siris', 'girrs', 'pirns', 'birrs', 'yirrs', 'circs', 'firms', 'virus'] FAIL
+['salet', 'roist', 'stint', 'shist', 'visit']
+['salet', 'orris', 'irons', 'coirs', 'doris', 'miros', 'giros', 'biros', 'visor'] FAIL
+['salet', 'rasta', 'sista', 'vista']
+['salet', 'altar', 'natal', 'total', 'cital', 'dital', 'vital'] FAIL
+['salet', 'ronin', 'cippi', 'bifid', 'vivid']
+['salet', 'eerie', 'inned', 'cunei', 'piney', 'vimen', 'vixen'] FAIL
+['salet', 'laari', 'annal', 'local', 'focal', 'vocal']
+['salet', 'anana', 'coria', 'poaka', 'hooka', 'vodka']
+['salet', 'eerie', 'cooee', 'donee', 'yogee', 'bogue', 'vogue'] FAIL
+['salet', 'eerie', 'niece', 'deice', 'voice']
+['salet', 'laari', 'aalii', 'lanai', 'aioli', 'idola', 'viola', 'voila'] FAIL
+['salet', 'trior', 'nooit', 'oobit', 'vomit']
+['salet', 'tepee', 'enter', 'deter', 'titer', 'meter', 'otter', 'toter', 'voter'] FAIL
+['salet', 'ronin', 'cocco', 'cooch', 'pooch', 'mooch', 'hooch', 'couch', 'gouch', 'vouch'] FAIL
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'elver', 'elven', 'level', 'devel', 'kevel', 'hovel', 'vowel'] FAIL
+['salet', 'ronin', 'dinic', 'ninny', 'pinny', 'minny', 'hinny', 'ginny', 'nying', 'vying'] FAIL
+['salet', 'anana', 'radar', 'cacao', 'facia', 'bacca', 'yacca', 'yacka', 'cacky', 'wacky'] FAIL
+['salet', 'eerie', 'raree', 'ranee', 'rarer', 'eager', 'carer', 'darer', 'parer', 'barer', 'farer', 'fayer', 'wafer'] FAIL
+['salet', 'eerie', 'raree', 'ranee', 'rarer', 'eager', 'rager', 'cager', 'pager', 'gager', 'yager', 'wager'] FAIL
+['salet', 'anana', 'naira', 'nanna', 'canna', 'nanua', 'manna', 'napoo', 'fanon', 'wagon'] FAIL
+['salet', 'canst', 'maist', 'waist']
+['salet', 'narre', 'cadie', 'mamie', 'bagie', 'fakie', 'waive'] FAIL
+['salet', 'talar', 'talon', 'talpa', 'talma', 'balti', 'walty', 'waltz'] FAIL
+['salet', 'taata', 'aarti', 'carta', 'yarta', 'yarto', 'tarty', 'party', 'warty'] FAIL
+['salet', 'earst', 'taste', 'caste', 'paste', 'haste', 'baste', 'waste'] FAIL
+['salet', 'taata', 'aarti', 'tanna', 'tatou', 'batta', 'tatty', 'hatha', 'catch', 'patch', 'match', 'hatch', 'gatch', 'watch'] FAIL
+['salet', 'eater', 'rater', 'oater', 'tater', 'cater', 'dater', 'pater', 'mater', 'hater', 'gater', 'water'] FAIL
+['salet', 'eerie', 'raree', 'ranee', 'rarer', 'eager', 'carer', 'darer', 'parer', 'barer', 'farer', 'yarer', 'rawer', 'waker', 'waver'] FAIL
+['salet', 'eerie', 'eaned', 'oaken', 'yamen', 'paven', 'waxen'] FAIL
+['salet', 'areae', 'arere', 'deare', 'peare', 'meare', 'heare', 'geare', 'beare', 'feare', 'yearn', 'weary'] FAIL
+['salet', 'areae', 'ainee', 'cadee', 'zoeae', 'mamee', 'peage', 'heave', 'weave'] FAIL
+['salet', 'eerie', 'peece', 'neeze', 'deeve', 'geode', 'hedge', 'wedge'] FAIL
+['salet', 'eerie', 'peece', 'neeze', 'deeve', 'deedy', 'heedy', 'weedy'] FAIL
+['salet', 'eerie', 'penie', 'deice', 'beige', 'heigh', 'weigh'] FAIL
+['salet', 'eerie', 'regie', 'renin', 'reive', 'reird', 'weird'] FAIL
+['salet', 'relie', 'belle', 'deled', 'cello', 'felch', 'welch'] FAIL
+['salet', 'selle', 'deles', 'peles', 'nelis', 'heles', 'helos', 'hells', 'helms', 'welsh'] FAIL
+['salet', 'anana', 'acari', 'abaca', 'chaco', 'chack', 'whack'] FAIL
+['salet', 'laree', 'anele', 'eagle', 'abele', 'veale', 'dwale', 'whale'] FAIL
+['salet', 'anana', 'acari', 'afara', 'dwarf', 'wharf']
+['salet', 'arret', 'anent', 'exeat', 'cheat', 'wheat']
+['salet', 'elpee', 'melee', 'gelee', 'belee', 'levee', 'creel', 'kneel', 'wheel'] FAIL
+['salet', 'neele', 'obeli', 'deely', 'chelp', 'whelp']
+['salet', 'eerie', 'deere', 'brere', 'frere', 'chere', 'where'] FAIL
+['salet', 'ronin', 'cippi', 'mimic', 'civic', 'chich', 'which'] FAIL
+['salet', 'ronin', 'cippi', 'bifid', 'figgy', 'whiff']
+['salet', 'neele', 'edile', 'exile', 'moile', 'chile', 'while'] FAIL
+['salet', 'eerie', 'niece', 'diene', 'eigne', 'exine', 'ezine', 'imine', 'opine', 'whine'] FAIL
+['salet', 'ronin', 'dinic', 'ninny', 'pinny', 'minny', 'hinny', 'whiny'] FAIL
+['salet', 'linin', 'loric', 'libri', 'whirl']
+['salet', 'orris', 'minis', 'disci', 'pipis', 'sissy', 'swiss', 'swish', 'whiss', 'whish', 'whisk'] FAIL
+['salet', 'teene', 'retie', 'evite', 'boite', 'twite', 'white'] FAIL
+['salet', 'neele', 'edile', 'merle', 'belle', 'poule', 'hoyle', 'whole'] FAIL
+['salet', 'ronin', 'choco', 'whoop']
+['salet', 'resee', 'neese', 'geese', 'seise', 'feese', 'cesse', 'obese', 'moose', 'woose', 'whose'] FAIL
+['salet', 'eerie', 'inned', 'dined', 'nided', 'widen']
+['salet', 'eerie', 'eider', 'rider', 'cider', 'hider', 'bider', 'wider'] FAIL
+['salet', 'ronin', 'idiom', 'bipod', 'widow']
+['salet', 'trior', 'innit', 'tutti', 'titty', 'width']
+['salet', 'neele', 'obeli', 'field', 'yield', 'wield']
+['salet', 'trior', 'innit', 'pipit', 'digit', 'tight', 'might', 'hight', 'bight', 'fight', 'wight'] FAIL
+['salet', 'ronin', 'dilli', 'villi', 'hilly', 'gilly', 'billy', 'filly', 'willy'] FAIL
+['salet', 'ronin', 'cippi', 'dippy', 'pippy', 'hippy', 'gippy', 'yippy', 'wimpy'] FAIL
+['salet', 'eerie', 'niece', 'mince', 'yince', 'wince']
+['salet', 'ronin', 'dinic', 'vinic', 'cinch', 'pinch', 'ginch', 'finch', 'winch'] FAIL
+['salet', 'ronin', 'dinic', 'bindi', 'windy']
+['salet', 'resee', 'erses', 'reses', 'riser', 'miser', 'wiser'] FAIL
+['salet', 'orris', 'minis', 'disci', 'sissy', 'pissy', 'wispy'] FAIL
+['salet', 'trior', 'innit', 'tutti', 'ictic', 'titch', 'ditch', 'pitch', 'mitch', 'hitch', 'gitch', 'bitch', 'fitch', 'witch'] FAIL
+['salet', 'trior', 'innit', 'tutti', 'titty', 'ditty', 'bitty', 'witty'] FAIL
+['salet', 'eerie', 'cooee', 'donee', 'nomen', 'hogen', 'woken'] FAIL
+['salet', 'anana', 'naira', 'nanna', 'canna', 'nanua', 'manna', 'adman', 'amman', 'axman', 'zaman', 'woman'] FAIL
+['salet', 'eerie', 'cooee', 'donee', 'nomen', 'women']
+['salet', 'ronin', 'cocco', 'oomph', 'doody', 'goody', 'boody', 'foody', 'woody'] FAIL
+['salet', 'eerie', 'emeer', 'dreer', 'neper', 'breer', 'ferer', 'corer', 'roger', 'rower', 'wooer'] FAIL
+['salet', 'linin', 'color', 'hollo', 'goold', 'mooly', 'wooly'] FAIL
+['salet', 'ronin', 'cocco', 'oomph', 'doody', 'boogy', 'woofy', 'woozy'] FAIL
+['salet', 'ronin', 'morro', 'zorro', 'fordo', 'wordy']
+['salet', 'linin', 'color', 'dolor', 'loord', 'world']
+['salet', 'ronin', 'morro', 'zorro', 'worry']
+['salet', 'resee', 'serre', 'siree', 'soree', 'corse', 'dorse', 'morse', 'horse', 'gorse', 'worse'] FAIL
+['salet', 'roist', 'roost', 'roust', 'horst', 'worst']
+['salet', 'trior', 'rotor', 'torot', 'north', 'forth', 'worth'] FAIL
+['salet', 'linin', 'color', 'hollo', 'goold', 'woold', 'would'] FAIL
+['salet', 'ronin', 'nonny', 'moong', 'pound', 'hound', 'bound', 'found', 'wound'] FAIL
+['salet', 'eerie', 'cooee', 'donee', 'nomen', 'hogen', 'woken', 'woven'] FAIL
+['salet', 'anana', 'acari', 'chara', 'draco', 'crack', 'brack', 'frack', 'wrack'] FAIL
+['salet', 'taata', 'anata', 'riata', 'tratt', 'pratt', 'wrath'] FAIL
+['salet', 'areae', 'arear', 'aread', 'cream', 'break', 'freak', 'wreak'] FAIL
+['salet', 'eerie', 'deere', 'emeer', 'reeve', 'preen', 'breer', 'freer', 'grece', 'wreck'] FAIL
+['salet', 'reest', 'trest', 'crest', 'drest', 'prest', 'wrest'] FAIL
+['salet', 'ronin', 'ricin', 'indri', 'mirin', 'inrun', 'iring', 'bring', 'wring'] FAIL
+['salet', 'roist', 'trist', 'grist', 'frist', 'wrist']
+['salet', 'teene', 'retie', 'titre', 'trite', 'urite', 'write'] FAIL
+['salet', 'ronin', 'corno', 'porno', 'round', 'horny', 'wrong'] FAIL
+['salet', 'teene', 'retie', 'terce', 'petre', 'metre', 'there', 'rotte', 'torte', 'route', 'forte', 'wrote'] FAIL
+['salet', 'ronin', 'knurr', 'churn', 'grund', 'brung', 'wrung'] FAIL
+['salet', 'linin', 'color', 'grrrl', 'dryly', 'wryly']
+['salet', 'taata', 'tarot', 'taint', 'caput', 'yacht']
+['salet', 'areae', 'arere', 'deare', 'peare', 'meare', 'heare', 'geare', 'beare', 'feare', 'yearn'] FAIL
+['salet', 'earst', 'heast', 'beast', 'feast', 'yeast']
+['salet', 'neele', 'obeli', 'field', 'yield']
+['salet', 'ronin', 'nonny', 'nouny', 'young']
+['salet', 'trior', 'conto', 'potto', 'motto', 'tooth', 'booth', 'fouth', 'youth'] FAIL
+['salet', 'areae', 'arere', 'deare', 'peare', 'meare', 'heare', 'geare', 'beare', 'zebra'] FAIL
+['salet', 'ester', 'teste', 'geste', 'tests', 'nests', 'cesti', 'pesto', 'hests', 'testy', 'festy', 'yesty', 'zesty'] FAIL
+['salet', 'laari', 'annal', 'canal', 'banal', 'fanal', 'monal', 'zonal'] FAIL
