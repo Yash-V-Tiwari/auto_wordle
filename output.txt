@@ -1,0 +1,7 @@
+['salet', 'anana', 'acari', 'abaca', 'aback']
+['salet', 'easer', 'eases', 'sease', 'cease', 'pease', 'mease', 'fease', 'abase'] FAIL
+['salet', 'arete', 'amate', 'agate', 'abate']
+['salet', 'ainee', 'ameer', 'abcee', 'abbed', 'abbey']
+['salet', 'ariot', 'afoot', 'adbot', 'abbot']
+['salet', 'anana', 'acari', 'aurar', 'ardor', 'armor', 'arbor', 'abhor'] FAIL
+['salet', 'areae', 'ainee', 'aiyee', 'amice', 'abide']
