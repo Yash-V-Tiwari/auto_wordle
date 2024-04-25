@@ -57,11 +57,12 @@ class Solver:
     def check_word_auto(self, hidden, guess, green, yellow, gray):
         for i in range(0, 5):
             if (hidden[i] == guess[i]):
-                #if all(guess[i] not in tpl for tpl in green):
+                if not (guess[i], i) in green:
                     green.append((guess[i], i))
             elif (guess[i] in hidden):
-                yellow.append((guess[i], i))
-                self.remove_green_from_yellow(yellow, green)
+                if not (guess[i], i) in yellow:
+                    yellow.append((guess[i], i))
+                yellow  = self.remove_green_from_yellow(yellow, green)
             else:
                 if all(guess[i] not in char for char in gray):
                     gray.append(guess[i])
@@ -70,21 +71,28 @@ class Solver:
     
     # helper function that checks pos of letter
     def char_in_positions(self, string, positions):
+        string_tuple_list = [(char, index) for index, char in enumerate(string)]
+
+        pos_set = set(positions)
+        string_set = set(string_tuple_list)
+
+        return bool(pos_set & string_set)
+        # found = 0
+        # if len(positions) == 0:
+        #     return True
+        # for pos in positions:
+        #     if pos[0] == string[pos[1]]:
+        #         found += 1
+        # return found == len(positions)
+    
+    def check_green(self, string, positions):
         found = 0
         if len(positions) == 0:
             return True
         for pos in positions:
-            if pos[0] == string[pos[1]]:
-                found += 1
-        return found == len(positions)
-
-    def char_wihin(self, string, positions):
-        chars = [tpl[0] for tpl in positions]
-        not_used = [tpl[1] for tpl in positions]
-        found = 0
-        if not chars:
-            return True  
-        return all(char in string for char in chars)
+            if pos[0] != string[pos[1]]:
+                return False
+        return True
 
     # greedy algo that picks the best word from the heuristic list that meets the criteria
     def greedy(self, heuristic_list, hidden, guess):
@@ -99,13 +107,14 @@ class Solver:
             best = max(heuristic_list, key=lambda x: x[0])
 
             if not any(char in gray for char in best[1]):                
-                if not self.char_in_positions(best[1], yellow) and self.char_wihin(best[1], yellow):
-                    if self.char_in_positions(best[1], green):
+                if not self.char_in_positions(best[1], yellow):
+                    if self.check_green(best[1], green):
                         sol_list.append(best[1])
                         green, yellow, gray = self.check_word_auto(hidden, best[1], green, yellow, gray)
-                elif not yellow:
-                    sol_list.append(best[1])
-                    green, yellow, gray = self.check_word_auto(hidden, best[1], green, yellow, gray)
+                # elif not yellow:
+                #     sol_list.append(best[1])
+                #     print(green)
+                #     green, yellow, gray = self.check_word_auto(hidden, best[1], green, yellow, gray)
 
             heuristic_list.remove(best) 
 
@@ -113,27 +122,4 @@ class Solver:
                 break
 
         return sol_list
-    
-        #     sol_list = []
-        # green, yellow, gray = self.check_word_auto(hidden, guess, [], [], [])
-        # sol_list.append(guess)
-
-        # while hidden not in sol_list:
-        #     if not heuristic_list:  
-        #         break
-        
-        #     best = max(heuristic_list, key=lambda x: x[0])
-
-        #     if not any(char in gray for char in best[1]):
-        #         if not (self.char_in_positions(best[1], yellow)):
-        #             if not yellow:
-        #                 sol_list.append(best[1])
-        #                 green, yellow, gray = self.check_word_auto(hidden, best[1], green, yellow, gray)
-        #             if(self.char_in_positions(best[1], green)):
-        #                 sol_list.append(best[1])
-        #                 green, yellow, gray = self.check_word_auto(hidden, best[1], green, yellow, gray)
-
-        #     heuristic_list.remove(best) 
-
-        # return sol_list 
 

@@ -26,6 +26,8 @@ for answer in answers:
     file.write(str(temp))
     if len(temp) > 6:
         file.write(" FAIL")
+    if temp[-1] != answer.lower():
+        file.write(" WAS NOT SOLVED")
     file.write("\n")
 file.close()
 
@@ -35,4 +37,5 @@ elapsed_time = end_time - start_time
 
 print("Elapsed time:", elapsed_time, "seconds")
 
-#print(solve.greedy(penalize_heuristic_list, "whelp", "salet"))
+#print(solve.greedy(penalize_heuristic_list, "agape", "salet"))
+#print(solve.char_in_positions("uncia", [('a', 1), ('n', 0), ('i', 3), ('a', 4)])) #each unique letter not pos
