@@ -32,6 +32,45 @@ class DataProcessing:
         
         return round(value, 3)
     
+    # based on letter frequency for wordle
+    def wordle_heuristic(self, guess):
+        #table generated from: https://leancrew.com/all-this/2022/01/wordle-letters/ 
+        value = 0.0
+        table = {
+            'a' : 44.5, 'b' : 12.5, 'c' : 16.5, 'd' : 19.5,
+            'e' : 51.5, 'f' : 9.00, 'g' : 12.5, 'h' : 13.5,
+            'i' : 29.5, 'j' : 2.00, 'k' : 10.5, 'l' : 27.5,  
+            'm' : 15.0, 'n' : 22.5, 'o' : 33.5, 'p' : 15.5,
+            'q' : 1.00, 'r' : 32.5, 's' : 52.0, 't' : 26.0,
+            'u' : 19.0, 'v' : 5.50, 'w' : 7.50, 'x' : 2.50,
+            'y' : 15.5, 'z' : 3.00,
+        }
+        for char in guess:
+            if char in table:
+                value += table[char]
+        
+        return round(value, 3)
+    
+    def wordle_penalize_heuristic(self, guess):
+        #table generated from: https://leancrew.com/all-this/2022/01/wordle-letters/ 
+        value = 0.0
+        table = {
+            'a' : 44.5, 'b' : 12.5, 'c' : 16.5, 'd' : 19.5,
+            'e' : 51.5, 'f' : 9.00, 'g' : 12.5, 'h' : 13.5,
+            'i' : 29.5, 'j' : 2.00, 'k' : 10.5, 'l' : 27.5,  
+            'm' : 15.0, 'n' : 22.5, 'o' : 33.5, 'p' : 15.5,
+            'q' : 1.00, 'r' : 32.5, 's' : 52.0, 't' : 26.0,
+            'u' : 19.0, 'v' : 5.50, 'w' : 7.50, 'x' : 2.50,
+            'y' : 15.5, 'z' : 3.00,
+        }
+        for char in guess:
+            if char in table:
+                value += table[char]
+                if guess.count(char) > 1:
+                    value -= (table[char]/2) 
+        
+        return round(value, 3)
+    
     def penalize_heuristic(self, guess):
         #table generated from: https://www3.nd.edu/~busiforc/handouts/cryptography/letterfrequencies.html
         value = 0.0

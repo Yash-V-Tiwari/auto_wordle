@@ -47,8 +47,11 @@ class Solver:
 
         return mask
     
-    def remove_green_from_yellow(self, main_list, reference_list):
-        return [tpl for tpl in main_list if tpl[0] not in [item[0] for item in reference_list]]
+    def remove_common_tuples(self, list1, list2):
+        set1 = set(list1)
+        set2 = set(list2)
+        common_elements = set1.intersection(set2)
+        return [elem for elem in list1 if elem not in common_elements], [elem for elem in list2 if elem not in common_elements]
 
     # check_word for automatic solving
     # green is a list of tuples that maps a char to the correct position
@@ -62,7 +65,7 @@ class Solver:
             elif (guess[i] in hidden):
                 if not (guess[i], i) in yellow:
                     yellow.append((guess[i], i))
-                yellow  = self.remove_green_from_yellow(yellow, green)
+                yellow, _  = self.remove_common_tuples(yellow, green)
             else:
                 if all(guess[i] not in char for char in gray):
                     gray.append(guess[i])
@@ -93,12 +96,30 @@ class Solver:
             if pos[0] != string[pos[1]]:
                 return False
         return True
+    
+    def char_within(self, string, positions):
+        '''chars = [tpl[0] for tpl in positions]
+        not_used = [tpl[1] for tpl in positions]
+        found = 0
+        if not chars:
+            return True  
+        return all(char in string for char in chars)'''
+        chars = [tpl[0] for tpl in positions]
+        for char in chars:
+            if char not in string:
+                return False
+        return True
 
     # greedy algo that picks the best word from the heuristic list that meets the criteria
     def greedy(self, heuristic_list, hidden, guess):
         sol_list = []
-        green, yellow, gray = self.check_word_auto(hidden, guess, [], [], [])
-        sol_list.append(guess)
+        green, yellow, gray = self.check_word_auto(hidden, guess[0], [], [], [])
+        if len(guess) == 1:
+            sol_list.append(guess[0])
+        else:
+            for entry in guess:
+                green, yellow, gray = self.check_word_auto(hidden, entry, green, yellow, gray)
+                sol_list.append(entry)
 
         while hidden not in sol_list:  
             if not heuristic_list:  
@@ -107,9 +128,10 @@ class Solver:
             best = max(heuristic_list, key=lambda x: x[0])
 
             if not any(char in gray for char in best[1]):                
-                if not self.char_in_positions(best[1], yellow):
+                if not self.char_in_positions(best[1], yellow) and self.char_within(best[1], yellow):
                     if self.check_green(best[1], green):
                         sol_list.append(best[1])
+                        #print(yellow)
                         green, yellow, gray = self.check_word_auto(hidden, best[1], green, yellow, gray)
                 # elif not yellow:
                 #     sol_list.append(best[1])
