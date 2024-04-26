@@ -66,7 +66,7 @@ class DataProcessing:
         for char in guess:
             if char in table:
                 value += table[char]
-                if guess.count(char) > 1:
+                if guess.count(char) > 1: # and char in ['a', 'e', 'i', 'o', 'u']
                     value -= (table[char]/2) 
         
         return round(value, 3)
@@ -86,7 +86,7 @@ class DataProcessing:
         for char in guess:
             if char in table:
                 value += table[char]
-                if guess.count(char) > 1:
+                if guess.count(char) > 1: # and char in ['a', 'e', 'i', 'o', 'u']
                     value -= (table[char]/2) 
         
         return round(value, 3)

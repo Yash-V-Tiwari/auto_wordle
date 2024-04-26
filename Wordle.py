@@ -19,7 +19,7 @@ def run(file_, seed_, func):
     answers, guesses = data.get_data()
 
     default_heuristic_list = data.get_heuristic_list(guesses=guesses, func=data.default_heuristic)                  # 1. no weighting just letter distribution from Oxford Dictionary 1995                   
-    wordle_default_heuristic_list = data.get_heuristic_list(guesses=guesses, func=data.wordle_heuristic)                    # 2. clone of default_heuristic just uses letter distribution generated from wordle
+    wordle_default_heuristic_list = data.get_heuristic_list(guesses=guesses, func=data.wordle_heuristic)            # 2. clone of default_heuristic just uses letter distribution generated from wordle
     penalize_heuristic_list = data.get_heuristic_list(guesses=guesses, func=data.penalize_heuristic)                # 3. weighting just letter distribution from Oxford Dictionary 1995
     wordle_penalize_heuristic_list = data.get_heuristic_list(guesses=guesses, func=data.wordle_penalize_heuristic)  # 4. clone of penalize_heuristic just uses letter distribution generated from wordle
 
