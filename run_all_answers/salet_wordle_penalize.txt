@@ -2307,6 +2307,15 @@
 ['salet', 'adore', 'yearn', 'zebra']
 ['salet', 'pesto', 'zesty']
 ['salet', 'coral', 'modal', 'zonal']
-Total runs: 8648.0
-Average runs to solve: 3.7453443048938935
-Elapsed time: 321.15436169999884 seconds
+
+1    | (0)
+2    | (148)
+3    | (847)
+4    | (894)
+5    | (317)
+6    | (78)
+FAIL | (25)
+
+Total Guesses: 8648.0
+Mean: 3.7453443048938935
+Elapsed time: 398.4402296000044 seconds

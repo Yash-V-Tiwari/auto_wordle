@@ -43,16 +43,22 @@ def run(file_, seed_, func):
     file = open(output_file, 'w')
     count = 0.0
 
+    graph = [0,0,0,0,0,0,0,0]
+
     start_time = time.perf_counter()
     for answer in answers:
         copy = heuristic[:]
         temp = solve.greedy(copy, answer.lower(), wordle_seed)
         count += len(temp) 
         file.write(str(temp))
-        if len(temp) > 6:
+        if len(temp) <= 6:
+            graph[len(temp)] += 1
+        elif len(temp) > 6:
+            graph[-1] += 1
             file.write(" FAIL ")
             file.write(str(len(temp)))
-        if temp[-1] != answer.lower():
+        elif temp[-1] != answer.lower():
+            graph[-1] += 1
             file.write(" WAS NOT SOLVED")
         file.write("\n")
 
@@ -60,11 +66,19 @@ def run(file_, seed_, func):
 
     elapsed_time = end_time - start_time
 
-    file.write("Total runs: ")
+    file.write("\n")
+    for i in range(1, len(graph)):
+        if i <=6:
+            file.write(f'{i}    | ({graph[i]})\n')
+        else:
+            file.write(f'FAIL | ({graph[i]})\n')
+    file.write("\n")    
+
+    file.write("Total Guesses: ")
     file.write(str(count))
     file.write("\n")
 
-    file.write("Average runs to solve: ")
+    file.write("Mean: ")
     file.write(str(count / 2309))
     file.write("\n")
 
@@ -86,7 +100,11 @@ args_list = [
     ("three_best_default", "raise clout nymph", "1"),
     ("three_best_wordle_default", "raise clout nymph", "2"),
     ("three_best_penalize", "raise clout nymph", "3"),
-    ("three_best_wordle_penalize", "raise clout nymph", "4")
+    ("three_best_wordle_penalize", "raise clout nymph", "4"),
+    ("adieu_default", "adieu", "1"),
+    ("adieu_wordle_default", "adieu", "2"),
+    ("adieu_penalize", "adieu", "3"),
+    ("adieu_wordle_penalize", "adieu", "4")
 ]
 
 processes = []

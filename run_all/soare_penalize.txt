@@ -2307,6 +2307,15 @@
 ['soare', 'alert', 'hejra', 'zebra']
 ['soare', 'inset', 'lests', 'pesty', 'festy', 'zesty']
 ['soare', 'notal', 'monal', 'zonal']
-Total runs: 10527.0
-Average runs to solve: 4.5591165006496315
-Elapsed time: 9573.58147460001 seconds
+
+1    | (0)
+2    | (38)
+3    | (437)
+4    | (814)
+5    | (564)
+6    | (262)
+FAIL | (194)
+
+Total Guesses: 10527.0
+Mean: 4.5591165006496315
+Elapsed time: 11887.459855700028 seconds

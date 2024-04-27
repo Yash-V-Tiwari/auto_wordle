@@ -2307,6 +2307,15 @@
 ['salet', 'arena', 'zebra']
 ['salet', 'terse', 'pesto', 'zesty']
 ['salet', 'iliac', 'rural', 'loyal', 'zonal']
-Total runs: 9106.0
-Average runs to solve: 3.9436985708098744
-Elapsed time: 319.73523770002066 seconds
+
+1    | (0)
+2    | (148)
+3    | (692)
+4    | (854)
+5    | (433)
+6    | (135)
+FAIL | (47)
+
+Total Guesses: 9106.0
+Mean: 3.9436985708098744
+Elapsed time: 388.81631939997897 seconds

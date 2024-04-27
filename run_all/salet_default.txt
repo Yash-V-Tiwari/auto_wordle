@@ -2307,6 +2307,15 @@
 ['salet', 'areae', 'ceria', 'regna', 'hejra', 'zebra']
 ['salet', 'teers', 'geste', 'cesti', 'pesto', 'festy', 'yesty', 'zesty'] FAIL 8
 ['salet', 'liana', 'annal', 'urnal', 'monal', 'zonal']
-Total runs: 11271.0
-Average runs to solve: 4.881333910783889
-Elapsed time: 9754.296143999993 seconds
+
+1    | (0)
+2    | (42)
+3    | (284)
+4    | (678)
+5    | (657)
+6    | (366)
+FAIL | (282)
+
+Total Guesses: 11271.0
+Mean: 4.881333910783889
+Elapsed time: 12047.800046399992 seconds

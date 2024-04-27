@@ -2307,6 +2307,15 @@
 ['salet', 'areic', 'porae', 'dearn', 'hejra', 'zebra']
 ['salet', 'tiers', 'coste', 'pesty', 'festy', 'zesty']
 ['salet', 'loran', 'nodal', 'monal', 'zonal']
-Total runs: 10434.0
-Average runs to solve: 4.518839324382849
-Elapsed time: 9609.370773100003 seconds
+
+1    | (0)
+2    | (44)
+3    | (417)
+4    | (838)
+5    | (580)
+6    | (269)
+FAIL | (161)
+
+Total Guesses: 10434.0
+Mean: 4.518839324382849
+Elapsed time: 11879.837271899974 seconds
