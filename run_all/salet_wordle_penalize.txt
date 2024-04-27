@@ -2307,6 +2307,15 @@
 ['salet', 'adore', 'yearn', 'hejra', 'zebra']
 ['salet', 'estro', 'teins', 'pesty', 'festy', 'zesty']
 ['salet', 'loran', 'nodal', 'monal', 'zonal']
-Total runs: 10510.0
-Average runs to solve: 4.551754006063231
-Elapsed time: 5621.017278199986 seconds
+
+1    | (0)
+2    | (42)
+3    | (404)
+4    | (814)
+5    | (626)
+6    | (250)
+FAIL | (173)
+
+Total Guesses: 10510.0
+Mean: 4.551754006063231
+Elapsed time: 12680.28542999996 seconds

@@ -2307,6 +2307,15 @@
 ['soare', 'alert', 'zebra']
 ['soare', 'islet', 'fetus', 'zesty']
 ['soare', 'tonal', 'zonal']
-Total runs: 8884.0
-Average runs to solve: 3.847553053269814
-Elapsed time: 318.4944950999925 seconds
+
+1    | (0)
+2    | (127)
+3    | (794)
+4    | (891)
+5    | (351)
+6    | (106)
+FAIL | (40)
+
+Total Guesses: 8884.0
+Mean: 3.847553053269814
+Elapsed time: 395.32959619999747 seconds

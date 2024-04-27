@@ -2307,6 +2307,15 @@
 ['soare', 'terra', 'lepra', 'hejra', 'zebra']
 ['soare', 'epees', 'neist', 'testy', 'festy', 'yesty', 'zesty'] FAIL 7
 ['soare', 'lotta', 'nodal', 'monal', 'zonal']
-Total runs: 11524.0
-Average runs to solve: 4.99090515374621
-Elapsed time: 9774.989491999993 seconds
+
+1    | (0)
+2    | (32)
+3    | (280)
+4    | (618)
+5    | (666)
+6    | (391)
+FAIL | (322)
+
+Total Guesses: 11524.0
+Mean: 4.99090515374621
+Elapsed time: 12057.552349100006 seconds

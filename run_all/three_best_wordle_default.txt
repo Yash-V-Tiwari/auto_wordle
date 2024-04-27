@@ -416,7 +416,7 @@
 ['raise', 'clout', 'nymph', 'close']
 ['raise', 'clout', 'nymph', 'cloth']
 ['raise', 'clout', 'nymph', 'cloud']
-['raise', 'clout', 'nymph'] WAS NOT SOLVED
+['raise', 'clout']
 ['raise', 'clout', 'nymph', 'cloke', 'clove']
 ['raise', 'clout', 'nymph', 'clonk', 'clown']
 ['raise', 'clout', 'nymph', 'cluck']
@@ -1528,7 +1528,7 @@
 ['raise', 'clout', 'nymph', 'rakia', 'radii']
 ['raise', 'clout', 'nymph', 'radio']
 ['raise', 'clout', 'nymph', 'rainy']
-['raise', 'clout', 'nymph'] WAS NOT SOLVED
+['raise']
 ['raise', 'clout', 'nymph', 'rajah']
 ['raise', 'clout', 'nymph', 'rally']
 ['raise', 'clout', 'nymph', 'ralph']
@@ -2307,6 +2307,15 @@
 ['raise', 'clout', 'nymph', 'arear', 'verra', 'zebra']
 ['raise', 'clout', 'nymph', 'steys', 'testy', 'yesty', 'festy', 'zesty'] FAIL 8
 ['raise', 'clout', 'nymph', 'anglo', 'lowan', 'zonal']
-Total runs: 10714.0
-Average runs to solve: 4.640103941100043
-Elapsed time: 10416.598196799983 seconds
+
+1    | (1)
+2    | (1)
+3    | (1)
+4    | (1286)
+5    | (700)
+6    | (229)
+FAIL | (91)
+
+Total Guesses: 10711.0
+Mean: 4.638804677349502
+Elapsed time: 12868.062830899988 seconds

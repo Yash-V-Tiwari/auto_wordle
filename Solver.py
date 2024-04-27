@@ -120,6 +120,8 @@ class Solver:
             for entry in guess:
                 green, yellow, gray = self.check_word_auto(hidden, entry, green, yellow, gray)
                 sol_list.append(entry)
+                if hidden in sol_list:
+                    return sol_list
 
         while hidden not in sol_list:  
             if not heuristic_list:  

@@ -2307,6 +2307,15 @@
 ['soare', 'terra', 'zebra']
 ['soare', 'beset', 'testy', 'zesty']
 ['soare', 'total', 'local', 'zonal']
-Total runs: 9270.0
-Average runs to solve: 4.0147249891728025
-Elapsed time: 317.3530367000203 seconds
+
+1    | (0)
+2    | (127)
+3    | (680)
+4    | (843)
+5    | (433)
+6    | (163)
+FAIL | (63)
+
+Total Guesses: 9270.0
+Mean: 4.0147249891728025
+Elapsed time: 393.09547170001315 seconds

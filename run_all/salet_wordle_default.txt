@@ -2307,6 +2307,15 @@
 ['salet', 'areae', 'deair', 'verra', 'hejra', 'zebra']
 ['salet', 'rests', 'teste', 'pesto', 'cesti', 'yesty', 'festy', 'zesty'] FAIL 8
 ['salet', 'alaap', 'roral', 'local', 'nodal', 'monal', 'zonal'] FAIL 7
-Total runs: 11280.0
-Average runs to solve: 4.885231702035513
-Elapsed time: 10406.882876100019 seconds
+
+1    | (0)
+2    | (45)
+3    | (277)
+4    | (680)
+5    | (651)
+6    | (376)
+FAIL | (280)
+
+Total Guesses: 11280.0
+Mean: 4.885231702035513
+Elapsed time: 12872.478285899968 seconds

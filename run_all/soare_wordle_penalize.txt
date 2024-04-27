@@ -2307,6 +2307,15 @@
 ['soare', 'alert', 'hejra', 'zebra']
 ['soare', 'islet', 'dents', 'pesty', 'festy', 'zesty']
 ['soare', 'dolia', 'notal', 'monal', 'zonal']
-Total runs: 10677.0
-Average runs to solve: 4.6240796881767
-Elapsed time: 5637.038708600012 seconds
+
+1    | (0)
+2    | (38)
+3    | (415)
+4    | (791)
+5    | (576)
+6    | (267)
+FAIL | (222)
+
+Total Guesses: 10677.0
+Mean: 4.6240796881767
+Elapsed time: 12697.52949039999 seconds

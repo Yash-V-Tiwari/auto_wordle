@@ -2307,6 +2307,15 @@
 ['salet', 'crane', 'opera', 'zebra']
 ['salet', 'pesto', 'zesty']
 ['salet', 'coral', 'zonal']
-Total runs: 8652.0
-Average runs to solve: 3.747076656561282
-Elapsed time: 318.0146311999997 seconds
+
+1    | (0)
+2    | (148)
+3    | (847)
+4    | (891)
+5    | (315)
+6    | (83)
+FAIL | (25)
+
+Total Guesses: 8652.0
+Mean: 3.747076656561282
+Elapsed time: 395.991775100003 seconds
